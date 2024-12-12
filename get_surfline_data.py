@@ -5,16 +5,23 @@ import os
 
 # Helium Integration
 #
-# from helium import *
+from helium import *
 
-# start_chrome(
-#     "https://www.surfline.com/surf-report/river-jetties/5842041f4e65fad6a77088ee?camId=5834a0223421b20545c4b581"
-# )
-# time.sleep(3)
-# kill_browser()
+
+# TODO:
+#
+# make this a page and convert urls to a multi-select list
+# make a long executing page with timer as progress in session state
+# use_helium checkbox
 
 
 def get_all_data():
+
+    start_chrome(
+        "https://www.surfline.com/surf-report/river-jetties/5842041f4e65fad6a77088ee?camId=5834a0223421b20545c4b581"
+    )
+    kill_browser()
+
     s = requests.Session()
 
     # get 5 days of wave conditions
@@ -30,6 +37,8 @@ def get_all_data():
         "sunlight": "https://services.surfline.com/kbyg/spots/forecasts/sunlight?spotId=5842041f4e65fad6a77088ee&days=16&intervalHours=1",
         "tides": "https://services.surfline.com/kbyg/spots/forecasts/tides?spotId=5842041f4e65fad6a77088ee&days=6&cacheEnabled=true&units%5BtideHeight%5D=FT",
         "weather": "https://services.surfline.com/kbyg/spots/forecasts/weather?spotId=5842041f4e65fad6a77088ee&days=16&intervalHours=1&cacheEnabled=true&units%5Btemperature%5D=F",
+        "nearby": "https://services.surfline.com/kbyg/spots/nearby?spotId=5842041f4e65fad6a77088ee",
+        "reports": "https://services.surfline.com/kbyg/spots/reports?spotId=5842041f4e65fad6a77088ee",
     }
 
     timestamp = int(time.time())

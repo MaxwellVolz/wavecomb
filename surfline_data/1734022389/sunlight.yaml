@@ -1,0 +1,174 @@
+associated:
+  location:
+    lat: 33.62778647706099
+    lon: -117.95939
+data:
+  sunlight:
+  - dawn: 1734013270
+    dawnUTCOffset: -8
+    dusk: 1734052398
+    duskUTCOffset: -8
+    midnight: 1733990400
+    midnightUTCOffset: -8
+    sunrise: 1734014923
+    sunriseUTCOffset: -8
+    sunset: 1734050745
+    sunsetUTCOffset: -8
+  - dawn: 1734099709
+    dawnUTCOffset: -8
+    dusk: 1734138814
+    duskUTCOffset: -8
+    midnight: 1734076800
+    midnightUTCOffset: -8
+    sunrise: 1734101363
+    sunriseUTCOffset: -8
+    sunset: 1734137160
+    sunsetUTCOffset: -8
+  - dawn: 1734186147
+    dawnUTCOffset: -8
+    dusk: 1734225231
+    duskUTCOffset: -8
+    midnight: 1734163200
+    midnightUTCOffset: -8
+    sunrise: 1734187802
+    sunriseUTCOffset: -8
+    sunset: 1734223576
+    sunsetUTCOffset: -8
+  - dawn: 1734272584
+    dawnUTCOffset: -8
+    dusk: 1734311650
+    duskUTCOffset: -8
+    midnight: 1734249600
+    midnightUTCOffset: -8
+    sunrise: 1734274240
+    sunriseUTCOffset: -8
+    sunset: 1734309995
+    sunsetUTCOffset: -8
+  - dawn: 1734359020
+    dawnUTCOffset: -8
+    dusk: 1734398071
+    duskUTCOffset: -8
+    midnight: 1734336000
+    midnightUTCOffset: -8
+    sunrise: 1734360677
+    sunriseUTCOffset: -8
+    sunset: 1734396415
+    sunsetUTCOffset: -8
+  - dawn: 1734445455
+    dawnUTCOffset: -8
+    dusk: 1734484493
+    duskUTCOffset: -8
+    midnight: 1734422400
+    midnightUTCOffset: -8
+    sunrise: 1734447112
+    sunriseUTCOffset: -8
+    sunset: 1734482836
+    sunsetUTCOffset: -8
+  - dawn: 1734531888
+    dawnUTCOffset: -8
+    dusk: 1734570917
+    duskUTCOffset: -8
+    midnight: 1734508800
+    midnightUTCOffset: -8
+    sunrise: 1734533546
+    sunriseUTCOffset: -8
+    sunset: 1734569260
+    sunsetUTCOffset: -8
+  - dawn: 1734618320
+    dawnUTCOffset: -8
+    dusk: 1734657342
+    duskUTCOffset: -8
+    midnight: 1734595200
+    midnightUTCOffset: -8
+    sunrise: 1734619978
+    sunriseUTCOffset: -8
+    sunset: 1734655685
+    sunsetUTCOffset: -8
+  - dawn: 1734704751
+    dawnUTCOffset: -8
+    dusk: 1734743769
+    duskUTCOffset: -8
+    midnight: 1734681600
+    midnightUTCOffset: -8
+    sunrise: 1734706409
+    sunriseUTCOffset: -8
+    sunset: 1734742111
+    sunsetUTCOffset: -8
+  - dawn: 1734791181
+    dawnUTCOffset: -8
+    dusk: 1734830197
+    duskUTCOffset: -8
+    midnight: 1734768000
+    midnightUTCOffset: -8
+    sunrise: 1734792839
+    sunriseUTCOffset: -8
+    sunset: 1734828539
+    sunsetUTCOffset: -8
+  - dawn: 1734877609
+    dawnUTCOffset: -8
+    dusk: 1734916627
+    duskUTCOffset: -8
+    midnight: 1734854400
+    midnightUTCOffset: -8
+    sunrise: 1734879267
+    sunriseUTCOffset: -8
+    sunset: 1734914969
+    sunsetUTCOffset: -8
+  - dawn: 1734964036
+    dawnUTCOffset: -8
+    dusk: 1735003058
+    duskUTCOffset: -8
+    midnight: 1734940800
+    midnightUTCOffset: -8
+    sunrise: 1734965694
+    sunriseUTCOffset: -8
+    sunset: 1735001400
+    sunsetUTCOffset: -8
+  - dawn: 1735050461
+    dawnUTCOffset: -8
+    dusk: 1735089490
+    duskUTCOffset: -8
+    midnight: 1735027200
+    midnightUTCOffset: -8
+    sunrise: 1735052119
+    sunriseUTCOffset: -8
+    sunset: 1735087833
+    sunsetUTCOffset: -8
+  - dawn: 1735136885
+    dawnUTCOffset: -8
+    dusk: 1735175924
+    duskUTCOffset: -8
+    midnight: 1735113600
+    midnightUTCOffset: -8
+    sunrise: 1735138542
+    sunriseUTCOffset: -8
+    sunset: 1735174267
+    sunsetUTCOffset: -8
+  - dawn: 1735223307
+    dawnUTCOffset: -8
+    dusk: 1735262359
+    duskUTCOffset: -8
+    midnight: 1735200000
+    midnightUTCOffset: -8
+    sunrise: 1735224964
+    sunriseUTCOffset: -8
+    sunset: 1735260703
+    sunsetUTCOffset: -8
+  - dawn: 1735309728
+    dawnUTCOffset: -8
+    dusk: 1735348795
+    duskUTCOffset: -8
+    midnight: 1735286400
+    midnightUTCOffset: -8
+    sunrise: 1735311384
+    sunriseUTCOffset: -8
+    sunset: 1735347140
+    sunsetUTCOffset: -8
+permissions:
+  data: []
+  violations:
+  - code: 4001
+    message: User does not have optional permission:sl_core-16day-forecast
+    permission:
+      name: sl_core-16day-forecast
+      required: false

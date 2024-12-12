@@ -1,0 +1,864 @@
+associated:
+  location:
+    lat: 33.62778647706099
+    lon: -117.95939
+  runInitializationTimestamp: 1733983200
+  units:
+    windSpeed: KTS
+  utcOffset: -8
+  windStation:
+    location:
+      lat: 33.62946
+      lon: -117.95608
+    name: River Jetties
+    provider: DAVIS
+data:
+  wind:
+  - direction: 180.12854
+    directionType: Onshore
+    gust: 2.39669
+    optimalScore: 2
+    speed: 2.39669
+    timestamp: 1733990400
+    utcOffset: -8
+  - direction: 192.82777
+    directionType: Onshore
+    gust: 3.27282
+    optimalScore: 2
+    speed: 3.27282
+    timestamp: 1733994000
+    utcOffset: -8
+  - direction: 170.82647
+    directionType: Onshore
+    gust: 3.02617
+    optimalScore: 2
+    speed: 3.02617
+    timestamp: 1733997600
+    utcOffset: -8
+  - direction: 140.64767
+    directionType: Cross-shore
+    gust: 4.27646
+    optimalScore: 2
+    speed: 4.26533
+    timestamp: 1734001200
+    utcOffset: -8
+  - direction: 192.01646
+    directionType: Onshore
+    gust: 3.88769
+    optimalScore: 2
+    speed: 3.26327
+    timestamp: 1734004800
+    utcOffset: -8
+  - direction: 189.71657
+    directionType: Onshore
+    gust: 6.41469
+    optimalScore: 2
+    speed: 4.41646
+    timestamp: 1734008400
+    utcOffset: -8
+  - direction: 219.93163
+    directionType: Onshore
+    gust: 7.38661
+    optimalScore: 2
+    speed: 4.18252
+    timestamp: 1734012000
+    utcOffset: -8
+  - direction: 218.30986
+    directionType: Onshore
+    gust: 5.44277
+    optimalScore: 2
+    speed: 3.3935
+    timestamp: 1734015600
+    utcOffset: -8
+  - direction: 181.44174
+    directionType: Onshore
+    gust: 2.83126
+    optimalScore: 2
+    speed: 2.83126
+    timestamp: 1734019200
+    utcOffset: -8
+  - direction: 161.88952
+    directionType: Cross-shore
+    gust: 5.24838
+    optimalScore: 2
+    speed: 4.01532
+    timestamp: 1734022800
+    utcOffset: -8
+  - direction: 186.28443
+    directionType: Onshore
+    gust: 6.02592
+    optimalScore: 2
+    speed: 4.96146
+    timestamp: 1734026400
+    utcOffset: -8
+  - direction: 194.70318
+    directionType: Onshore
+    gust: 7.19223
+    optimalScore: 0
+    speed: 6.55544
+    timestamp: 1734030000
+    utcOffset: -8
+  - direction: 213.76117
+    directionType: Onshore
+    gust: 7.19223
+    optimalScore: 0
+    speed: 6.66906
+    timestamp: 1734033600
+    utcOffset: -8
+  - direction: 206.40939
+    directionType: Onshore
+    gust: 6.80346
+    optimalScore: 0
+    speed: 6.41312
+    timestamp: 1734037200
+    utcOffset: -8
+  - direction: 201.23201
+    directionType: Onshore
+    gust: 5.63715
+    optimalScore: 0
+    speed: 5.39269
+    timestamp: 1734040800
+    utcOffset: -8
+  - direction: 196.88179
+    directionType: Onshore
+    gust: 5.63715
+    optimalScore: 2
+    speed: 3.92343
+    timestamp: 1734044400
+    utcOffset: -8
+  - direction: 186.25142
+    directionType: Onshore
+    gust: 6.60907
+    optimalScore: 2
+    speed: 4.86343
+    timestamp: 1734048000
+    utcOffset: -8
+  - direction: 213.18881
+    directionType: Onshore
+    gust: 11.66307
+    optimalScore: 0
+    speed: 7.7681
+    timestamp: 1734051600
+    utcOffset: -8
+  - direction: 286.63987
+    directionType: Onshore
+    gust: 11.46869
+    optimalScore: 0
+    speed: 7.75448
+    timestamp: 1734055200
+    utcOffset: -8
+  - direction: 287.98015
+    directionType: Onshore
+    gust: 8.94169
+    optimalScore: 0
+    speed: 5.94713
+    timestamp: 1734058800
+    utcOffset: -8
+  - direction: 274.16178
+    directionType: Onshore
+    gust: 7.38661
+    optimalScore: 2
+    speed: 4.75295
+    timestamp: 1734062400
+    utcOffset: -8
+  - direction: 263.91754
+    directionType: Onshore
+    gust: 7.38661
+    optimalScore: 2
+    speed: 4.38608
+    timestamp: 1734066000
+    utcOffset: -8
+  - direction: 242.12333
+    directionType: Onshore
+    gust: 6.80346
+    optimalScore: 2
+    speed: 4.25363
+    timestamp: 1734069600
+    utcOffset: -8
+  - direction: 203.79082
+    directionType: Onshore
+    gust: 6.60907
+    optimalScore: 2
+    speed: 4.78468
+    timestamp: 1734073200
+    utcOffset: -8
+  - direction: 155.22217
+    directionType: Cross-shore
+    gust: 3.37469
+    optimalScore: 2
+    speed: 3.37469
+    timestamp: 1734076800
+    utcOffset: -8
+  - direction: 111.78246
+    directionType: Offshore
+    gust: 3.3493
+    optimalScore: 2
+    speed: 3.3493
+    timestamp: 1734080400
+    utcOffset: -8
+  - direction: 91.45604
+    directionType: Offshore
+    gust: 2.72584
+    optimalScore: 2
+    speed: 2.72584
+    timestamp: 1734084000
+    utcOffset: -8
+  - direction: 6.88363
+    directionType: Offshore
+    gust: 4.66523
+    optimalScore: 2
+    speed: 4.28
+    timestamp: 1734087600
+    utcOffset: -8
+  - direction: 353.31545
+    directionType: Offshore
+    gust: 5.44277
+    optimalScore: 2
+    speed: 4.87726
+    timestamp: 1734091200
+    utcOffset: -8
+  - direction: 30.97754
+    directionType: Offshore
+    gust: 4.66523
+    optimalScore: 2
+    speed: 3.86868
+    timestamp: 1734094800
+    utcOffset: -8
+  - direction: 31.39874
+    directionType: Offshore
+    gust: 3.88769
+    optimalScore: 2
+    speed: 3.67186
+    timestamp: 1734098400
+    utcOffset: -8
+  - direction: 55.87637
+    directionType: Offshore
+    gust: 2.33261
+    optimalScore: 2
+    speed: 1.94869
+    timestamp: 1734102000
+    utcOffset: -8
+  - direction: 123.78225
+    directionType: Cross-shore
+    gust: 3.69331
+    optimalScore: 2
+    speed: 2.42033
+    timestamp: 1734105600
+    utcOffset: -8
+  - direction: 149.0385
+    directionType: Cross-shore
+    gust: 6.02592
+    optimalScore: 2
+    speed: 4.0364
+    timestamp: 1734109200
+    utcOffset: -8
+  - direction: 178.9382
+    directionType: Onshore
+    gust: 5.63715
+    optimalScore: 2
+    speed: 4.62346
+    timestamp: 1734112800
+    utcOffset: -8
+  - direction: 188.8961
+    directionType: Onshore
+    gust: 6.02592
+    optimalScore: 0
+    speed: 5.32076
+    timestamp: 1734116400
+    utcOffset: -8
+  - direction: 186.15839
+    directionType: Onshore
+    gust: 6.60907
+    optimalScore: 0
+    speed: 5.72295
+    timestamp: 1734120000
+    utcOffset: -8
+  - direction: 191.13575
+    directionType: Onshore
+    gust: 7.19223
+    optimalScore: 0
+    speed: 6.47891
+    timestamp: 1734123600
+    utcOffset: -8
+  - direction: 198.95595
+    directionType: Onshore
+    gust: 5.44277
+    optimalScore: 0
+    speed: 5.38488
+    timestamp: 1734127200
+    utcOffset: -8
+  - direction: 220.95861
+    directionType: Onshore
+    gust: 4.24266
+    optimalScore: 2
+    speed: 4.24266
+    timestamp: 1734130800
+    utcOffset: -8
+  - direction: 235.26777
+    directionType: Onshore
+    gust: 3.47982
+    optimalScore: 2
+    speed: 3.47982
+    timestamp: 1734134400
+    utcOffset: -8
+  - direction: 235.93056
+    directionType: Onshore
+    gust: 2.64902
+    optimalScore: 2
+    speed: 2.64902
+    timestamp: 1734138000
+    utcOffset: -8
+  - direction: 228.51165
+    directionType: Onshore
+    gust: 1.41025
+    optimalScore: 2
+    speed: 1.41025
+    timestamp: 1734141600
+    utcOffset: -8
+  - direction: 244.51996
+    directionType: Onshore
+    gust: 1.57065
+    optimalScore: 2
+    speed: 1.57065
+    timestamp: 1734145200
+    utcOffset: -8
+  - direction: 267.12659
+    directionType: Onshore
+    gust: 1.74946
+    optimalScore: 2
+    speed: 1.32689
+    timestamp: 1734148800
+    utcOffset: -8
+  - direction: 291.28001
+    directionType: Onshore
+    gust: 0.97192
+    optimalScore: 2
+    speed: 0.44087
+    timestamp: 1734152400
+    utcOffset: -8
+  - direction: 36.74879
+    directionType: Offshore
+    gust: 1.55508
+    optimalScore: 2
+    speed: 1.25487
+    timestamp: 1734156000
+    utcOffset: -8
+  - direction: 25.02533
+    directionType: Offshore
+    gust: 2.72138
+    optimalScore: 2
+    speed: 2.24044
+    timestamp: 1734159600
+    utcOffset: -8
+  - direction: 25.34455
+    directionType: Offshore
+    gust: 2.527
+    optimalScore: 2
+    speed: 2.08596
+    timestamp: 1734163200
+    utcOffset: -8
+  - direction: 8.64481
+    directionType: Offshore
+    gust: 2.527
+    optimalScore: 2
+    speed: 2.03915
+    timestamp: 1734166800
+    utcOffset: -8
+  - direction: 4.3979
+    directionType: Offshore
+    gust: 2.527
+    optimalScore: 2
+    speed: 2.2802
+    timestamp: 1734170400
+    utcOffset: -8
+  - direction: 359.09885
+    directionType: Offshore
+    gust: 2.72138
+    optimalScore: 2
+    speed: 2.32618
+    timestamp: 1734174000
+    utcOffset: -8
+  - direction: 334.66589
+    directionType: Cross-shore
+    gust: 2.33261
+    optimalScore: 2
+    speed: 1.8281
+    timestamp: 1734177600
+    utcOffset: -8
+  - direction: 318.38115
+    directionType: Cross-shore
+    gust: 1.94385
+    optimalScore: 2
+    speed: 1.48669
+    timestamp: 1734181200
+    utcOffset: -8
+  - direction: 322.86
+    directionType: Cross-shore
+    gust: 2.527
+    optimalScore: 2
+    speed: 1.63639
+    timestamp: 1734184800
+    utcOffset: -8
+  - direction: 347.69688
+    directionType: Offshore
+    gust: 1.94385
+    optimalScore: 2
+    speed: 1.1421
+    timestamp: 1734188400
+    utcOffset: -8
+  - direction: 252.51736
+    directionType: Onshore
+    gust: 1.36069
+    optimalScore: 2
+    speed: 0.60123
+    timestamp: 1734192000
+    utcOffset: -8
+  - direction: 270.55594
+    directionType: Onshore
+    gust: 3.49892
+    optimalScore: 2
+    speed: 2.49736
+    timestamp: 1734195600
+    utcOffset: -8
+  - direction: 252.41346
+    directionType: Onshore
+    gust: 2.13823
+    optimalScore: 2
+    speed: 2.05716
+    timestamp: 1734199200
+    utcOffset: -8
+  - direction: 82.95583
+    directionType: Offshore
+    gust: 4.09161
+    optimalScore: 2
+    speed: 3.66467
+    timestamp: 1734202800
+    utcOffset: -8
+  - direction: 88.4701
+    directionType: Offshore
+    gust: 5.08247
+    optimalScore: 2
+    speed: 2.66787
+    timestamp: 1734206400
+    utcOffset: -8
+  - direction: 145.26673
+    directionType: Cross-shore
+    gust: 4.1275
+    optimalScore: 2
+    speed: 2.71648
+    timestamp: 1734210000
+    utcOffset: -8
+  - direction: 263.4433
+    directionType: Onshore
+    gust: 12.84216
+    optimalScore: 0
+    speed: 11.73425
+    timestamp: 1734213600
+    utcOffset: -8
+  - direction: 276.15291
+    directionType: Onshore
+    gust: 12.24624
+    optimalScore: 0
+    speed: 9.98598
+    timestamp: 1734217200
+    utcOffset: -8
+  - direction: 271.90846
+    directionType: Onshore
+    gust: 9.5337
+    optimalScore: 0
+    speed: 7.33329
+    timestamp: 1734220800
+    utcOffset: -8
+  - direction: 256.15023
+    directionType: Onshore
+    gust: 6.02703
+    optimalScore: 2
+    speed: 4.39497
+    timestamp: 1734224400
+    utcOffset: -8
+  - direction: 256.44842
+    directionType: Onshore
+    gust: 5.63782
+    optimalScore: 2
+    speed: 4.0908
+    timestamp: 1734228000
+    utcOffset: -8
+  - direction: 256.8705
+    directionType: Onshore
+    gust: 7.04483
+    optimalScore: 2
+    speed: 4.84995
+    timestamp: 1734231600
+    utcOffset: -8
+  - direction: 266.65794
+    directionType: Onshore
+    gust: 6.41469
+    optimalScore: 2
+    speed: 3.70698
+    timestamp: 1734235200
+    utcOffset: -8
+  - direction: 298.49473
+    directionType: Cross-shore
+    gust: 4.86023
+    optimalScore: 2
+    speed: 2.80061
+    timestamp: 1734238800
+    utcOffset: -8
+  - direction: 229.3774
+    directionType: Onshore
+    gust: 1.97735
+    optimalScore: 2
+    speed: 1.36496
+    timestamp: 1734242400
+    utcOffset: -8
+  - direction: 250.12866
+    directionType: Onshore
+    gust: 2.96693
+    optimalScore: 2
+    speed: 2.61967
+    timestamp: 1734246000
+    utcOffset: -8
+  - direction: 290.15469
+    directionType: Onshore
+    gust: 2.74269
+    optimalScore: 2
+    speed: 2.40987
+    timestamp: 1734249600
+    utcOffset: -8
+  - direction: 326.61122
+    directionType: Cross-shore
+    gust: 4.09223
+    optimalScore: 2
+    speed: 3.18412
+    timestamp: 1734253200
+    utcOffset: -8
+  - direction: 15.96807
+    directionType: Offshore
+    gust: 3.30454
+    optimalScore: 2
+    speed: 2.72264
+    timestamp: 1734256800
+    utcOffset: -8
+  - direction: 76.00105
+    directionType: Offshore
+    gust: 3.73716
+    optimalScore: 2
+    speed: 3.28173
+    timestamp: 1734260400
+    utcOffset: -8
+  - direction: 64.10163
+    directionType: Offshore
+    gust: 3.31201
+    optimalScore: 2
+    speed: 2.89582
+    timestamp: 1734264000
+    utcOffset: -8
+  - direction: 355.13589
+    directionType: Offshore
+    gust: 1.55826
+    optimalScore: 2
+    speed: 1.5351
+    timestamp: 1734267600
+    utcOffset: -8
+  - direction: 359.71872
+    directionType: Offshore
+    gust: 1.6492
+    optimalScore: 2
+    speed: 1.6492
+    timestamp: 1734271200
+    utcOffset: -8
+  - direction: 320.56026
+    directionType: Cross-shore
+    gust: 0.77866
+    optimalScore: 2
+    speed: 0.73887
+    timestamp: 1734274800
+    utcOffset: -8
+  - direction: 11.45186
+    directionType: Offshore
+    gust: 2.18777
+    optimalScore: 2
+    speed: 2.18218
+    timestamp: 1734278400
+    utcOffset: -8
+  - direction: 10.71562
+    directionType: Offshore
+    gust: 2.9518
+    optimalScore: 2
+    speed: 2.9518
+    timestamp: 1734282000
+    utcOffset: -8
+  - direction: 47.74989
+    directionType: Offshore
+    gust: 3.51172
+    optimalScore: 2
+    speed: 3.25009
+    timestamp: 1734285600
+    utcOffset: -8
+  - direction: 253.41226
+    directionType: Onshore
+    gust: 1.18005
+    optimalScore: 2
+    speed: 0.77615
+    timestamp: 1734289200
+    utcOffset: -8
+  - direction: 253.99695
+    directionType: Onshore
+    gust: 2.8493
+    optimalScore: 2
+    speed: 2.8493
+    timestamp: 1734292800
+    utcOffset: -8
+  - direction: 265.15198
+    directionType: Onshore
+    gust: 3.76471
+    optimalScore: 2
+    speed: 3.76471
+    timestamp: 1734296400
+    utcOffset: -8
+  - direction: 261.15411
+    directionType: Onshore
+    gust: 5.27247
+    optimalScore: 0
+    speed: 5.27247
+    timestamp: 1734300000
+    utcOffset: -8
+  - direction: 261.13882
+    directionType: Onshore
+    gust: 7.22244
+    optimalScore: 0
+    speed: 7.22244
+    timestamp: 1734303600
+    utcOffset: -8
+  - direction: 268.92175
+    directionType: Onshore
+    gust: 5.27727
+    optimalScore: 2
+    speed: 4.34903
+    timestamp: 1734307200
+    utcOffset: -8
+  - direction: 248.66931
+    directionType: Onshore
+    gust: 3.06044
+    optimalScore: 2
+    speed: 3.06044
+    timestamp: 1734310800
+    utcOffset: -8
+  - direction: 262.3927
+    directionType: Onshore
+    gust: 7.23537
+    optimalScore: 0
+    speed: 6.23441
+    timestamp: 1734314400
+    utcOffset: -8
+  - direction: 288.51484
+    directionType: Onshore
+    gust: 7.20155
+    optimalScore: 0
+    speed: 5.40968
+    timestamp: 1734318000
+    utcOffset: -8
+  - direction: 306.27998
+    directionType: Cross-shore
+    gust: 9.34233
+    optimalScore: 0
+    speed: 6.50653
+    timestamp: 1734321600
+    utcOffset: -8
+  - direction: 312.28385
+    directionType: Cross-shore
+    gust: 10.14404
+    optimalScore: 0
+    speed: 6.57295
+    timestamp: 1734325200
+    utcOffset: -8
+  - direction: 320.73095
+    directionType: Cross-shore
+    gust: 8.00798
+    optimalScore: 0
+    speed: 5.25607
+    timestamp: 1734328800
+    utcOffset: -8
+  - direction: 332.16531
+    directionType: Cross-shore
+    gust: 4.09659
+    optimalScore: 2
+    speed: 3.88252
+    timestamp: 1734332400
+    utcOffset: -8
+  - direction: 0.16247
+    directionType: Offshore
+    gust: 3.36566
+    optimalScore: 2
+    speed: 3.36566
+    timestamp: 1734336000
+    utcOffset: -8
+  - direction: 21.75725
+    directionType: Offshore
+    gust: 4.12322
+    optimalScore: 2
+    speed: 4.07098
+    timestamp: 1734339600
+    utcOffset: -8
+  - direction: 13.76111
+    directionType: Offshore
+    gust: 4.48647
+    optimalScore: 2
+    speed: 4.47699
+    timestamp: 1734343200
+    utcOffset: -8
+  - direction: 353.88862
+    directionType: Offshore
+    gust: 4.89659
+    optimalScore: 2
+    speed: 4.89659
+    timestamp: 1734346800
+    utcOffset: -8
+  - direction: 16.93284
+    directionType: Offshore
+    gust: 4.57454
+    optimalScore: 2
+    speed: 4.57454
+    timestamp: 1734350400
+    utcOffset: -8
+  - direction: 25.35065
+    directionType: Offshore
+    gust: 4.96047
+    optimalScore: 2
+    speed: 4.96047
+    timestamp: 1734354000
+    utcOffset: -8
+  - direction: 12.53446
+    directionType: Offshore
+    gust: 4.50304
+    optimalScore: 2
+    speed: 4.50304
+    timestamp: 1734357600
+    utcOffset: -8
+  - direction: 23.30812
+    directionType: Offshore
+    gust: 4.15108
+    optimalScore: 2
+    speed: 4.06687
+    timestamp: 1734361200
+    utcOffset: -8
+  - direction: 2.29999
+    directionType: Offshore
+    gust: 5.09227
+    optimalScore: 2
+    speed: 4.51151
+    timestamp: 1734364800
+    utcOffset: -8
+  - direction: 17.11221
+    directionType: Offshore
+    gust: 4.7206
+    optimalScore: 2
+    speed: 3.6554
+    timestamp: 1734368400
+    utcOffset: -8
+  - direction: 355.02621
+    directionType: Offshore
+    gust: 3.89824
+    optimalScore: 2
+    speed: 3.16956
+    timestamp: 1734372000
+    utcOffset: -8
+  - direction: 326.98538
+    directionType: Cross-shore
+    gust: 5.86116
+    optimalScore: 2
+    speed: 4.96344
+    timestamp: 1734375600
+    utcOffset: -8
+  - direction: 302.47853
+    directionType: Cross-shore
+    gust: 4.49151
+    optimalScore: 2
+    speed: 4.1757
+    timestamp: 1734379200
+    utcOffset: -8
+  - direction: 286.90184
+    directionType: Onshore
+    gust: 5.86319
+    optimalScore: 0
+    speed: 5.53935
+    timestamp: 1734382800
+    utcOffset: -8
+  - direction: 284.25487
+    directionType: Onshore
+    gust: 6.03062
+    optimalScore: 0
+    speed: 5.69739
+    timestamp: 1734386400
+    utcOffset: -8
+  - direction: 275.31194
+    directionType: Onshore
+    gust: 6.81003
+    optimalScore: 0
+    speed: 6.18524
+    timestamp: 1734390000
+    utcOffset: -8
+  - direction: 267.03242
+    directionType: Onshore
+    gust: 6.44072
+    optimalScore: 0
+    speed: 5.67294
+    timestamp: 1734393600
+    utcOffset: -8
+  - direction: 266.31592
+    directionType: Onshore
+    gust: 8.17073
+    optimalScore: 0
+    speed: 6.39872
+    timestamp: 1734397200
+    utcOffset: -8
+  - direction: 264.87933
+    directionType: Onshore
+    gust: 8.59331
+    optimalScore: 0
+    speed: 5.98946
+    timestamp: 1734400800
+    utcOffset: -8
+  - direction: 252.53753
+    directionType: Onshore
+    gust: 4.29119
+    optimalScore: 2
+    speed: 3.63259
+    timestamp: 1734404400
+    utcOffset: -8
+  - direction: 257.0013
+    directionType: Onshore
+    gust: 4.92456
+    optimalScore: 2
+    speed: 4.07153
+    timestamp: 1734408000
+    utcOffset: -8
+  - direction: 222.91159
+    directionType: Onshore
+    gust: 2.92853
+    optimalScore: 2
+    speed: 2.24172
+    timestamp: 1734411600
+    utcOffset: -8
+  - direction: 207.01468
+    directionType: Onshore
+    gust: 2.15106
+    optimalScore: 2
+    speed: 1.46044
+    timestamp: 1734415200
+    utcOffset: -8
+  - direction: 207.01468
+    directionType: Onshore
+    gust: 2.15106
+    optimalScore: 2
+    speed: 1.46044
+    timestamp: 1734418800
+    utcOffset: -8
+permissions:
+  data: []
+  violations:
+  - code: 4001
+    message: User does not have optional permission:sl_core-16day-forecast
+    permission:
+      name: sl_core-16day-forecast
+      required: false

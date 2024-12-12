@@ -1,0 +1,693 @@
+associated:
+  tideLocation:
+    lat: 33.6
+    lon: -117.9
+    max: 8.76
+    mean: 0
+    min: -3.31
+    name: Balboa Pier, Newport Beach, California
+  units:
+    tideHeight: FT
+  utcOffset: -8
+data:
+  tides:
+  - height: 1.58
+    timestamp: 1733990400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.98
+    timestamp: 1733994000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.82
+    timestamp: 1733997600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.94
+    timestamp: 1734001200
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.07
+    timestamp: 1734004800
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.92
+    timestamp: 1734008400
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.25
+    timestamp: 1734012000
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.27
+    timestamp: 1734012105
+    type: HIGH
+    utcOffset: -8
+  - height: 5.97
+    timestamp: 1734015600
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.1
+    timestamp: 1734019200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.8
+    timestamp: 1734022800
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.3
+    timestamp: 1734026400
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.89
+    timestamp: 1734030000
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.17
+    timestamp: 1734033600
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.7
+    timestamp: 1734037200
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.75
+    timestamp: 1734038572
+    type: LOW
+    utcOffset: -8
+  - height: -0.62
+    timestamp: 1734040800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.04
+    timestamp: 1734044400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.06
+    timestamp: 1734048000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.18
+    timestamp: 1734051600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.1
+    timestamp: 1734055200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.62
+    timestamp: 1734058800
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.71
+    timestamp: 1734060858
+    type: HIGH
+    utcOffset: -8
+  - height: 3.66
+    timestamp: 1734062400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.32
+    timestamp: 1734066000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.75
+    timestamp: 1734069600
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.19
+    timestamp: 1734073200
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.84
+    timestamp: 1734076800
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.8
+    timestamp: 1734078344
+    type: LOW
+    utcOffset: -8
+  - height: 1.88
+    timestamp: 1734080400
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.42
+    timestamp: 1734084000
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.39
+    timestamp: 1734087600
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.57
+    timestamp: 1734091200
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.69
+    timestamp: 1734094800
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.43
+    timestamp: 1734098400
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.59
+    timestamp: 1734100908
+    type: HIGH
+    utcOffset: -8
+  - height: 6.56
+    timestamp: 1734102000
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.04
+    timestamp: 1734105600
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.92
+    timestamp: 1734109200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.39
+    timestamp: 1734112800
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.73
+    timestamp: 1734116400
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.25
+    timestamp: 1734120000
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.8
+    timestamp: 1734123600
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.23
+    timestamp: 1734127200
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.25
+    timestamp: 1734127766
+    type: LOW
+    utcOffset: -8
+  - height: -0.99
+    timestamp: 1734130800
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.16
+    timestamp: 1734134400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.01
+    timestamp: 1734138000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.22
+    timestamp: 1734141600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.18
+    timestamp: 1734145200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.68
+    timestamp: 1734148800
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.74
+    timestamp: 1734150580
+    type: HIGH
+    utcOffset: -8
+  - height: 3.69
+    timestamp: 1734152400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.32
+    timestamp: 1734156000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.76
+    timestamp: 1734159600
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.25
+    timestamp: 1734163200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2
+    timestamp: 1734166800
+    type: NORMAL
+    utcOffset: -8
+  - height: 2
+    timestamp: 1734167366
+    type: LOW
+    utcOffset: -8
+  - height: 2.17
+    timestamp: 1734170400
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.84
+    timestamp: 1734174000
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.9
+    timestamp: 1734177600
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.1
+    timestamp: 1734181200
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.14
+    timestamp: 1734184800
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.72
+    timestamp: 1734188400
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.76
+    timestamp: 1734189767
+    type: HIGH
+    utcOffset: -8
+  - height: 6.64
+    timestamp: 1734192000
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.89
+    timestamp: 1734195600
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.58
+    timestamp: 1734199200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.91
+    timestamp: 1734202800
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.2
+    timestamp: 1734206400
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.26
+    timestamp: 1734210000
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.2
+    timestamp: 1734213600
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.48
+    timestamp: 1734216906
+    type: LOW
+    utcOffset: -8
+  - height: -1.49
+    timestamp: 1734217200
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.08
+    timestamp: 1734220800
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.11
+    timestamp: 1734224400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.14
+    timestamp: 1734228000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.37
+    timestamp: 1734231600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.28
+    timestamp: 1734235200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.71
+    timestamp: 1734238800
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.74
+    timestamp: 1734240079
+    type: HIGH
+    utcOffset: -8
+  - height: 3.66
+    timestamp: 1734242400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.26
+    timestamp: 1734246000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.73
+    timestamp: 1734249600
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.29
+    timestamp: 1734253200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.13
+    timestamp: 1734256387
+    type: LOW
+    utcOffset: -8
+  - height: 2.15
+    timestamp: 1734256800
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.45
+    timestamp: 1734260400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.22
+    timestamp: 1734264000
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.31
+    timestamp: 1734267600
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.47
+    timestamp: 1734271200
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.38
+    timestamp: 1734274800
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.76
+    timestamp: 1734278400
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.76
+    timestamp: 1734278684
+    type: HIGH
+    utcOffset: -8
+  - height: 6.48
+    timestamp: 1734282000
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.56
+    timestamp: 1734285600
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.13
+    timestamp: 1734289200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.42
+    timestamp: 1734292800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.76
+    timestamp: 1734296400
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.58
+    timestamp: 1734300000
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.36
+    timestamp: 1734303600
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.51
+    timestamp: 1734306015
+    type: LOW
+    utcOffset: -8
+  - height: -1.47
+    timestamp: 1734307200
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.91
+    timestamp: 1734310800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.14
+    timestamp: 1734314400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.4
+    timestamp: 1734318000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.56
+    timestamp: 1734321600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.37
+    timestamp: 1734325200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.7
+    timestamp: 1734328800
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.71
+    timestamp: 1734329456
+    type: HIGH
+    utcOffset: -8
+  - height: 3.58
+    timestamp: 1734332400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.18
+    timestamp: 1734336000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.7
+    timestamp: 1734339600
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.35
+    timestamp: 1734343200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.26
+    timestamp: 1734345407
+    type: LOW
+    utcOffset: -8
+  - height: 2.31
+    timestamp: 1734346800
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.72
+    timestamp: 1734350400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.54
+    timestamp: 1734354000
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.61
+    timestamp: 1734357600
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.65
+    timestamp: 1734361200
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.38
+    timestamp: 1734364800
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.59
+    timestamp: 1734367627
+    type: HIGH
+    utcOffset: -8
+  - height: 6.57
+    timestamp: 1734368400
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.12
+    timestamp: 1734372000
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.09
+    timestamp: 1734375600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.63
+    timestamp: 1734379200
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.98
+    timestamp: 1734382800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.45
+    timestamp: 1734386400
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.7
+    timestamp: 1734390000
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.28
+    timestamp: 1734393600
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.35
+    timestamp: 1734395113
+    type: LOW
+    utcOffset: -8
+  - height: -1.23
+    timestamp: 1734397200
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.56
+    timestamp: 1734400800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.51
+    timestamp: 1734404400
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.71
+    timestamp: 1734408000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.75
+    timestamp: 1734411600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.43
+    timestamp: 1734415200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.65
+    timestamp: 1734418800
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.64
+    timestamp: 1734418853
+    type: HIGH
+    utcOffset: -8
+  - height: 3.5
+    timestamp: 1734422400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.11
+    timestamp: 1734426000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.7
+    timestamp: 1734429600
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.44
+    timestamp: 1734433200
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.43
+    timestamp: 1734434513
+    type: LOW
+    utcOffset: -8
+  - height: 2.5
+    timestamp: 1734436800
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.97
+    timestamp: 1734440400
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.78
+    timestamp: 1734444000
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.75
+    timestamp: 1734447600
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.63
+    timestamp: 1734451200
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.16
+    timestamp: 1734454800
+    type: NORMAL
+    utcOffset: -8
+  - height: 6.23
+    timestamp: 1734456605
+    type: HIGH
+    utcOffset: -8
+  - height: 6.17
+    timestamp: 1734458400
+    type: NORMAL
+    utcOffset: -8
+  - height: 5.6
+    timestamp: 1734462000
+    type: NORMAL
+    utcOffset: -8
+  - height: 4.53
+    timestamp: 1734465600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.13
+    timestamp: 1734469200
+    type: NORMAL
+    utcOffset: -8
+  - height: 1.63
+    timestamp: 1734472800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.3
+    timestamp: 1734476400
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.63
+    timestamp: 1734480000
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.02
+    timestamp: 1734483600
+    type: NORMAL
+    utcOffset: -8
+  - height: -1.02
+    timestamp: 1734484228
+    type: LOW
+    utcOffset: -8
+  - height: -0.82
+    timestamp: 1734487200
+    type: NORMAL
+    utcOffset: -8
+  - height: -0.1
+    timestamp: 1734490800
+    type: NORMAL
+    utcOffset: -8
+  - height: 0.93
+    timestamp: 1734494400
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.02
+    timestamp: 1734498000
+    type: NORMAL
+    utcOffset: -8
+  - height: 2.92
+    timestamp: 1734501600
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.47
+    timestamp: 1734505200
+    type: NORMAL
+    utcOffset: -8
+  - height: 3.61
+    timestamp: 1734508353
+    type: HIGH
+    utcOffset: -8
+  - height: 3.62
+    timestamp: 1734508800
+    type: NORMAL
+    utcOffset: -8
+permissions:
+  data: []
+  violations:
+  - code: 4001
+    message: User does not have optional permission:sl_core-16day-forecast
+    permission:
+      name: sl_core-16day-forecast
+      required: false

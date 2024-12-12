@@ -1,0 +1,4096 @@
+associated:
+  reverseSortBeachView: true
+  units:
+    pressure: MB
+    swellHeight: FT
+    temperature: F
+    tideHeight: FT
+    waveHeight: FT
+    windSpeed: KTS
+data:
+  spots:
+  - _id: 5842041f4e65fad6a77088e5
+    abilityLevels: []
+    boardTypes: []
+    cameras: []
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 3
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.73933701820233
+    legacyId: 4864
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.117
+    name: Ray Bay
+    note: null
+    offshoreDirection: 205
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb3965c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 0
+    rating:
+      human: false
+      key: FAIR
+      value: 3
+    relivableRating: null
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2.42782
+      min: 1.41076
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 57
+    wind:
+      direction: 66.65661
+      directionType: Offshore
+      gust: 1
+      speed: 0
+  - _id: 5842041f4e65fad6a7708820
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - FUNBOARD
+    - LONGBOARD
+    - SKIMMING
+    - BODYBOARD
+    - BODYSURFING
+    cameras:
+    - _id: 582356361ee905c72145623d
+      alias: wc-sealbeachjetty
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjetty/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by The City of Seal Beach
+        name: ''
+        url: https://www.sealbeachca.gov/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T14:51:57.224Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T14:51:57.224Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachjetty/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachjetty/wc-sealbeachjetty
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachjetty/wc-sealbeachjetty.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjetty/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjetty/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachjetty/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Seal Beach Jetty
+    - _id: 60ff037e8623abeafc01e824
+      alias: wc-sealbeachjettyov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjettyov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T21:35:09.261Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T21:35:09.261Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachjettyov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachjettyov/wc-sealbeachjettyov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachjettyov/wc-sealbeachjettyov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjettyov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachjettyov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachjettyov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Seal Beach Jetty Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 3
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.73954373690184
+    legacyId: 4217
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.11414
+    name: Seal Beach Jetty
+    note: null
+    offshoreDirection: 204
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed5ddadb30820bb3965c
+    popularIn: []
+    rank: 1
+    rating:
+      human: false
+      key: FAIR
+      value: 3
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2.26378
+      min: 1.24672
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708820/5842041f4e65fad6a7708820_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 57
+    wind:
+      direction: 48.81065
+      directionType: Offshore
+      gust: 1
+      speed: 0
+  - _id: 5b71b95fc27dc6001ab8becf
+    abilityLevels: []
+    boardTypes: []
+    cameras:
+    - _id: 5b6df48f9aa2b6001b9f19de
+      alias: wc-sealbeachns
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachns/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5b6df48f9aa2b6001b9f19de-20241212T163939904Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5b6df48f9aa2b6001b9f19de-20241212T163939904Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by The City of Seal Beach
+        name: ''
+        url: https://www.sealbeachca.gov/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T23:45:09.429Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T23:45:09.429Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachns/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachns/wc-sealbeachns
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachns/wc-sealbeachns.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachns/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachns/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachns/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Seal Beach Pier Northside
+    - _id: 61031ce53b0ef9165f5d2289
+      alias: wc-sealbeachnsov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachnsov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T13:30:55.973Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T13:30:55.973Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachnsov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachnsov/wc-sealbeachnsov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachnsov/wc-sealbeachnsov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachnsov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachnsov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachnsov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Seal Beach Pier Northside Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 5b6df48f9aa2b6001b9f19de
+    lat: 33.73828949475321
+    legacyId: 153186
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.10845
+    name: Seal Beach Pier, Northside
+    note: null
+    offshoreDirection: 205
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed5ddadb30820bb3965c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 2
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 1.77165
+      min: 0.75459
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 55
+    wind:
+      direction: 63.32516
+      directionType: Offshore
+      gust: 0
+      speed: 0
+  - _id: 5842041f4e65fad6a77088e4
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    - BODYBOARD
+    - SKIMMING
+    - BODYSURFING
+    cameras:
+    - _id: 58235667302ec90c4108c3e0
+      alias: wc-sealbeachss
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachss/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/58235667302ec90c4108c3e0-20241212T162618689Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/58235667302ec90c4108c3e0-20241212T162618689Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by The City of Seal Beach
+        name: ''
+        url: https://www.sealbeachca.gov/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T01:40:24.828Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T01:40:24.828Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachss/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachss/wc-sealbeachss
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachss/wc-sealbeachss.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachss/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachss/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachss/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Seal Beach Pier Southside
+    - _id: 61031cfb7868157a07e3e0aa
+      alias: wc-sealbeachssov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachssov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T23:03:48.986Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T23:03:48.986Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-sealbeachssov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-sealbeachssov/wc-sealbeachssov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-sealbeachssov/wc-sealbeachssov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachssov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-sealbeachssov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-sealbeachssov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Seal Beach Pier Southside Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 58235667302ec90c4108c3e0
+    lat: 33.7368459504689
+    legacyId: 4865
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.10342
+    name: Seal Beach Pier, Southside
+    note: null
+    offshoreDirection: 205
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb3965c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 3
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 1.9685
+      min: 0.98425
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088e4/5842041f4e65fad6a77088e4_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 55
+    wind:
+      direction: 66.52402
+      directionType: Offshore
+      gust: 0
+      speed: 0
+  - _id: 5842041f4e65fad6a77088e7
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - BODYBOARD
+    cameras:
+    - _id: 58235684302ec90c4108c3e1
+      alias: wc-surfside
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-surfside/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera Brought to you by The SoCal Water Tower
+        name: ''
+        url: http://www.vrbo.com/972970
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T23:18:53.771Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T23:18:53.771Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-surfside/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-surfside/wc-surfside
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-surfside/wc-surfside.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-surfside/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-surfside/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-surfside/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Surfside
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1
+      value: POOR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.728733
+    legacyId: 4867
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.08982
+    name: Surfside
+    note: null
+    offshoreDirection: 212
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed5ddadb30820bb39689
+    - 5949b7a0dadb30820b972cba
+    popularIn: []
+    rank: 4
+    rating:
+      human: false
+      key: POOR
+      value: 1
+    relivableRating: 4
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Shin to knee
+      lastCameraObservation: null
+      max: 0.62336
+      min: 0
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088e7/5842041f4e65fad6a77088e7_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Shin to knee
+      lastCameraObservation: null
+      max: 1
+      min: 0
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 57
+    wind:
+      direction: 45.24767
+      directionType: Offshore
+      gust: 2
+      speed: 1
+  - _id: 5842041f4e65fad6a7708822
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    cameras:
+    - _id: 582356a1302ec90c4108c3e2
+      alias: wc-andersonst
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-andersonst/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T23:46:54.006Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T23:46:54.006Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-andersonst/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-andersonst/wc-andersonst
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-andersonst/wc-andersonst.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-andersonst/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-andersonst/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-andersonst/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Anderson St.
+    - _id: 5bfd9c4173e2db334625c21b
+      alias: wc-andersonstov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-andersonstov/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5bfd9c4173e2db334625c21b-20241212T164444067Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5bfd9c4173e2db334625c21b-20241212T164444067Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera Brought to you by The SoCal Water Tower
+        name: ''
+        url: http://www.vrbo.com/972970
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T08:44:14.841Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T08:44:14.841Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-andersonstov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-andersonstov/wc-andersonstov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-andersonstov/wc-andersonstov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-andersonstov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-andersonstov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-andersonstov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Anderson St. Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1.5
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 5bfd9c4173e2db334625c21b
+    lat: 33.72309983348433
+    legacyId: 4219
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.08078
+    name: Anderson Street
+    note: null
+    offshoreDirection: 219
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed5ddadb30820bb39689
+    - 5949b7a0dadb30820b972cba
+    popularIn: []
+    rank: 5
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 1.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417cf038b1a36ad86afb1f
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: 1734022483
+      max: 3.78322
+      min: 2.81327
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708822/5842041f4e65fad6a7708822_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: 1734022483
+      max: 4
+      min: 3
+      occasional: null
+      plus: false
+    weather:
+      condition: CLEAR
+      temperature: 57
+    wind:
+      direction: 67.03567
+      directionType: Offshore
+      gust: 1
+      speed: 0
+  - _id: 5842041f4e65fad6a77088e8
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    - BODYBOARD
+    cameras:
+    - _id: 582356e81ee905c72145623e
+      alias: wc-bolsajettiessouth
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiessouth/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/582356e81ee905c72145623e-20241212T163310171Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/582356e81ee905c72145623e-20241212T163310171Z.mp4
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T01:29:52.267Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T01:29:52.267Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-bolsajettiessouth/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-bolsajettiessouth/wc-bolsajettiessouth
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-bolsajettiessouth/wc-bolsajettiessouth.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiessouth/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiessouth/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-bolsajettiessouth/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Bolsa Jetties South
+    - _id: 582356cc302ec90c4108c3e3
+      alias: wc-tower16bolsa
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-tower16bolsa/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T04:18:03.051Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T04:18:03.051Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-tower16bolsa/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-tower16bolsa/wc-tower16bolsa
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-tower16bolsa/wc-tower16bolsa.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-tower16bolsa/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-tower16bolsa/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-tower16bolsa/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Tower 16
+    - _id: 58af3ae1c9d273fd4f581bfb
+      alias: wc-tower17bolsa
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-tower17bolsa/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T03:29:16.491Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T03:29:16.491Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-tower17bolsa/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-tower17bolsa/wc-tower17bolsa
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-tower17bolsa/wc-tower17bolsa.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-tower17bolsa/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-tower17bolsa/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-tower17bolsa/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Tower 17
+    - _id: 5c7477493ad66fadf387a960
+      alias: wc-bolsajettiesnorth
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiesnorth/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T01:05:31.155Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T01:05:31.155Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-bolsajettiesnorth/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-bolsajettiesnorth/wc-bolsajettiesnorth
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-bolsajettiesnorth/wc-bolsajettiesnorth.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiesnorth/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-bolsajettiesnorth/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-bolsajettiesnorth/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Bolsa Jetties North
+    - _id: 66a141b9553e721fed8e0f2c
+      alias: wc-maintowerbolsa
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-maintowerbolsa/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T21:39:33.297Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T21:39:33.297Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-maintowerbolsa/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-maintowerbolsa/wc-maintowerbolsa
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-maintowerbolsa/wc-maintowerbolsa.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-maintowerbolsa/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-maintowerbolsa/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-maintowerbolsa/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Main Tower
+    - _id: 66a1428745fbca7e8ad0182d
+      alias: wc-maintowernorthbolsa
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-maintowernorthbolsa/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T00:52:35.030Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T00:52:35.030Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-maintowernorthbolsa/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-maintowernorthbolsa/wc-maintowernorthbolsa
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-maintowernorthbolsa/wc-maintowernorthbolsa.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-maintowernorthbolsa/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-maintowernorthbolsa/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-maintowernorthbolsa/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Main Tower North
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1.5
+      value: POOR_TO_FAIR
+    hasLiveWind: false
+    insightsCameraId: 582356e81ee905c72145623e
+    lat: 33.68760321488161
+    legacyId: 4868
+    legacyRegionId: 2143
+    liveWindSourceProvider: null
+    lon: -118.04236
+    name: Bolsa Chica State Beach
+    note: null
+    offshoreDirection: 222
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed5fdadb30820bb3987c
+    popularIn: []
+    rank: 7
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 1.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: null
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: 1734021789
+      max: 4.04235
+      min: 3.07027
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088e8/5842041f4e65fad6a77088e8_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: 1734021789
+      max: 4
+      min: 3
+      occasional: null
+      plus: false
+    weather:
+      condition: MOSTLY_CLEAR
+      temperature: 57
+    wind:
+      direction: 201.40559
+      directionType: Onshore
+      gust: 8
+      speed: 7
+  - _id: 640a3f7c606c45fdf1b09880
+    abilityLevels: []
+    boardTypes: []
+    cameras: []
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1
+      value: POOR
+    hasLiveWind: false
+    insightsCameraId: null
+    lat: 33.6765
+    legacyRegionId: 2143
+    lon: -118.0314
+    name: HB Cliffs
+    note: null
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5fdadb30820bb3987c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 11
+    rating:
+      human: false
+      key: POOR
+      value: 1
+    relivableRating: 0
+    saveFailures: 0
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: null
+      max: 3.76531
+      min: 2.73513
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg
+    tide:
+      current:
+        height: 4.1
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.5
+        timestamp: 1734012641
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: null
+      max: 4
+      min: 3
+      occasional: null
+      plus: false
+    weather:
+      condition: MOSTLY_CLEAR
+      temperature: 56
+    wind:
+      direction: 196.76494
+      directionType: Onshore
+      gust: 7
+      speed: 6
+  - _id: 5842041f4e65fad6a77088ea
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    - BODYBOARD
+    cameras:
+    - _id: 58a37701c9d273fd4f581bf0
+      alias: wc-seventeenthst
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-seventeenthst/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/58a37701c9d273fd4f581bf0-20241212T163925018Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/58a37701c9d273fd4f581bf0-20241212T163925018Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Powered by Terranova Electric
+        name: ''
+        url: http://www.terranovaelectric.net/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T12:17:45.459Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T12:17:45.459Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-seventeenthst/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-seventeenthst/wc-seventeenthst
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-seventeenthst/wc-seventeenthst.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-seventeenthst/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-seventeenthst/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-seventeenthst/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - 17th Street
+    - _id: 58235706302ec90c4108c3e4
+      alias: wc-goldenwest
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-goldenwest/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Powered by Terranova Electric
+        name: ''
+        url: http://www.terranovaelectric.net/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T22:26:28.136Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T22:26:28.136Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-goldenwest/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-goldenwest/wc-goldenwest
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-goldenwest/wc-goldenwest.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-goldenwest/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-goldenwest/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-goldenwest/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Goldenwest
+    - _id: 60c15f51b68b7a9509f1930b
+      alias: wc-twentiethst
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-twentiethst/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T09:20:37.119Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T09:20:37.119Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-twentiethst/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-twentiethst/wc-twentiethst
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-twentiethst/wc-twentiethst.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-twentiethst/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-twentiethst/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-twentiethst/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 20th St.
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1.5
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 58a37701c9d273fd4f581bf0
+    lat: 33.66704400178788
+    legacyId: 4870
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.0192
+    name: North HB Streets
+    note: null
+    offshoreDirection: 219
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed5fdadb30820bb3987c
+    popularIn: []
+    rank: 12
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 1.5
+    relivableRating: 4
+    saveFailures: 0
+    sensorId: null
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Chest to overhead
+      lastCameraObservation: 1734022164
+      max: 5.87629
+      min: 3.97169
+    swells:
+    - direction: 243.9
+      directionMin: 236.745
+      event: 3
+      height: 1.2
+      period: 17
+    - direction: 167.83
+      directionMin: 163.49
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 189.73
+      directionMin: 186.25
+      event: 4
+      height: 0.4
+      period: 17
+    - direction: 200.25
+      directionMin: 198.01
+      event: 1
+      height: 0.3
+      period: 14
+    - direction: 261.71
+      directionMin: 253.7
+      event: 0
+      height: 0.9
+      period: 3
+    - direction: 269.18
+      directionMin: 265.615
+      event: 5
+      height: 0.4
+      period: 8
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088ea/5842041f4e65fad6a77088ea_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Chest to overhead
+      lastCameraObservation: 1734022164
+      max: 6
+      min: 4
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 55
+    wind:
+      direction: 261.64579
+      directionType: Onshore
+      gust: 0
+      speed: 2
+  - _id: 5842041f4e65fad6a7708827
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    cameras:
+    - _id: 583499c4e411dc743a5d5296
+      alias: wc-hbpierns
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierns/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/583499c4e411dc743a5d5296-20241212T164713481Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/583499c4e411dc743a5d5296-20241212T164713481Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera brought to you by Jack’s Surfboards
+        name: ''
+        url: https://jackssurfboards.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T04:44:39.611Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T04:44:39.611Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpierns/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpierns/wc-hbpierns
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpierns/wc-hbpierns.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierns/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierns/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpierns/playlist.m3u8
+      supportsCrowds: true
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - HB Pier Northside
+    - _id: 5fa323cdc45f6f62e64c83ad
+      alias: wc-hbpiernsclose
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsclose/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Brought to you by The Kite Connection
+        name: ''
+        url: https://kiteconnection.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T15:19:50.148Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T15:19:50.148Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpiernsclose/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpiernsclose/wc-hbpiernsclose
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpiernsclose/wc-hbpiernsclose.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsclose/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsclose/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpiernsclose/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - HB Pier Northside Close-Up
+    - _id: 58349a5c3421b20545c4b542
+      alias: wc-hbpiernsov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsov/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/58349a5c3421b20545c4b542-20241212T163709159Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/58349a5c3421b20545c4b542-20241212T163709159Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera brought to you by Jack’s Surfboards
+        name: ''
+        url: https://jackssurfboards.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T00:00:11.401Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T00:00:11.401Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpiernsov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpiernsov/wc-hbpiernsov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpiernsov/wc-hbpiernsov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiernsov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpiernsov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - HB Pier Northside Overview
+    - _id: 5ecaa71c663fd3b578308d94
+      alias: wc-9thstov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera Hosted by Shorebreak Hotel
+        name: ''
+        url: https://www.shorebreakhotel.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T00:28:35.570Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T00:28:35.570Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-9thstov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-9thstov/wc-9thstov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-9thstov/wc-9thstov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-9thstov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 9th St. Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2.5
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: 583499c4e411dc743a5d5296
+    lat: 33.65574085629463
+    legacyId: 4223
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.00397
+    name: Huntington Beach Pier Northside
+    note: null
+    offshoreDirection: 217
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5fdadb30820bb3987c
+    - 58f7ed5ddadb30820bb39689
+    popularIn:
+    - _id: 6454288c85e91d78b11d931b
+      area: US
+      order: 24
+    rank: 16
+    rating:
+      human: false
+      key: FAIR
+      value: 2.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 6516f4bbd78556efb75be21b
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Chest to overhead
+      lastCameraObservation: 1734022632
+      max: 5.97556
+      min: 4.49433
+    swells:
+    - direction: 274.98
+      directionMin: 270.35
+      event: 2
+      height: 1.4
+      period: 17
+    - direction: 196.16
+      directionMin: 192.95
+      event: 4
+      height: 0.7
+      period: 16
+    - direction: 201.95
+      directionMin: 199.935
+      event: 5
+      height: 0.5
+      period: 13
+    - direction: 232.25
+      directionMin: 227.7
+      event: 1
+      height: 0.3
+      period: 15
+    - direction: 168.18
+      directionMin: 163.905
+      event: 3
+      height: 0.8
+      period: 9
+    - direction: 263.76
+      directionMin: 254.22
+      event: 0
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708827/5842041f4e65fad6a7708827_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Chest to overhead
+      lastCameraObservation: 1734022632
+      max: 6
+      min: 4
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 55
+    wind:
+      direction: 261.64579
+      directionType: Onshore
+      gust: 0
+      speed: 2
+  - _id: 5842041f4e65fad6a77088ed
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - FUNBOARD
+    - LONGBOARD
+    - BODYBOARD
+    cameras:
+    - _id: 671a9cea747ce6a1e638276b
+      alias: wc-hbpierss
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierss/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T22:45:02.193Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T22:45:02.193Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpierss/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpierss/wc-hbpierss
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpierss/wc-hbpierss.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierss/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierss/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpierss/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - HB Pier Southside
+    - _id: 5978cb2518fd6daf0da062ae
+      alias: wc-hbpiersclose
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiersclose/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by Duke’s Huntington Beach
+        name: ''
+        url: http://www.dukeshuntington.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T18:27:59.395Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T18:27:59.395Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpiersclose/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpiersclose/wc-hbpiersclose
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpiersclose/wc-hbpiersclose.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiersclose/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpiersclose/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpiersclose/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - HB Pier Southside Close-Up
+    - _id: 583499cb3421b20545c4b53f
+      alias: wc-hbss
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbss/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T04:48:10.512Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T04:48:10.512Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbss/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbss/wc-hbss
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbss/wc-hbss.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbss/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbss/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbss/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - HB Southside
+    - _id: 58a377daea714bf7668c000f
+      alias: wc-hbpierssov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierssov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by Pasea Hotel & Spa
+        name: ''
+        url: http://www.meritagecollection.com/paseahotel
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T14:16:24.593Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T14:16:24.593Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbpierssov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbpierssov/wc-hbpierssov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbpierssov/wc-hbpierssov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierssov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbpierssov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbpierssov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - HB Pier Southside Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2.5
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.65475101379567
+    legacyId: 4874
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -118.00291
+    name: Huntington Beach Pier Southside
+    note: null
+    offshoreDirection: 211
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5fdadb30820bb3987c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 18
+    rating:
+      human: false
+      key: FAIR
+      value: 2.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 6516f4bbd78556efb75be21b
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Waist to shoulder
+      lastCameraObservation: null
+      max: 4.57568
+      min: 3.58268
+    swells:
+    - direction: 274.98
+      directionMin: 270.35
+      event: 2
+      height: 1.4
+      period: 17
+    - direction: 196.16
+      directionMin: 192.95
+      event: 4
+      height: 0.7
+      period: 16
+    - direction: 201.95
+      directionMin: 199.935
+      event: 5
+      height: 0.5
+      period: 13
+    - direction: 168.18
+      directionMin: 163.905
+      event: 3
+      height: 0.8
+      period: 9
+    - direction: 232.25
+      directionMin: 227.7
+      event: 1
+      height: 0.3
+      period: 15
+    - direction: 263.76
+      directionMin: 254.22
+      event: 0
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088ed/5842041f4e65fad6a77088ed_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Waist to shoulder
+      lastCameraObservation: null
+      max: 4
+      min: 3
+      occasional: null
+      plus: true
+    weather:
+      condition: MIST
+      temperature: 55
+    wind:
+      direction: 261.64579
+      directionType: Onshore
+      gust: 0
+      speed: 2
+  - _id: 58bdebbc82d034001252e3d2
+    abilityLevels: []
+    boardTypes: []
+    cameras:
+    - _id: 58a377e8c9d273fd4f581bf6
+      alias: wc-huntingtonstov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-huntingtonstov/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/58a377e8c9d273fd4f581bf6-20241212T164103823Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/58a377e8c9d273fd4f581bf6-20241212T164103823Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by Pasea Hotel & Spa
+        name: ''
+        url: http://www.meritagecollection.com/paseahotel
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T14:05:59.984Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T14:05:59.984Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-huntingtonstov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-huntingtonstov/wc-huntingtonstov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-huntingtonstov/wc-huntingtonstov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-huntingtonstov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-huntingtonstov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-huntingtonstov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Huntington St. Overview
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2.5
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: 58a377e8c9d273fd4f581bf6
+    lat: 33.65160561515691
+    legacyId: 144646
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.99697
+    name: Huntington St.
+    note: null
+    offshoreDirection: 213
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5fdadb30820bb3987c
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 20
+    rating:
+      human: false
+      key: FAIR
+      value: 2.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 6516f4bbd78556efb75be21b
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022261
+      max: 5.22883
+      min: 4.26586
+    swells:
+    - direction: 274.98
+      directionMin: 270.35
+      event: 2
+      height: 1.4
+      period: 17
+    - direction: 196.16
+      directionMin: 192.95
+      event: 4
+      height: 0.7
+      period: 16
+    - direction: 168.18
+      directionMin: 163.905
+      event: 3
+      height: 0.8
+      period: 9
+    - direction: 201.95
+      directionMin: 199.935
+      event: 5
+      height: 0.5
+      period: 13
+    - direction: 232.25
+      directionMin: 227.7
+      event: 1
+      height: 0.3
+      period: 15
+    - direction: 263.76
+      directionMin: 254.22
+      event: 0
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/58bdebbc82d034001252e3d2/58bdebbc82d034001252e3d2_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022261
+      max: 5
+      min: 4
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 55
+    wind:
+      direction: 261.64579
+      directionType: Onshore
+      gust: 0
+      speed: 2
+  - _id: 584204204e65fad6a770998c
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    - BODYBOARD
+    cameras:
+    - _id: 5f6238e8c22bc01405e28435
+      alias: wc-hbstatebeachn
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeachn/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5f6238e8c22bc01405e28435-20241212T163902998Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5f6238e8c22bc01405e28435-20241212T163902998Z.mp4
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T17:05:49.527Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T17:05:49.527Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbstatebeachn/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbstatebeachn/wc-hbstatebeachn
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbstatebeachn/wc-hbstatebeachn.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeachn/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeachn/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbstatebeachn/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - Huntington State Beach North
+    - _id: 58349a66e411dc743a5d529a
+      alias: wc-hbstatebeach
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeach/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T03:19:12.262Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T03:19:12.262Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-hbstatebeach/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-hbstatebeach/wc-hbstatebeach
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-hbstatebeach/wc-hbstatebeach.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeach/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-hbstatebeach/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-hbstatebeach/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Huntington State Beach South
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1.5
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 5f6238e8c22bc01405e28435
+    lat: 33.6382808119474
+    legacyId: 103681
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.97553
+    name: Huntington State Beach
+    note: null
+    offshoreDirection: 213
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed5fdadb30820bb3987c
+    popularIn: []
+    rank: 22
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 1.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 624177ff2bb24df3de43eb5d
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022139
+      max: 4.81813
+      min: 3.85572
+    swells:
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/584204204e65fad6a770998c/584204204e65fad6a770998c_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022139
+      max: 5
+      min: 4
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 55
+    wind:
+      direction: 222.81282
+      directionType: Onshore
+      gust: 2
+      speed: 2
+  - _id: 5842041f4e65fad6a77088ee
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - BODYBOARD
+    - BODYSURFING
+    cameras:
+    - _id: 5834a0223421b20545c4b581
+      alias: wc-riverjetties
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Check Your Homes Value HERE
+        name: ''
+        url: https://www.yourhomelongbeach.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T19:57:21.441Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T19:57:21.441Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjetties/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjetties/wc-riverjetties
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjetties/wc-riverjetties.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjetties/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - River Jetties
+    - _id: 5a2036a6096c27001ac4f18b
+      alias: wc-riverjettiesnorth
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T20:27:23.960Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T20:27:23.960Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiesnorth/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiesnorth/wc-riverjettiesnorth
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiesnorth/wc-riverjettiesnorth.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiesnorth/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - River Jetties North
+    - _id: 5c7184f33ad66f7a3686e7e6
+      alias: wc-riverjettiessouth
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Check Your Homes Value HERE
+        name: ''
+        url: http://www.valuelongbeachhomes.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T02:35:27.772Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T02:35:27.772Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiessouth/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiessouth/wc-riverjettiessouth
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiessouth/wc-riverjettiessouth.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiessouth/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - River Jetties South
+    - _id: 669837cea177eae316757802
+      alias: wc-riverjettiesstate
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T20:03:24.101Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T20:03:24.101Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiesstate/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiesstate/wc-riverjettiesstate
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiesstate/wc-riverjettiesstate.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiesstate/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - River Jetties State Beach
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.62778647706099
+    legacyId: 4875
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.95939
+    name: River Jetties
+    note: null
+    offshoreDirection: 211
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed60dadb30820bb39a11
+    popularIn: []
+    rank: 23
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417cf12bb24d7d8643ec8e
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: null
+      max: 3.87467
+      min: 2.84449
+    swells:
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088ee/5842041f4e65fad6a77088ee_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Waist to chest
+      lastCameraObservation: null
+      max: 4
+      min: 3
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 218.03999
+      directionType: Onshore
+      gust: 3
+      speed: 2
+  - _id: 5842041f4e65fad6a7708e54
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - BODYBOARD
+    - BODYSURFING
+    cameras:
+    - _id: 5a2038d49c7bba001b256975
+      alias: wc-fiftysixclose
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixclose/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5a2038d49c7bba001b256975-20241212T164114925Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5a2038d49c7bba001b256975-20241212T164114925Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Powered By Equal Optics
+        name: ''
+        url: https://equaloptics.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T15:26:31.393Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T15:26:31.393Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-fiftysixclose/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-fiftysixclose/wc-fiftysixclose
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-fiftysixclose/wc-fiftysixclose.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixclose/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixclose/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-fiftysixclose/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - 56th St. Close-Up
+    - _id: 583494b1e411dc743a5d5268
+      alias: wc-fiftysixnewport
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixnewport/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Brought to you by Villa Rentals
+        name: ''
+        url: https://villarentalsinc.com/
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T14:05:03.657Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T14:05:03.657Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-fiftysixnewport/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-fiftysixnewport/wc-fiftysixnewport
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-fiftysixnewport/wc-fiftysixnewport.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixnewport/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-fiftysixnewport/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-fiftysixnewport/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 56th St.
+    - _id: 5834949d3421b20545c4b51c
+      alias: wc-fiftyfournewport
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-fiftyfournewport/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T19:55:18.839Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T19:55:18.839Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-fiftyfournewport/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-fiftyfournewport/wc-fiftyfournewport
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-fiftyfournewport/wc-fiftyfournewport.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-fiftyfournewport/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-fiftyfournewport/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-fiftyfournewport/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 54th St.
+    - _id: 58349df43421b20545c4b561
+      alias: wc-newportjetties
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-newportjetties/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T18:25:50.083Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T18:25:50.083Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-newportjetties/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-newportjetties/wc-newportjetties
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-newportjetties/wc-newportjetties.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-newportjetties/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-newportjetties/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-newportjetties/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Newport Jetties
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1.5
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: 5a2038d49c7bba001b256975
+    lat: 33.6227227388759
+    legacyId: 43103
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.94685
+    name: Newport Upper Jetties
+    note: null
+    offshoreDirection: 213
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed60dadb30820bb39a11
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 27
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 1.5
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417f482bb24d4da543ed21
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022274
+      max: 4.88926
+      min: 3.89315
+    swells:
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708e54/5842041f4e65fad6a7708e54_1500.jpg
+    tide:
+      current:
+        height: 3.9
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038533
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.4
+        timestamp: 1734012448
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Chest to head
+      lastCameraObservation: 1734022274
+      max: 5
+      min: 4
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 253.54371
+      directionType: Onshore
+      gust: 1
+      speed: 1
+  - _id: 5842041f4e65fad6a770882a
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - FUNBOARD
+    - LONGBOARD
+    - SKIMMING
+    - BODYBOARD
+    - BODYSURFING
+    cameras:
+    - _id: 58349bffe411dc743a5d52ab
+      alias: wc-28thstnewport
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-28thstnewport/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T19:16:20.501Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T19:16:20.501Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-28thstnewport/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-28thstnewport/wc-28thstnewport
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-28thstnewport/wc-28thstnewport.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-28thstnewport/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-28thstnewport/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-28thstnewport/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 28th St.
+    - _id: 5834945f3421b20545c4b519
+      alias: wc-32ndstnewport
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-32ndstnewport/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5834945f3421b20545c4b519-20241212T164724248Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5834945f3421b20545c4b519-20241212T164724248Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T22:28:09.433Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T22:28:09.433Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-32ndstnewport/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-32ndstnewport/wc-32ndstnewport
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-32ndstnewport/wc-32ndstnewport.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-32ndstnewport/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-32ndstnewport/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-32ndstnewport/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - 32nd St.
+    - _id: 5bfd97ff7dccf87939966b0f
+      alias: wc-36thstnewport
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-36thstnewport/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T19:05:51.338Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T19:05:51.338Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-36thstnewport/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-36thstnewport/wc-36thstnewport
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-36thstnewport/wc-36thstnewport.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-36thstnewport/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-36thstnewport/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-36thstnewport/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 36th St.
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2.5
+      value: FAIR
+    hasLiveWind: true
+    insightsCameraId: 5834945f3421b20545c4b519
+    lat: 33.61555743705257
+    legacyId: 4226
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.93676
+    name: Newport Lower Jetties
+    note: null
+    offshoreDirection: 211
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed60dadb30820bb39a11
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 32
+    rating:
+      human: false
+      key: FAIR
+      value: 2.5
+    relivableRating: 4
+    saveFailures: 0
+    sensorId: 62417f482bb24d4da543ed21
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Thigh to stomach
+      lastCameraObservation: 1734022643
+      max: 3.47402
+      min: 1.96688
+    swells:
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a770882a/5842041f4e65fad6a770882a_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Thigh to stomach
+      lastCameraObservation: 1734022643
+      max: 3
+      min: 2
+      occasional: null
+      plus: true
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 253.54371
+      directionType: Onshore
+      gust: 1
+      speed: 1
+  - _id: 584204204e65fad6a7709115
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - FUNBOARD
+    - LONGBOARD
+    - BODYBOARD
+    cameras:
+    - _id: 5a203785096c27001ac4f18c
+      alias: wc-24thblackies
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-24thblackies/latest_small.jpg
+      highlights:
+        gifUrl: ''
+        thumbUrl: https://highlights.cdn-surfline.com/us-west-2/thumbnails/5a203785096c27001ac4f18c-20241212T163820237Z.jpg
+        url: https://highlights.cdn-surfline.com/us-west-2/clips/5a203785096c27001ac4f18c-20241212T163820237Z.mp4
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera hosted by Villa Rentals
+        name: ''
+        url: https://villarentalsinc.com/
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T18:41:17.186Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T18:41:17.186Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-24thblackies/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-24thblackies/wc-24thblackies
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-24thblackies/wc-24thblackies.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-24thblackies/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-24thblackies/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-24thblackies/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: true
+      supportsInsights: true
+      supportsSmartRewinds: true
+      title: OC - 24th St.
+    - _id: 582355e11ee905c72145623c
+      alias: wc-pierleftsblackies
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-pierleftsblackies/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Camera Hosted by Burr White Realty
+        name: ''
+        url: https://www.burrwhite.com/
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T13:25:17.695Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T13:25:17.695Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-pierleftsblackies/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-pierleftsblackies/wc-pierleftsblackies
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-pierleftsblackies/wc-pierleftsblackies.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-pierleftsblackies/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-pierleftsblackies/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-pierleftsblackies/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Pier Lefts, Newport
+    - _id: 5cb6590e37ad9fe847480cef
+      alias: wc-22ndblackies
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-22ndblackies/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: City of Newport Beach
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T20:32:30.628Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T20:32:30.628Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-22ndblackies/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-22ndblackies/wc-22ndblackies
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-22ndblackies/wc-22ndblackies.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-22ndblackies/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-22ndblackies/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-22ndblackies/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 22nd St.
+    - _id: 668dbbd481450be05ccf5fa9
+      alias: wc-26thblackies
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-26thblackies/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: ''
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T19:47:05.332Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T19:47:05.332Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-26thblackies/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-26thblackies/wc-26thblackies
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-26thblackies/wc-26thblackies.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-26thblackies/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-26thblackies/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-26thblackies/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - 26th St.
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 1
+      value: POOR
+    hasLiveWind: true
+    insightsCameraId: 5a203785096c27001ac4f18c
+    lat: 33.60891872680435
+    legacyId: 53412
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.93112
+    name: Blackies
+    note: null
+    offshoreDirection: 209
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed60dadb30820bb39a11
+    popularIn: []
+    rank: 34
+    rating:
+      human: false
+      key: POOR
+      value: 1
+    relivableRating: 5
+    saveFailures: 0
+    sensorId: 62417f482bb24d4da543ed21
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Thigh to waist
+      lastCameraObservation: 1734022098
+      max: 2.95246
+      min: 1.95335
+    swells:
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/584204204e65fad6a7709115/584204204e65fad6a7709115_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Thigh to waist
+      lastCameraObservation: 1734022098
+      max: 3
+      min: 2
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 253.54371
+      directionType: Onshore
+      gust: 1
+      speed: 1
+  - _id: 5842041f4e65fad6a77088f2
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - BODYBOARD
+    - GUN
+    cameras:
+    - _id: 58349dfee411dc743a5d52be
+      alias: wc-newportpierss
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-newportpierss/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: City of Newport Beach
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T22:55:23.848Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T22:55:23.848Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-newportpierss/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-newportpierss/wc-newportpierss
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-newportpierss/wc-newportpierss.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-newportpierss/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-newportpierss/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-newportpierss/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Newport Pier, Southside
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: false
+    insightsCameraId: null
+    lat: 33.605165797643664
+    legacyId: 4877
+    legacyRegionId: 2143
+    liveWindSourceProvider: null
+    lon: -117.925
+    name: Newport Point
+    note: null
+    offshoreDirection: 207
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed60dadb30820bb39a11
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 38
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 0
+    saveFailures: 0
+    sensorId: null
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 1.54199
+      min: 0.55774
+    swells:
+    - direction: 197.11
+      directionMin: 193.875
+      event: 3
+      height: 0.7
+      period: 16
+    - direction: 168.67
+      directionMin: 164.4
+      event: 2
+      height: 0.8
+      period: 9
+    - direction: 203.6
+      directionMin: 200.73
+      event: 4
+      height: 0.6
+      period: 13
+    - direction: 236.44
+      directionMin: 232.59
+      event: 0
+      height: 0.3
+      period: 15
+    - direction: 262.03
+      directionMin: 252.38
+      event: 5
+      height: 0.8
+      period: 3
+    - direction: 274.46
+      directionMin: 269.75
+      event: 1
+      height: 1.3
+      period: 17
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088f2/5842041f4e65fad6a77088f2_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 155.60859
+      directionType: Onshore
+      gust: 6
+      speed: 4
+  - _id: 5842041f4e65fad6a770882b
+    abilityLevels:
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - SKIMMING
+    - BODYBOARD
+    - BODYSURFING
+    cameras:
+    - _id: 669954cea3fa9ec6f1eee524
+      alias: wc-wedge
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-wedge/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: 'City of Newport Beach '
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T05:08:38.231Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T05:08:38.231Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-wedge/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-wedge/wc-wedge
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-wedge/wc-wedge.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-wedge/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-wedge/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-wedge/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - The Wedge
+    - _id: 5834a1613421b20545c4b591
+      alias: wc-wedgeov
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-wedgeov/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: City of Newport Beach
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T22:46:58.103Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T22:46:58.103Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-wedgeov/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-wedgeov/wc-wedgeov
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-wedgeov/wc-wedgeov.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-wedgeov/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-wedgeov/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-wedgeov/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - The Wedge Overview
+    - _id: 615f328a4ab1e4fad09c6b4e
+      alias: wc-wedgejetty
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-wedgejetty/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T16:45:16.429Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T16:45:16.429Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-wedgejetty/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-wedgejetty/wc-wedgejetty
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-wedgejetty/wc-wedgejetty.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-wedgejetty/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-wedgejetty/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-wedgejetty/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - The Wedge Jetty
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.5930302087
+    legacyId: 4232
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.88199
+    name: The Wedge
+    note: null
+    offshoreDirection: 202
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed60dadb30820bb39a11
+    popularIn:
+    - _id: 64542886354b581486a9befb
+      area: US
+      order: 19
+    - _id: 64542886354b586173a9befc
+      area: ZA
+      order: 13
+    - _id: 64542886354b585d5ba9befd
+      area: GLOBAL
+      order: 10
+    rank: 41
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 4
+    saveFailures: 0
+    sensorId: 62417cf138b1a334266afb31
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2.46063
+      min: 1.47638
+    swells:
+    - direction: 197.61
+      directionMin: 194.325
+      event: 1
+      height: 0.8
+      period: 16
+    - direction: 204.27
+      directionMin: 201.41
+      event: 4
+      height: 0.7
+      period: 13
+    - direction: 275.39
+      directionMin: 271.755
+      event: 2
+      height: 1.1
+      period: 17
+    - direction: 169.56
+      directionMin: 165.38
+      event: 3
+      height: 0.8
+      period: 9
+    - direction: 238.66
+      directionMin: 233.86
+      event: 0
+      height: 0.4
+      period: 15
+    - direction: 260.5
+      directionMin: 251.145
+      event: 5
+      height: 0.8
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a770882b/5842041f4e65fad6a770882b_1500.jpg
+    tide:
+      current:
+        height: 3.9
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038533
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.4
+        timestamp: 1734012448
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 58
+      min: 58
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 54
+    wind:
+      direction: 30.55813
+      directionType: Offshore
+      gust: 0
+      speed: 0
+  - _id: 5842041f4e65fad6a77088f3
+    abilityLevels:
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - FUNBOARD
+    - LONGBOARD
+    - BODYBOARD
+    cameras:
+    - _id: 605234b87db66d66eaecac9b
+      alias: wc-coronadelmar
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-coronadelmar/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: true
+        camLinkText: Become a Newport Beach Lifeguard! Click here
+        name: City of Newport Beach
+        url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+      isPremium: true
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-10T23:50:11.692Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-10T23:50:11.692Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-coronadelmar/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-coronadelmar/wc-coronadelmar
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-coronadelmar/wc-coronadelmar.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-coronadelmar/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-coronadelmar/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-coronadelmar/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Corona Del Mar
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.58982984726977
+    legacyId: 4879
+    legacyRegionId: 2143
+    liveWindSourceProvider: DAVIS
+    lon: -117.87713
+    name: Corona del Mar
+    note: null
+    offshoreDirection: 202
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed5ddadb30820bb39651
+    - 58f7ed51dadb30820bb387a6
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed5ddadb30820bb39689
+    - 58f7ed60dadb30820bb39a11
+    popularIn: []
+    rank: 42
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: null
+    saveFailures: 0
+    sensorId: 62417cf138b1a334266afb31
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 1.64042
+      min: 0.62336
+    swells:
+    - direction: 197.59
+      directionMin: 194.305
+      event: 4
+      height: 0.8
+      period: 16
+    - direction: 169.6
+      directionMin: 165.395
+      event: 3
+      height: 0.8
+      period: 9
+    - direction: 204.3
+      directionMin: 201.435
+      event: 0
+      height: 0.7
+      period: 13
+    - direction: 238.65
+      directionMin: 233.84
+      event: 1
+      height: 0.4
+      period: 15
+    - direction: 275.46
+      directionMin: 271.835
+      event: 2
+      height: 1.1
+      period: 17
+    - direction: 266.5
+      directionMin: 259.52
+      event: 5
+      height: 0.6
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77088f3/5842041f4e65fad6a77088f3_1500.jpg
+    tide:
+      current:
+        height: 3.9
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.8
+        timestamp: 1734038533
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.4
+        timestamp: 1734012448
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: MOSTLY_CLOUDY
+      temperature: 55
+    wind:
+      direction: 34.24022
+      directionType: Offshore
+      gust: 2
+      speed: 1
+  - _id: 5842041f4e65fad6a7708f21
+    abilityLevels:
+    - BEGINNER
+    - INTERMEDIATE
+    - ADVANCED
+    boardTypes:
+    - SHORTBOARD
+    - FUNBOARD
+    - LONGBOARD
+    - FISH
+    cameras:
+    - _id: 5bfd9de033218e7db282d13f
+      alias: wc-crystalcove
+      control: https://camstills.cdn-surfline.com/us-west-2/wc-crystalcove/latest_small.jpg
+      highlights: null
+      host:
+        camLinkEnabled: false
+        camLinkText: ''
+        name: ''
+        url: ''
+      isPremium: false
+      isPrerecorded: false
+      lastPrerecordedClipEndTimeUTC: '2024-12-11T10:02:01.198Z'
+      lastPrerecordedClipStartTimeUTC: '2024-12-11T10:02:01.198Z'
+      nighttime: false
+      pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-crystalcove/latest_small_pixelated.png
+      rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-crystalcove/wc-crystalcove
+      rewindClip: https://camrewinds.cdn-surfline.com/wc-crystalcove/wc-crystalcove.1300.2024-12-11.mp4
+      status:
+        altMessage: ''
+        isDown: false
+        message: ''
+        subMessage: ''
+      stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-crystalcove/latest_small.jpg
+      stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-crystalcove/latest_full.jpg
+      streamUrl: https://hls.cdn-surfline.com/oregon/wc-crystalcove/playlist.m3u8
+      supportsCrowds: false
+      supportsHighlights: false
+      supportsInsights: false
+      supportsSmartRewinds: false
+      title: OC - Crystal Cove
+    conditions:
+      expired: false
+      human: false
+      sortableCondition: 2
+      value: POOR_TO_FAIR
+    hasLiveWind: true
+    insightsCameraId: null
+    lat: 33.55895564746362
+    legacyId: 46525
+    legacyRegionId: 2143
+    liveWindSourceProvider: MADIS
+    lon: -117.82135
+    name: Crystal Cove
+    note: null
+    offshoreDirection: 220
+    parentTaxonomy:
+    - 58f7ed51dadb30820bb38782
+    - 58f7ed51dadb30820bb38791
+    - 58f7ed51dadb30820bb3879c
+    - 58f7ed51dadb30820bb387a6
+    - 58f7ed5ddadb30820bb39651
+    - 5908c46bdadb30820b23c1f3
+    - 58f7ed60dadb30820bb39a11
+    - 58f7ed5ddadb30820bb39689
+    popularIn: []
+    rank: 43
+    rating:
+      human: false
+      key: POOR_TO_FAIR
+      value: 2
+    relivableRating: 5
+    saveFailures: 0
+    slug: DEPRECATED
+    subregion:
+      name: North Orange County
+    subregionId: 58581a836630e24c44878fd6
+    surf:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 1.60761
+      min: 0.62336
+    swells:
+    - direction: 198.69
+      directionMin: 195.49
+      event: 3
+      height: 0.8
+      period: 16
+    - direction: 205.48
+      directionMin: 202.29
+      event: 0
+      height: 0.8
+      period: 13
+    - direction: 267
+      directionMin: 261.24
+      event: 1
+      height: 0.8
+      period: 17
+    - direction: 277.5
+      directionMin: 274.67
+      event: 2
+      height: 0.8
+      period: 14
+    - direction: 171.06
+      directionMin: 166.885
+      event: 4
+      height: 0.7
+      period: 9
+    - direction: 259.43
+      directionMin: 250.7
+      event: 5
+      height: 0.7
+      period: 3
+    thumbnail: https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708f21/5842041f4e65fad6a7708f21_1500.jpg
+    tide:
+      current:
+        height: 3.8
+        timestamp: 1734022829
+        type: NORMAL
+        utcOffset: -8
+      next:
+        height: -0.7
+        timestamp: 1734038572
+        type: LOW
+        utcOffset: -8
+      previous:
+        height: 6.3
+        timestamp: 1734012101
+        type: HIGH
+        utcOffset: -8
+    timezone: America/Los_Angeles
+    waterTemp:
+      max: 60
+      min: 60
+    waveHeight:
+      human: false
+      humanRelation: Knee to thigh
+      lastCameraObservation: null
+      max: 2
+      min: 1
+      occasional: null
+      plus: false
+    weather:
+      condition: MIST
+      temperature: 51
+    wind:
+      direction: 96.41157
+      directionType: Offshore
+      gust: 4
+      speed: 2
+units:
+  pressure: MB
+  swellHeight: FT
+  temperature: F
+  tideHeight: FT
+  waveHeight: FT
+  windSpeed: KTS

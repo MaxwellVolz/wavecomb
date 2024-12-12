@@ -1,0 +1,412 @@
+associated:
+  abbrTimezone: PST
+  advertising:
+    spotId: '4875'
+    sst: 56-60
+    subregionId: '2143'
+  analytics:
+    spotId: '4875'
+    subregionId: '2143'
+  beachesUrl: https://www.surfline.com/travel/united-states/california/orange-county/newport-beach-surfing-and-beaches/5376890
+  chartsUrl: /surf-charts/wave-height/north-orange-county/58581a836630e24c44878fd6
+  href: https://www.surfline.com/surf-report/river-jetties/5842041f4e65fad6a77088ee
+  localPhotosUrl: http://www.surfline.com/photos/#!/gallery/location/north-america/southern-california/north-orange-county/santa-ana-river-jetties/
+  subregionUrl: https://www.surfline.com/surf-forecasts/north-orange-county/58581a836630e24c44878fd6
+  timezone: America/Los_Angeles
+  units:
+    pressure: MB
+    swellHeight: FT
+    temperature: F
+    tideHeight: FT
+    waveHeight: FT
+    windSpeed: KTS
+  utcOffset: -8
+  weatherIconPath: https://wa.cdn-surfline.com/quiver/0.21.2/weathericons
+  windStation:
+    location:
+      lat: 33.62946
+      lon: -117.95608
+    name: River Jetties
+    provider: DAVIS
+forecast:
+  conditions:
+    expired: false
+    human: false
+    sortableCondition: 2
+    value: POOR_TO_FAIR
+  forecaster:
+    iconUrl: https://www.gravatar.com/avatar/7b56791847d5971c1dce71f35fba259d?d=mm
+    name: Kevin Wallis
+    title: Director of Forecasting
+  note: null
+  swells:
+  - direction: 274.46
+    directionMin: 269.75
+    event: 1
+    height: 1.3
+    period: 17
+  - direction: 197.11
+    directionMin: 193.875
+    event: 3
+    height: 0.7
+    period: 16
+  - direction: 203.6
+    directionMin: 200.73
+    event: 4
+    height: 0.6
+    period: 13
+  - direction: 168.67
+    directionMin: 164.4
+    event: 2
+    height: 0.8
+    period: 9
+  - direction: 236.44
+    directionMin: 232.59
+    event: 0
+    height: 0.3
+    period: 15
+  - direction: 262.03
+    directionMin: 252.38
+    event: 5
+    height: 0.8
+    period: 3
+  tide:
+    current:
+      height: 3.8
+      timestamp: 1734022829
+      type: NORMAL
+      utcOffset: -8
+    next:
+      height: -0.7
+      timestamp: 1734038572
+      type: LOW
+      utcOffset: -8
+    previous:
+      height: 6.3
+      timestamp: 1734012101
+      type: HIGH
+      utcOffset: -8
+  waterTemp:
+    max: 58
+    min: 58
+  waveHeight:
+    human: false
+    humanRelation: Waist to chest
+    lastCameraObservation: null
+    max: 4
+    min: 3
+    occasional: null
+    plus: false
+  weather:
+    condition: MIST
+    temperature: 54
+  wetsuit:
+    thickness: 3/2mm
+    type: Fullsuit
+  wind:
+    direction: 218.03999
+    directionType: Onshore
+    gust: 3
+    speed: 2
+live:
+  wind:
+    direction: 186
+    directionType: Onshore
+    gust: 1.73795
+    speed: 1.19049
+notes:
+  spot: null
+  subregion: null
+permissions:
+  data: []
+  violations:
+  - code: 4001
+    message: User does not have optional permission:sl_core-16day-forecast
+    permission:
+      name: sl_core-16day-forecast
+      required: false
+report:
+  body: '<p><strong>Thursday AM Report for North OC:</strong> <strong>Crumbly/bumpy
+    surf that looks sluggish on the deep early AM high tide - may improve some through
+    mid AM but onshore wind an issue</strong><br>
+
+    <br>
+
+    The nice conditions we''ve seen for most of the week have broken down with onshore
+    SW wind bump on it this morning. Combined with the early 6''+ high tide the surf
+    is mediocre at best. The mix of NW and SW swell continues with fairly widespread
+    waist-chest high surf from north of the HB Pier through West Newport. Top spots
+    are up to shoulder high or so.It''s rideable and semi peaky at times.&nbsp;</p>
+
+    <p>Finding a decent wind/tide window today will be a challenge. As the tide drops
+    through the morning and the swell mix stands up more we''re likely to see an increase
+    in SW wind and more bump. Then as the tide really drains out to a negative low
+    this afternoon, SW to W wind will come up further for bump to chop. The mid morning
+    will probably be the best mix of wind/tide but I''d keep expectations for even
+    that time low. &nbsp;<br>
+
+    <br>
+
+    </p>'
+  expired: false
+  forecaster:
+    iconUrl: https://www.gravatar.com/avatar/7b56791847d5971c1dce71f35fba259d?d=mm
+    name: Kevin Wallis
+    title: Director of Forecasting
+  headline: ''
+  timestamp: 1734014708
+spot:
+  _id: 5842041f4e65fad6a77088ee
+  abilityLevels:
+  - INTERMEDIATE
+  - ADVANCED
+  boardTypes:
+  - SHORTBOARD
+  - FISH
+  - BODYBOARD
+  - BODYSURFING
+  breadcrumb:
+  - href: https://www.surfline.com/surf-reports-forecasts-cams/united-states/6252001
+    name: United States
+  - href: https://www.surfline.com/surf-reports-forecasts-cams/united-states/california/5332921
+    name: California
+  - href: https://www.surfline.com/surf-reports-forecasts-cams/united-states/california/orange-county/5379524
+    name: Orange County
+  - href: https://www.surfline.com/surf-reports-forecasts-cams/united-states/california/orange-county/newport-beach/5376890
+    name: Newport Beach
+  cameras:
+  - _id: 5834a0223421b20545c4b581
+    alias: wc-riverjetties
+    control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_small.jpg
+    highlights: null
+    host:
+      camLinkEnabled: true
+      camLinkText: Check Your Homes Value HERE
+      name: ''
+      url: https://www.yourhomelongbeach.com/
+    isPremium: true
+    isPrerecorded: false
+    lastPrerecordedClipEndTimeUTC: '2024-12-10T19:57:21.441Z'
+    lastPrerecordedClipStartTimeUTC: '2024-12-10T19:57:21.441Z'
+    nighttime: false
+    pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjetties/latest_small_pixelated.png
+    rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjetties/wc-riverjetties
+    rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjetties/wc-riverjetties.1300.2024-12-11.mp4
+    status:
+      altMessage: ''
+      isDown: false
+      message: ''
+      subMessage: ''
+    stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_small.jpg
+    stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjetties/latest_full.jpg
+    streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjetties/playlist.m3u8
+    supportsCrowds: false
+    supportsHighlights: false
+    supportsInsights: false
+    supportsSmartRewinds: false
+    title: OC - River Jetties
+  - _id: 5a2036a6096c27001ac4f18b
+    alias: wc-riverjettiesnorth
+    control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_small.jpg
+    highlights: null
+    host:
+      camLinkEnabled: true
+      camLinkText: Become a Newport Beach Lifeguard! Click here
+      name: ''
+      url: https://www.newportbeachca.gov/government/departments/fire/lifeguard-operations-division/lifeguard-job-opportunities
+    isPremium: true
+    isPrerecorded: false
+    lastPrerecordedClipEndTimeUTC: '2024-12-10T20:27:23.960Z'
+    lastPrerecordedClipStartTimeUTC: '2024-12-10T20:27:23.960Z'
+    nighttime: false
+    pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiesnorth/latest_small_pixelated.png
+    rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiesnorth/wc-riverjettiesnorth
+    rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiesnorth/wc-riverjettiesnorth.1300.2024-12-11.mp4
+    status:
+      altMessage: ''
+      isDown: false
+      message: ''
+      subMessage: ''
+    stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_small.jpg
+    stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesnorth/latest_full.jpg
+    streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiesnorth/playlist.m3u8
+    supportsCrowds: false
+    supportsHighlights: false
+    supportsInsights: false
+    supportsSmartRewinds: false
+    title: OC - River Jetties North
+  - _id: 5c7184f33ad66f7a3686e7e6
+    alias: wc-riverjettiessouth
+    control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_small.jpg
+    highlights: null
+    host:
+      camLinkEnabled: true
+      camLinkText: Check Your Homes Value HERE
+      name: ''
+      url: http://www.valuelongbeachhomes.com/
+    isPremium: true
+    isPrerecorded: false
+    lastPrerecordedClipEndTimeUTC: '2024-12-11T02:35:27.772Z'
+    lastPrerecordedClipStartTimeUTC: '2024-12-11T02:35:27.772Z'
+    nighttime: false
+    pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiessouth/latest_small_pixelated.png
+    rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiessouth/wc-riverjettiessouth
+    rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiessouth/wc-riverjettiessouth.1300.2024-12-11.mp4
+    status:
+      altMessage: ''
+      isDown: false
+      message: ''
+      subMessage: ''
+    stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_small.jpg
+    stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiessouth/latest_full.jpg
+    streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiessouth/playlist.m3u8
+    supportsCrowds: false
+    supportsHighlights: false
+    supportsInsights: false
+    supportsSmartRewinds: false
+    title: OC - River Jetties South
+  - _id: 669837cea177eae316757802
+    alias: wc-riverjettiesstate
+    control: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_small.jpg
+    highlights: null
+    host:
+      camLinkEnabled: false
+      camLinkText: ''
+      name: ''
+      url: ''
+    isPremium: true
+    isPrerecorded: false
+    lastPrerecordedClipEndTimeUTC: '2024-12-10T20:03:24.101Z'
+    lastPrerecordedClipStartTimeUTC: '2024-12-10T20:03:24.101Z'
+    nighttime: false
+    pixelatedStillUrl: https://camstills.cdn-surfline.com/wc-riverjettiesstate/latest_small_pixelated.png
+    rewindBaseUrl: https://camrewinds.cdn-surfline.com/wc-riverjettiesstate/wc-riverjettiesstate
+    rewindClip: https://camrewinds.cdn-surfline.com/wc-riverjettiesstate/wc-riverjettiesstate.1300.2024-12-11.mp4
+    status:
+      altMessage: ''
+      isDown: false
+      message: ''
+      subMessage: ''
+    stillUrl: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_small.jpg
+    stillUrlFull: https://camstills.cdn-surfline.com/us-west-2/wc-riverjettiesstate/latest_full.jpg
+    streamUrl: https://hls.cdn-surfline.com/oregon/wc-riverjettiesstate/playlist.m3u8
+    supportsCrowds: false
+    supportsHighlights: false
+    supportsInsights: false
+    supportsSmartRewinds: false
+    title: OC - River Jetties State Beach
+  consistencyEnabled: true
+  hasLiveWind: true
+  insightsCameraId: null
+  lat: 33.62778647706099
+  legacyId: 4875
+  legacyRegionId: 2143
+  lineupEnabled: false
+  lon: -117.95939
+  metaDescription: ''
+  name: River Jetties
+  spectraDataAvailable: true
+  subregion:
+    _id: 58581a836630e24c44878fd6
+    forecastStatus: active
+    name: North Orange County
+  titleTag: ''
+  travelDetails:
+    abilityLevels:
+      description: Intermediate to advanced.
+      levels:
+      - INTERMEDIATE
+      - ADVANCED
+      summary: INTERMEDIATE, ADVANCED
+    access: Street parking with a few meters sprinkled in for good measure. Double
+      check that street sweeping day, if there are available spots galore it's probably
+      too good to be true.
+    best:
+      season:
+        description: March-October, but can be good on some W or NW swells November-February.
+        value:
+        - Spring
+        - Summer
+        - Autumn
+      size:
+        description: Chest-overhead
+        value:
+        - 2-8
+      swellDirection:
+        description: SSE, S, SW; also short period W, WNW; combo of North and South
+          Hemi swells
+        value:
+        - SSE
+        - S
+        - SSW
+        - WSW
+        - W
+      tide:
+        description: All tides.
+        value:
+        - Low
+        - Medium_Low
+        - Medium
+        - Medium_High
+        - High
+      windDirection:
+        description: NE, Santa Anas.
+        value:
+        - N
+        - NNE
+        - NE
+        - ENE
+        - E
+    boardTypes:
+    - SHORTBOARD
+    - FISH
+    - BODYBOARD
+    - BODYSURFING
+    bottom:
+      description: Sand.
+      value:
+      - Sand
+    breakType:
+    - Rights
+    - Lefts
+    - Beach_Break
+    - Jetty
+    crowdFactor:
+      description: Moderate to heavy.
+      rating: 7
+      summary: Moderate
+    description: 'Santa Ana River Jetties is the most consistent spot in Newport.
+      It is, however, extremely varied in shape and depends on the contour of the
+      sandbars. Lefts tend to be fast and predominant during S swells and can turn
+      hollow on a light offshore wind. Westerly winds easily blow out the spot. In
+      winter, the break is far peakier. Steep peaks are found on the right tide, but
+      if you don''t surf the spot regularly, the chances of a great day are slim. '
+    hazards: Too many people in the way, getting sick or infections.
+    localVibe:
+      description: Tolerant.
+      rating: 4
+      summary: Doable
+    relatedArticleId: ''
+    shoulderBurn:
+      description: Pretty short paddle most days, but can be a lot of work on a strong
+        south or northwest swell with current.
+      rating: 6
+      summary: Medium
+    spotRating:
+      description: Punchy little beachbreak most days, can get exceptional on a good
+        combo or tropical swell.
+      rating: 7
+      summary: Fun
+    status: PUBLISHED
+    travelId: null
+    waterQuality:
+      description: Not great, toxic after a big rain.
+      rating: 8
+      summary: Dirty
+units:
+  pressure: MB
+  swellHeight: FT
+  temperature: F
+  tideHeight: FT
+  waveHeight: FT
+  windSpeed: KTS
