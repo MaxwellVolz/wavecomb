@@ -1,0 +1,4940 @@
+associated:
+  forecastLocation:
+    lat: 33.55
+    lon: -117.95
+  location:
+    lat: 33.62778647706099
+    lon: -117.95939
+  runInitializationTimestamp: 1733940000
+  units:
+    swellHeight: FT
+data:
+  swells:
+  - power: 27.90406
+    probability: 100
+    swells:
+    - direction: 275.29
+      directionMin: 271.67
+      height: 0.7874
+      impact: 0.1515
+      period: 12
+      power: 2.36028
+    - direction: 167.13
+      directionMin: 163.255
+      height: 0.82021
+      impact: 0.1853
+      period: 10
+      power: 2.16938
+    - direction: 201.19
+      directionMin: 197.775
+      height: 1.11549
+      impact: 0.3615
+      period: 16
+      power: 20.3432
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 270.76
+      directionMin: 266.32
+      height: 0.55774
+      impact: 0.1568
+      period: 18
+      power: 2.80177
+    - direction: 233.34
+      directionMin: 230.73
+      height: 0.19685
+      impact: 0.1108
+      period: 17
+      power: 0.22943
+    timestamp: 1733904000
+    utcOffset: -8
+  - power: 26.922
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.11
+      directionMin: 163.235
+      height: 0.82021
+      impact: 0.1861
+      period: 10
+      power: 2.14764
+    - direction: 201.19
+      directionMin: 197.8
+      height: 1.11549
+      impact: 0.3626
+      period: 16
+      power: 20.04396
+    - direction: 275.21
+      directionMin: 271.59
+      height: 0.7874
+      impact: 0.1316
+      period: 9
+      power: 1.13111
+    - direction: 271.26
+      directionMin: 266.885
+      height: 0.59055
+      impact: 0.1646
+      period: 18
+      power: 3.26768
+    - direction: 233.46
+      directionMin: 230.75
+      height: 0.22966
+      impact: 0.1206
+      period: 17
+      power: 0.33161
+    timestamp: 1733907600
+    utcOffset: -8
+  - power: 26.54723
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.12
+      directionMin: 163.24
+      height: 0.82021
+      impact: 0.1852
+      period: 10
+      power: 2.09342
+    - direction: 200.91
+      directionMin: 197.935
+      height: 1.11549
+      impact: 0.3596
+      period: 15
+      power: 19.27158
+    - direction: 275.18
+      directionMin: 271.595
+      height: 0.75459
+      impact: 0.1273
+      period: 9
+      power: 1.00717
+    - direction: 271.67
+      directionMin: 267.34000000000003
+      height: 0.62336
+      impact: 0.1711
+      period: 18
+      power: 3.75043
+    - direction: 234.15
+      directionMin: 230.97
+      height: 0.26247
+      impact: 0.1224
+      period: 17
+      power: 0.42463
+    timestamp: 1733911200
+    utcOffset: -8
+  - power: 27.4757
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.12
+      directionMin: 163.24
+      height: 0.82021
+      impact: 0.1815
+      period: 9
+      power: 1.97958
+    - direction: 201.23
+      directionMin: 197.915
+      height: 1.14829
+      impact: 0.3591
+      period: 15
+      power: 19.34582
+    - direction: 274.98
+      directionMin: 271.295
+      height: 0.75459
+      impact: 0.1259
+      period: 9
+      power: 0.9961
+    - direction: 272.03
+      directionMin: 267.78999999999996
+      height: 0.68898
+      impact: 0.1824
+      period: 18
+      power: 4.85087
+    - direction: 233.47
+      directionMin: 230.85999999999999
+      height: 0.22966
+      impact: 0.117
+      period: 16
+      power: 0.30333
+    timestamp: 1733914800
+    utcOffset: -8
+  - power: 27.46043
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.15
+      directionMin: 163.26500000000001
+      height: 0.82021
+      impact: 0.1796
+      period: 9
+      power: 1.90112
+    - direction: 201.28
+      directionMin: 197.975
+      height: 1.14829
+      impact: 0.3561
+      period: 15
+      power: 18.80167
+    - direction: 274.9
+      directionMin: 271.265
+      height: 0.72178
+      impact: 0.1213
+      period: 9
+      power: 0.88008
+    - direction: 272.45
+      directionMin: 268.34999999999997
+      height: 0.72178
+      impact: 0.1882
+      period: 17
+      power: 5.4556
+    - direction: 234.77
+      directionMin: 231.47500000000002
+      height: 0.26247
+      impact: 0.1209
+      period: 17
+      power: 0.42196
+    timestamp: 1733918400
+    utcOffset: -8
+  - power: 26.78539
+    probability: 100
+    swells:
+    - direction: 280.54
+      directionMin: 278.605
+      height: 0.32808
+      impact: 0.0675
+      period: 11
+      power: 0.16233
+    - direction: 167.16
+      directionMin: 163.27
+      height: 0.82021
+      impact: 0.1725
+      period: 9
+      power: 1.79465
+    - direction: 201.68
+      directionMin: 197.98000000000002
+      height: 1.14829
+      impact: 0.3428
+      period: 15
+      power: 17.92887
+    - direction: 273.45
+      directionMin: 269.91499999999996
+      height: 0.62336
+      impact: 0.113
+      period: 9
+      power: 0.60453
+    - direction: 272.6
+      directionMin: 268.49
+      height: 0.75459
+      impact: 0.1876
+      period: 17
+      power: 5.88952
+    - direction: 235.48
+      directionMin: 232.215
+      height: 0.26247
+      impact: 0.1166
+      period: 17
+      power: 0.40549
+    timestamp: 1733922000
+    utcOffset: -8
+  - power: 28.07678
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.21
+      directionMin: 163.31
+      height: 0.7874
+      impact: 0.1727
+      period: 9
+      power: 1.63436
+    - direction: 201.73
+      directionMin: 198.05499999999998
+      height: 1.14829
+      impact: 0.3553
+      period: 15
+      power: 18.50712
+    - direction: 274.81
+      directionMin: 271.205
+      height: 0.68898
+      impact: 0.1169
+      period: 9
+      power: 0.76927
+    - direction: 272.81
+      directionMin: 268.69
+      height: 0.7874
+      impact: 0.2005
+      period: 17
+      power: 6.75166
+    - direction: 235.47
+      directionMin: 232.24
+      height: 0.26247
+      impact: 0.1206
+      period: 17
+      power: 0.41437
+    timestamp: 1733925600
+    utcOffset: -8
+  - power: 28.44862
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.34
+      directionMin: 163.34
+      height: 0.7874
+      impact: 0.1718
+      period: 9
+      power: 1.61166
+    - direction: 201.46
+      directionMin: 198.16
+      height: 1.14829
+      impact: 0.354
+      period: 15
+      power: 18.41436
+    - direction: 274.68
+      directionMin: 270.995
+      height: 0.68898
+      impact: 0.1163
+      period: 9
+      power: 0.75832
+    - direction: 272.95
+      directionMin: 268.675
+      height: 0.82021
+      impact: 0.2047
+      period: 17
+      power: 7.26438
+    - direction: 234.71
+      directionMin: 231.54000000000002
+      height: 0.26247
+      impact: 0.1194
+      period: 16
+      power: 0.3999
+    timestamp: 1733929200
+    utcOffset: -8
+  - power: 28.04332
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.4
+      directionMin: 163.38500000000002
+      height: 0.7874
+      impact: 0.1713
+      period: 9
+      power: 1.59641
+    - direction: 201.49
+      directionMin: 198.20000000000002
+      height: 1.14829
+      impact: 0.3534
+      period: 15
+      power: 18.35817
+    - direction: 274.62
+      directionMin: 270.865
+      height: 0.65617
+      impact: 0.1108
+      period: 9
+      power: 0.63283
+    - direction: 273.35
+      directionMin: 269.115
+      height: 0.82021
+      impact: 0.2025
+      period: 17
+      power: 6.91846
+    - direction: 234.74
+      directionMin: 231.62
+      height: 0.29528
+      impact: 0.1282
+      period: 16
+      power: 0.53745
+    timestamp: 1733932800
+    utcOffset: -8
+  - power: 26.83183
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.43
+      directionMin: 163.405
+      height: 0.7874
+      impact: 0.1722
+      period: 9
+      power: 1.59421
+    - direction: 201.16
+      directionMin: 198.16
+      height: 1.11549
+      impact: 0.3475
+      period: 15
+      power: 16.98857
+    - direction: 274.58
+      directionMin: 270.78999999999996
+      height: 0.65617
+      impact: 0.1108
+      period: 8
+      power: 0.61369
+    - direction: 273.94
+      directionMin: 269.905
+      height: 0.85302
+      impact: 0.1911
+      period: 16
+      power: 6.89351
+    - direction: 232.97
+      directionMin: 229.285
+      height: 0.32808
+      impact: 0.1444
+      period: 16
+      power: 0.74185
+    timestamp: 1733936400
+    utcOffset: -8
+  - power: 28.07577
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.5
+      directionMin: 163.44
+      height: 0.7874
+      impact: 0.1706
+      period: 9
+      power: 1.57242
+    - direction: 201.13
+      directionMin: 198.17
+      height: 1.11549
+      impact: 0.3444
+      period: 15
+      power: 16.81408
+    - direction: 274.45
+      directionMin: 270.72499999999997
+      height: 0.62336
+      impact: 0.1049
+      period: 8
+      power: 0.51195
+    - direction: 274.53
+      directionMin: 270.67999999999995
+      height: 0.91864
+      impact: 0.2005
+      period: 16
+      power: 8.27657
+    - direction: 234.09
+      directionMin: 230.07500000000002
+      height: 0.36089
+      impact: 0.1458
+      period: 16
+      power: 0.90075
+    timestamp: 1733940000
+    utcOffset: -8
+  - power: 29.75065
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.35
+      directionMin: 163.385
+      height: 0.7874
+      impact: 0.1688
+      period: 9
+      power: 1.54895
+    - direction: 201.16
+      directionMin: 198.03
+      height: 1.14829
+      impact: 0.3492
+      period: 15
+      power: 18.0414
+    - direction: 274.36
+      directionMin: 270.58000000000004
+      height: 0.62336
+      impact: 0.1034
+      period: 8
+      power: 0.49375
+    - direction: 274.51
+      directionMin: 270.46999999999997
+      height: 0.95144
+      impact: 0.2039
+      period: 16
+      power: 8.95186
+    - direction: 232.76
+      directionMin: 229.47
+      height: 0.32808
+      impact: 0.1412
+      period: 16
+      power: 0.71469
+    timestamp: 1733943600
+    utcOffset: -8
+  - power: 30.44291
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.3
+      directionMin: 163.41500000000002
+      height: 0.75459
+      impact: 0.1639
+      period: 9
+      power: 1.37514
+    - direction: 201.08
+      directionMin: 197.95000000000002
+      height: 1.14829
+      impact: 0.351
+      period: 15
+      power: 18.10967
+    - direction: 274.19
+      directionMin: 270.425
+      height: 0.59055
+      impact: 0.0992
+      period: 8
+      power: 0.4169
+    - direction: 274.78
+      directionMin: 270.77
+      height: 0.98425
+      impact: 0.2104
+      period: 16
+      power: 9.82475
+    - direction: 232.97
+      directionMin: 229.7
+      height: 0.32808
+      impact: 0.1419
+      period: 16
+      power: 0.71645
+    timestamp: 1733947200
+    utcOffset: -8
+  - power: 30.42118
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.29
+      directionMin: 163.41
+      height: 0.75459
+      impact: 0.1639
+      period: 9
+      power: 1.36903
+    - direction: 200.99
+      directionMin: 197.85500000000002
+      height: 1.14829
+      impact: 0.3513
+      period: 15
+      power: 18.12515
+    - direction: 274.19
+      directionMin: 270.425
+      height: 0.59055
+      impact: 0.0988
+      period: 8
+      power: 0.40709
+    - direction: 274.9
+      directionMin: 270.89
+      height: 0.98425
+      impact: 0.2105
+      period: 16
+      power: 9.80525
+    - direction: 233.09
+      directionMin: 229.82
+      height: 0.32808
+      impact: 0.1419
+      period: 16
+      power: 0.71466
+    timestamp: 1733950800
+    utcOffset: -8
+  - power: 31.18018
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.34
+      directionMin: 163.445
+      height: 0.75459
+      impact: 0.1629
+      period: 9
+      power: 1.35461
+    - direction: 200.93
+      directionMin: 197.775
+      height: 1.14829
+      impact: 0.3496
+      period: 15
+      power: 18.03744
+    - direction: 274.24
+      directionMin: 270.44
+      height: 0.59055
+      impact: 0.098
+      period: 8
+      power: 0.39879
+    - direction: 274.95
+      directionMin: 270.9
+      height: 1.01706
+      impact: 0.215
+      period: 16
+      power: 10.68048
+    - direction: 233.1
+      directionMin: 229.875
+      height: 0.32808
+      impact: 0.1411
+      period: 16
+      power: 0.70886
+    timestamp: 1733954400
+    utcOffset: -8
+  - power: 31.43045
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.26
+      directionMin: 163.42499999999998
+      height: 0.75459
+      impact: 0.1645
+      period: 9
+      power: 1.35876
+    - direction: 200.99
+      directionMin: 197.72500000000002
+      height: 1.14829
+      impact: 0.3537
+      period: 15
+      power: 18.27389
+    - direction: 274.24
+      directionMin: 270.42
+      height: 0.55774
+      impact: 0.0945
+      period: 8
+      power: 0.33873
+    - direction: 275.11
+      directionMin: 271.125
+      height: 1.01706
+      impact: 0.2174
+      period: 16
+      power: 10.7864
+    - direction: 234.87
+      directionMin: 231.815
+      height: 0.32808
+      impact: 0.1361
+      period: 16
+      power: 0.67267
+    timestamp: 1733958000
+    utcOffset: -8
+  - power: 31.25364
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.32
+      directionMin: 163.47
+      height: 0.75459
+      impact: 0.1629
+      period: 9
+      power: 1.33952
+    - direction: 200.95
+      directionMin: 197.685
+      height: 1.14829
+      impact: 0.3507
+      period: 15
+      power: 18.1189
+    - direction: 274.26
+      directionMin: 270.48
+      height: 0.55774
+      impact: 0.0935
+      period: 8
+      power: 0.33178
+    - direction: 275.36
+      directionMin: 271.48
+      height: 1.01706
+      impact: 0.2152
+      period: 16
+      power: 10.5984
+    - direction: 235.83
+      directionMin: 232.4
+      height: 0.36089
+      impact: 0.1441
+      period: 16
+      power: 0.86504
+    timestamp: 1733961600
+    utcOffset: -8
+  - power: 31.18009
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.57
+      directionMin: 163.575
+      height: 0.75459
+      impact: 0.1628
+      period: 9
+      power: 1.32969
+    - direction: 200.85
+      directionMin: 197.66
+      height: 1.14829
+      impact: 0.351
+      period: 15
+      power: 18.1344
+    - direction: 274.33
+      directionMin: 270.46
+      height: 0.55774
+      impact: 0.0934
+      period: 8
+      power: 0.32892
+    - direction: 275.55
+      directionMin: 271.71000000000004
+      height: 1.01706
+      impact: 0.215
+      period: 16
+      power: 10.52313
+    - direction: 235.16
+      directionMin: 231.20499999999998
+      height: 0.36089
+      impact: 0.1441
+      period: 16
+      power: 0.86395
+    timestamp: 1733965200
+    utcOffset: -8
+  - power: 31.15956
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.58
+      directionMin: 163.61
+      height: 0.75459
+      impact: 0.1634
+      period: 9
+      power: 1.32557
+    - direction: 200.75
+      directionMin: 197.66
+      height: 1.14829
+      impact: 0.353
+      period: 15
+      power: 18.26262
+    - direction: 274.54
+      directionMin: 270.295
+      height: 0.52493
+      impact: 0.0896
+      period: 8
+      power: 0.2788
+    - direction: 275.81
+      directionMin: 272.055
+      height: 1.01706
+      impact: 0.2156
+      period: 16
+      power: 10.43492
+    - direction: 236.37
+      directionMin: 232.705
+      height: 0.36089
+      impact: 0.1445
+      period: 16
+      power: 0.85765
+    timestamp: 1733968800
+    utcOffset: -8
+  - power: 31.73565
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.64
+      directionMin: 163.65499999999997
+      height: 0.75459
+      impact: 0.1618
+      period: 9
+      power: 1.3037
+    - direction: 200.71
+      directionMin: 197.595
+      height: 1.14829
+      impact: 0.3501
+      period: 15
+      power: 18.0879
+    - direction: 275.73
+      directionMin: 270.73
+      height: 0.55774
+      impact: 0.0932
+      period: 8
+      power: 0.32905
+    - direction: 275.69
+      directionMin: 271.675
+      height: 1.04987
+      impact: 0.219
+      period: 16
+      power: 11.19586
+    - direction: 235.17
+      directionMin: 231.96499999999997
+      height: 0.36089
+      impact: 0.1423
+      period: 16
+      power: 0.81914
+    timestamp: 1733972400
+    utcOffset: -8
+  - power: 29.51344
+    probability: 100
+    swells:
+    - direction: 266.31
+      directionMin: 256.14
+      height: 0.65617
+      impact: 0.0648
+      period: 3
+      power: 0.0336
+    - direction: 167.71
+      directionMin: 163.725
+      height: 0.72178
+      impact: 0.1534
+      period: 9
+      power: 1.12575
+    - direction: 200.67
+      directionMin: 197.48999999999998
+      height: 1.11549
+      impact: 0.3364
+      period: 15
+      power: 16.42351
+    - direction: 273.36
+      directionMin: 269.945
+      height: 0.49213
+      impact: 0.0906
+      period: 8
+      power: 0.2503
+    - direction: 275.97
+      directionMin: 272.05
+      height: 1.04987
+      impact: 0.2148
+      period: 16
+      power: 10.87127
+    - direction: 236.45
+      directionMin: 232.83499999999998
+      height: 0.36089
+      impact: 0.14
+      period: 16
+      power: 0.80901
+    timestamp: 1733976000
+    utcOffset: -8
+  - power: 29.09222
+    probability: 100
+    swells:
+    - direction: 261.17
+      directionMin: 251.85500000000002
+      height: 0.72178
+      impact: 0.0774
+      period: 3
+      power: 0.05682
+    - direction: 168.15
+      directionMin: 163.915
+      height: 0.75459
+      impact: 0.1566
+      period: 9
+      power: 1.25037
+    - direction: 200.65
+      directionMin: 197.43
+      height: 1.11549
+      impact: 0.3319
+      period: 15
+      power: 16.20382
+    - direction: 273.42
+      directionMin: 269.96000000000004
+      height: 0.45932
+      impact: 0.085
+      period: 8
+      power: 0.20508
+    - direction: 275.92
+      directionMin: 271.545
+      height: 1.04987
+      impact: 0.2114
+      period: 16
+      power: 10.59159
+    - direction: 235.57
+      directionMin: 232.36499999999998
+      height: 0.36089
+      impact: 0.1377
+      period: 15
+      power: 0.78454
+    timestamp: 1733979600
+    utcOffset: -8
+  - power: 29.07392
+    probability: 100
+    swells:
+    - direction: 263.65
+      directionMin: 255.14999999999998
+      height: 0.65617
+      impact: 0.0689
+      period: 3
+      power: 0.04332
+    - direction: 167.97
+      directionMin: 163.87
+      height: 0.72178
+      impact: 0.1539
+      period: 9
+      power: 1.11916
+    - direction: 200.46
+      directionMin: 197.215
+      height: 1.08268
+      impact: 0.3304
+      period: 15
+      power: 15.25789
+    - direction: 273.26
+      directionMin: 269.8
+      height: 0.45932
+      impact: 0.0865
+      period: 8
+      power: 0.20764
+    - direction: 276.03
+      directionMin: 271.59499999999997
+      height: 1.08268
+      impact: 0.2205
+      period: 16
+      power: 11.65966
+    - direction: 236.78
+      directionMin: 233.1
+      height: 0.36089
+      impact: 0.1398
+      period: 15
+      power: 0.78625
+    timestamp: 1733983200
+    utcOffset: -8
+  - power: 30.22863
+    probability: 100
+    swells:
+    - direction: 266.35
+      directionMin: 258.69
+      height: 0.59055
+      impact: 0.063
+      period: 3
+      power: 0.03208
+    - direction: 168.02
+      directionMin: 163.91
+      height: 0.72178
+      impact: 0.1548
+      period: 9
+      power: 1.12056
+    - direction: 200.34
+      directionMin: 197.05
+      height: 1.08268
+      impact: 0.3333
+      period: 15
+      power: 15.4967
+    - direction: 272.9
+      directionMin: 269.5
+      height: 0.42651
+      impact: 0.0821
+      period: 8
+      power: 0.16693
+    - direction: 275.99
+      directionMin: 271.52500000000003
+      height: 1.11549
+      impact: 0.227
+      period: 16
+      power: 12.64485
+    - direction: 236.87
+      directionMin: 233.135
+      height: 0.36089
+      impact: 0.1399
+      period: 15
+      power: 0.76751
+    timestamp: 1733986800
+    utcOffset: -8
+  - power: 29.58757
+    probability: 100
+    swells:
+    - direction: 267.67
+      directionMin: 260.51
+      height: 0.52493
+      impact: 0.0567
+      period: 3
+      power: 0.02217
+    - direction: 168.11
+      directionMin: 163.99
+      height: 0.75459
+      impact: 0.1619
+      period: 9
+      power: 1.28092
+    - direction: 200.22
+      directionMin: 196.88
+      height: 1.04987
+      impact: 0.3301
+      period: 15
+      power: 14.74663
+    - direction: 272.87
+      directionMin: 269.41
+      height: 0.42651
+      impact: 0.0824
+      period: 8
+      power: 0.16329
+    - direction: 275.83
+      directionMin: 271.24
+      height: 1.11549
+      impact: 0.2287
+      period: 16
+      power: 12.62598
+    - direction: 236.61
+      directionMin: 233.07500000000002
+      height: 0.36089
+      impact: 0.1403
+      period: 15
+      power: 0.74858
+    timestamp: 1733990400
+    utcOffset: -8
+  - power: 31.64254
+    probability: 100
+    swells:
+    - direction: 269.18
+      directionMin: 262.265
+      height: 0.52493
+      impact: 0.0533
+      period: 3
+      power: 0.02145
+    - direction: 168.14
+      directionMin: 164.015
+      height: 0.75459
+      impact: 0.1616
+      period: 9
+      power: 1.27855
+    - direction: 200.15
+      directionMin: 196.74
+      height: 1.04987
+      impact: 0.3353
+      period: 15
+      power: 15.97964
+    - direction: 272.8
+      directionMin: 269.40000000000003
+      height: 0.3937
+      impact: 0.0772
+      period: 8
+      power: 0.12767
+    - direction: 276
+      directionMin: 271.71
+      height: 1.14829
+      impact: 0.2332
+      period: 16
+      power: 13.50331
+    - direction: 237.04
+      directionMin: 233.20499999999998
+      height: 0.36089
+      impact: 0.1394
+      period: 15
+      power: 0.73192
+    timestamp: 1733994000
+    utcOffset: -8
+  - power: 31.56759
+    probability: 100
+    swells:
+    - direction: 271.03
+      directionMin: 264.015
+      height: 0.55774
+      impact: 0.0578
+      period: 3
+      power: 0.0297
+    - direction: 168.2
+      directionMin: 164.07
+      height: 0.75459
+      impact: 0.1598
+      period: 9
+      power: 1.27011
+    - direction: 200.03
+      directionMin: 196.6
+      height: 1.01706
+      impact: 0.3256
+      period: 16
+      power: 15.03933
+    - direction: 272.84
+      directionMin: 269.445
+      height: 0.3937
+      impact: 0.076
+      period: 8
+      power: 0.12438
+    - direction: 275.69
+      directionMin: 271.65
+      height: 1.1811
+      impact: 0.2349
+      period: 15
+      power: 14.20525
+    - direction: 236.93
+      directionMin: 232.85
+      height: 0.3937
+      impact: 0.1458
+      period: 15
+      power: 0.89882
+    timestamp: 1733997600
+    utcOffset: -8
+  - power: 28.61327
+    probability: 100
+    swells:
+    - direction: 272.46
+      directionMin: 265.65
+      height: 0.55774
+      impact: 0.0536
+      period: 3
+      power: 0.02997
+    - direction: 168.58
+      directionMin: 164.25500000000002
+      height: 0.75459
+      impact: 0.1509
+      period: 9
+      power: 1.20761
+    - direction: 196.24
+      directionMin: 192.715
+      height: 0.65617
+      impact: 0.2123
+      period: 16
+      power: 4.48218
+    - direction: 202.68
+      directionMin: 200.115
+      height: 0.7874
+      impact: 0.2263
+      period: 14
+      power: 5.028
+    - direction: 275.72
+      directionMin: 271.86
+      height: 1.1811
+      impact: 0.2247
+      period: 17
+      power: 17.04452
+    - direction: 236.65
+      directionMin: 232.38500000000002
+      height: 0.3937
+      impact: 0.1321
+      period: 15
+      power: 0.82099
+    timestamp: 1734001200
+    utcOffset: -8
+  - power: 22.58768
+    probability: 100
+    swells:
+    - direction: 273.27
+      directionMin: 266.72999999999996
+      height: 0.52493
+      impact: 0.0529
+      period: 3
+      power: 0.02671
+    - direction: 168.53
+      directionMin: 164.29
+      height: 0.75459
+      impact: 0.156
+      period: 9
+      power: 1.25127
+    - direction: 196.23
+      directionMin: 192.61499999999998
+      height: 0.65617
+      impact: 0.2195
+      period: 16
+      power: 4.63985
+    - direction: 202.72
+      directionMin: 200.14
+      height: 0.75459
+      impact: 0.2258
+      period: 14
+      power: 4.58127
+    - direction: 272.02
+      directionMin: 268.18
+      height: 0.85302
+      impact: 0.1974
+      period: 18
+      power: 8.13013
+    - direction: 279.09
+      directionMin: 276.07
+      height: 0.85302
+      impact: 0.1484
+      period: 14
+      power: 3.95845
+    timestamp: 1734004800
+    utcOffset: -8
+  - power: 23.46626
+    probability: 100
+    swells:
+    - direction: 273.42
+      directionMin: 266.915
+      height: 0.49213
+      impact: 0.0494
+      period: 3
+      power: 0.02164
+    - direction: 168.62
+      directionMin: 164.31
+      height: 0.7874
+      impact: 0.1604
+      period: 9
+      power: 1.41364
+    - direction: 196.35
+      directionMin: 192.56
+      height: 0.65617
+      impact: 0.2175
+      period: 16
+      power: 4.58637
+    - direction: 202.74
+      directionMin: 200.155
+      height: 0.75459
+      impact: 0.2236
+      period: 14
+      power: 4.51071
+    - direction: 270.81
+      directionMin: 265.975
+      height: 0.88583
+      impact: 0.2021
+      period: 18
+      power: 9.03754
+    - direction: 279.04
+      directionMin: 276.035
+      height: 0.85302
+      impact: 0.1469
+      period: 14
+      power: 3.89636
+    timestamp: 1734008400
+    utcOffset: -8
+  - power: 23.57797
+    probability: 100
+    swells:
+    - direction: 273.17
+      directionMin: 266.59000000000003
+      height: 0.42651
+      impact: 0.0435
+      period: 3
+      power: 0.01404
+    - direction: 168.56
+      directionMin: 164.35
+      height: 0.7874
+      impact: 0.1616
+      period: 9
+      power: 1.42745
+    - direction: 196.07
+      directionMin: 192.405
+      height: 0.65617
+      impact: 0.2189
+      period: 16
+      power: 4.61589
+    - direction: 202.74
+      directionMin: 200.16
+      height: 0.75459
+      impact: 0.2249
+      period: 14
+      power: 4.52393
+    - direction: 270.34
+      directionMin: 265.10999999999996
+      height: 0.88583
+      impact: 0.2034
+      period: 18
+      power: 9.09568
+    - direction: 278.8
+      directionMin: 275.575
+      height: 0.85302
+      impact: 0.1477
+      period: 14
+      power: 3.90098
+    timestamp: 1734012000
+    utcOffset: -8
+  - power: 24.53172
+    probability: 100
+    swells:
+    - direction: 272.17
+      directionMin: 265.565
+      height: 0.42651
+      impact: 0.0427
+      period: 3
+      power: 0.013
+    - direction: 168.55
+      directionMin: 164.35500000000002
+      height: 0.7874
+      impact: 0.1615
+      period: 9
+      power: 1.42334
+    - direction: 197.1
+      directionMin: 193.835
+      height: 0.75459
+      impact: 0.2411
+      period: 16
+      power: 6.43952
+    - direction: 203.68
+      directionMin: 200.835
+      height: 0.65617
+      impact: 0.1977
+      period: 13
+      power: 2.73687
+    - direction: 270.45
+      directionMin: 265.215
+      height: 0.91864
+      impact: 0.2092
+      period: 18
+      power: 10.01537
+    - direction: 278.82
+      directionMin: 275.665
+      height: 0.85302
+      impact: 0.1478
+      period: 14
+      power: 3.90362
+    timestamp: 1734015600
+    utcOffset: -8
+  - power: 24.7084
+    probability: 100
+    swells:
+    - direction: 270.26
+      directionMin: 263.64
+      height: 0.45932
+      impact: 0.0447
+      period: 3
+      power: 0.01517
+    - direction: 168.69
+      directionMin: 164.41
+      height: 0.7874
+      impact: 0.1606
+      period: 9
+      power: 1.41862
+    - direction: 197.1
+      directionMin: 193.845
+      height: 0.75459
+      impact: 0.2391
+      period: 16
+      power: 6.33842
+    - direction: 203.65
+      directionMin: 200.835
+      height: 0.65617
+      impact: 0.1965
+      period: 13
+      power: 2.72026
+    - direction: 270.71
+      directionMin: 265.505
+      height: 0.91864
+      impact: 0.2076
+      period: 18
+      power: 9.88251
+    - direction: 278.82
+      directionMin: 275.71
+      height: 0.88583
+      impact: 0.1515
+      period: 14
+      power: 4.33342
+    timestamp: 1734019200
+    utcOffset: -8
+  - power: 35.75012
+    probability: 100
+    swells:
+    - direction: 266.74
+      directionMin: 259.435
+      height: 0.52493
+      impact: 0.0521
+      period: 3
+      power: 0.0234
+    - direction: 168.96
+      directionMin: 164.465
+      height: 0.82021
+      impact: 0.1594
+      period: 9
+      power: 1.52089
+    - direction: 197.12
+      directionMin: 193.89000000000001
+      height: 0.75459
+      impact: 0.2293
+      period: 16
+      power: 6.01791
+    - direction: 203.72
+      directionMin: 200.825
+      height: 0.65617
+      impact: 0.1889
+      period: 13
+      power: 2.61505
+    - direction: 274.67
+      directionMin: 270.065
+      height: 1.34514
+      impact: 0.248
+      period: 17
+      power: 24.9402
+    - direction: 237.32
+      directionMin: 233.25
+      height: 0.36089
+      impact: 0.1223
+      period: 15
+      power: 0.63267
+    timestamp: 1734022800
+    utcOffset: -8
+  - power: 42.24303
+    probability: 100
+    swells:
+    - direction: 263
+      directionMin: 254.825
+      height: 0.62336
+      impact: 0.0761
+      period: 3
+      power: 0.06086
+    - direction: 169
+      directionMin: 164.51
+      height: 0.82021
+      impact: 0.1753
+      period: 9
+      power: 1.65746
+    - direction: 200.01
+      directionMin: 196.52499999999998
+      height: 0.98425
+      impact: 0.3093
+      period: 15
+      power: 13.00608
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 275.14
+      directionMin: 270.905
+      height: 1.34514
+      impact: 0.272
+      period: 17
+      power: 26.8237
+    - direction: 237.14
+      directionMin: 233.315
+      height: 0.36089
+      impact: 0.1347
+      period: 15
+      power: 0.69493
+    timestamp: 1734026400
+    utcOffset: -8
+  - power: 42.08397
+    probability: 100
+    swells:
+    - direction: 262.45
+      directionMin: 254.10999999999999
+      height: 0.72178
+      impact: 0.0857
+      period: 3
+      power: 0.09801
+    - direction: 168.79
+      directionMin: 164.51
+      height: 0.82021
+      impact: 0.1701
+      period: 9
+      power: 1.58275
+    - direction: 200.04
+      directionMin: 196.54
+      height: 1.01706
+      impact: 0.3049
+      period: 15
+      power: 12.9549
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 275.78
+      directionMin: 272.09499999999997
+      height: 1.37795
+      impact: 0.2676
+      period: 17
+      power: 26.58297
+    - direction: 237.26
+      directionMin: 233.55499999999998
+      height: 0.3937
+      impact: 0.1398
+      period: 15
+      power: 0.86534
+    timestamp: 1734030000
+    utcOffset: -8
+  - power: 38.84187
+    probability: 100
+    swells:
+    - direction: 264.33
+      directionMin: 256.28999999999996
+      height: 0.7874
+      impact: 0.0923
+      period: 4
+      power: 0.15384
+    - direction: 168.84
+      directionMin: 164.57
+      height: 0.82021
+      impact: 0.1698
+      period: 9
+      power: 1.55467
+    - direction: 200.02
+      directionMin: 196.53
+      height: 1.01706
+      impact: 0.3036
+      period: 15
+      power: 12.57516
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276
+      directionMin: 272.385
+      height: 1.37795
+      impact: 0.262
+      period: 16
+      power: 23.68507
+    - direction: 237.24
+      directionMin: 233.54500000000002
+      height: 0.3937
+      impact: 0.1403
+      period: 15
+      power: 0.87313
+    timestamp: 1734033600
+    utcOffset: -8
+  - power: 37.52114
+    probability: 100
+    swells:
+    - direction: 266.33
+      directionMin: 258.78499999999997
+      height: 0.85302
+      impact: 0.0995
+      period: 4
+      power: 0.20283
+    - direction: 168.89
+      directionMin: 164.58499999999998
+      height: 0.82021
+      impact: 0.1687
+      period: 9
+      power: 1.52677
+    - direction: 200
+      directionMin: 196.515
+      height: 1.01706
+      impact: 0.3014
+      period: 15
+      power: 12.33287
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276.19
+      directionMin: 272.59499999999997
+      height: 1.37795
+      impact: 0.2587
+      period: 16
+      power: 22.58333
+    - direction: 237.03
+      directionMin: 233.51
+      height: 0.3937
+      impact: 0.1399
+      period: 15
+      power: 0.87534
+    timestamp: 1734037200
+    utcOffset: -8
+  - power: 38.2459
+    probability: 100
+    swells:
+    - direction: 267.41
+      directionMin: 259.96500000000003
+      height: 0.82021
+      impact: 0.0961
+      period: 4
+      power: 0.17928
+    - direction: 168.93
+      directionMin: 164.625
+      height: 0.82021
+      impact: 0.1684
+      period: 9
+      power: 1.50989
+    - direction: 199.91
+      directionMin: 196.48
+      height: 1.01706
+      impact: 0.3012
+      period: 15
+      power: 12.24116
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276.37
+      directionMin: 272.825
+      height: 1.41076
+      impact: 0.2624
+      period: 16
+      power: 23.43898
+    - direction: 236.93
+      directionMin: 233.42000000000002
+      height: 0.3937
+      impact: 0.1401
+      period: 15
+      power: 0.87659
+    timestamp: 1734040800
+    utcOffset: -8
+  - power: 37.78494
+    probability: 96.66666666666669
+    swells:
+    - direction: 267.84
+      directionMin: 260.14
+      height: 0.7874
+      impact: 0.093
+      period: 4
+      power: 0.15744
+    - direction: 168.94
+      directionMin: 164.625
+      height: 0.82021
+      impact: 0.1691
+      period: 9
+      power: 1.50555
+    - direction: 199.87
+      directionMin: 196.445
+      height: 1.01706
+      impact: 0.3025
+      period: 15
+      power: 12.22709
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276.57
+      directionMin: 273.09
+      height: 1.41076
+      impact: 0.2627
+      period: 16
+      power: 23.01924
+    - direction: 236.97
+      directionMin: 233.46
+      height: 0.3937
+      impact: 0.1407
+      period: 15
+      power: 0.87562
+    timestamp: 1734044400
+    utcOffset: -8
+  - power: 37.06051
+    probability: 96.66666666666669
+    swells:
+    - direction: 266.83
+      directionMin: 258.04499999999996
+      height: 0.82021
+      impact: 0.0957
+      period: 4
+      power: 0.17218
+    - direction: 168.99
+      directionMin: 164.645
+      height: 0.82021
+      impact: 0.1687
+      period: 8
+      power: 1.48792
+    - direction: 199.79
+      directionMin: 196.375
+      height: 1.01706
+      impact: 0.3022
+      period: 15
+      power: 12.18161
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276.77
+      directionMin: 273.35499999999996
+      height: 1.41076
+      impact: 0.2611
+      period: 15
+      power: 22.3521
+    - direction: 236.84
+      directionMin: 233.275
+      height: 0.3937
+      impact: 0.1404
+      period: 15
+      power: 0.8667
+    timestamp: 1734048000
+    utcOffset: -8
+  - power: 34.32525
+    probability: 96.66666666666669
+    swells:
+    - direction: 264.36
+      directionMin: 254.41000000000003
+      height: 0.91864
+      impact: 0.1057
+      period: 4
+      power: 0.23236
+    - direction: 169.01
+      directionMin: 164.625
+      height: 0.7874
+      impact: 0.1646
+      period: 8
+      power: 1.32849
+    - direction: 199.75
+      directionMin: 196.33
+      height: 0.98425
+      impact: 0.2969
+      period: 15
+      power: 11.16234
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 276.83
+      directionMin: 273.35499999999996
+      height: 1.41076
+      impact: 0.2592
+      period: 15
+      power: 20.74039
+    - direction: 236.56
+      directionMin: 233.06
+      height: 0.3937
+      impact: 0.1413
+      period: 15
+      power: 0.86167
+    timestamp: 1734051600
+    utcOffset: -8
+  - power: 31.95612
+    probability: 90
+    swells:
+    - direction: 263.22
+      directionMin: 252.24500000000003
+      height: 1.47638
+      impact: 0.1545
+      period: 4
+      power: 0.77375
+    - direction: 169.04
+      directionMin: 164.63
+      height: 0.7874
+      impact: 0.1563
+      period: 8
+      power: 1.25553
+    - direction: 199.56
+      directionMin: 196.22
+      height: 0.98425
+      impact: 0.2822
+      period: 15
+      power: 10.60968
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 277.02
+      directionMin: 273.635
+      height: 1.41076
+      impact: 0.2433
+      period: 14
+      power: 18.53565
+    - direction: 236.12
+      directionMin: 232.24
+      height: 0.3937
+      impact: 0.133
+      period: 14
+      power: 0.78151
+    timestamp: 1734055200
+    utcOffset: -8
+  - power: 30.46596
+    probability: 90
+    swells:
+    - direction: 260.12
+      directionMin: 248.09
+      height: 2.19816
+      impact: 0.2154
+      period: 4
+      power: 3.23659
+    - direction: 169.04
+      directionMin: 164.625
+      height: 0.7874
+      impact: 0.1461
+      period: 8
+      power: 1.16804
+    - direction: 199.68
+      directionMin: 196.23000000000002
+      height: 0.98425
+      impact: 0.2638
+      period: 15
+      power: 9.8636
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 277.19
+      directionMin: 273.86
+      height: 1.37795
+      impact: 0.2212
+      period: 14
+      power: 15.46194
+    - direction: 236.86
+      directionMin: 233.26500000000001
+      height: 0.3937
+      impact: 0.1247
+      period: 14
+      power: 0.73579
+    timestamp: 1734058800
+    utcOffset: -8
+  - power: 31.53849
+    probability: 90
+    swells:
+    - direction: 261.04
+      directionMin: 249.59500000000003
+      height: 2.59186
+      impact: 0.2521
+      period: 5
+      power: 6.67613
+    - direction: 169.09
+      directionMin: 164.625
+      height: 0.75459
+      impact: 0.137
+      period: 8
+      power: 1.00113
+    - direction: 199.64
+      directionMin: 196.17999999999998
+      height: 0.95144
+      impact: 0.2492
+      period: 15
+      power: 8.69491
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 277.44
+      directionMin: 274.275
+      height: 1.37795
+      impact: 0.2132
+      period: 14
+      power: 14.46551
+    - direction: 237.14
+      directionMin: 233.49499999999998
+      height: 0.3937
+      impact: 0.1206
+      period: 14
+      power: 0.70081
+    timestamp: 1734062400
+    utcOffset: -8
+  - power: 30.38527
+    probability: 57.77777777777777
+    swells:
+    - direction: 264.85
+      directionMin: 254.73000000000002
+      height: 2.88714
+      impact: 0.2577
+      period: 5
+      power: 10.7942
+    - direction: 169.05
+      directionMin: 164.57500000000002
+      height: 0.75459
+      impact: 0.1288
+      period: 8
+      power: 0.94121
+    - direction: 199.63
+      directionMin: 196.16
+      height: 0.95144
+      impact: 0.2342
+      period: 15
+      power: 8.1603
+    - direction: 277.17
+      directionMin: 274.13
+      height: 0.59055
+      impact: 0.0867
+      period: 10
+      power: 0.57128
+    - direction: 277.72
+      directionMin: 274.61
+      height: 1.21391
+      impact: 0.1797
+      period: 14
+      power: 9.27406
+    - direction: 237.39
+      directionMin: 233.70999999999998
+      height: 0.3937
+      impact: 0.1129
+      period: 14
+      power: 0.64422
+    timestamp: 1734066000
+    utcOffset: -8
+  - power: 38.23341
+    probability: 57.77777777777777
+    swells:
+    - direction: 268.45
+      directionMin: 259.305
+      height: 3.24803
+      impact: 0.2983
+      period: 6
+      power: 20.79259
+    - direction: 169.04
+      directionMin: 164.54999999999998
+      height: 0.75459
+      impact: 0.1274
+      period: 8
+      power: 0.9332
+    - direction: 199.61
+      directionMin: 196.13500000000002
+      height: 0.91864
+      impact: 0.225
+      period: 15
+      power: 7.29834
+    - direction: 279.45
+      directionMin: 276.84
+      height: 0.45932
+      impact: 0.0651
+      period: 10
+      power: 0.26565
+    - direction: 277.82
+      directionMin: 274.745
+      height: 1.1811
+      impact: 0.173
+      period: 14
+      power: 8.31857
+    - direction: 237.36
+      directionMin: 233.72000000000003
+      height: 0.3937
+      impact: 0.1111
+      period: 14
+      power: 0.62506
+    timestamp: 1734069600
+    utcOffset: -8
+  - power: 41.62846
+    probability: 57.77777777777777
+    swells:
+    - direction: 270.08
+      directionMin: 261.435
+      height: 3.37927
+      impact: 0.2962
+      period: 6
+      power: 24.63121
+    - direction: 168.99
+      directionMin: 164.49
+      height: 0.72178
+      impact: 0.1334
+      period: 10
+      power: 1.19955
+    - direction: 199.61
+      directionMin: 196.13000000000002
+      height: 0.91864
+      impact: 0.2266
+      period: 15
+      power: 7.34011
+    - direction: 281.01
+      directionMin: 279.505
+      height: 0.42651
+      impact: 0.0625
+      period: 10
+      power: 0.22419
+    - direction: 277.98
+      directionMin: 274.97
+      height: 1.14829
+      impact: 0.1698
+      period: 14
+      power: 7.61671
+    - direction: 238.43
+      directionMin: 234.16
+      height: 0.3937
+      impact: 0.1115
+      period: 14
+      power: 0.61669
+    timestamp: 1734073200
+    utcOffset: -8
+  - power: 47.39167
+    probability: 53.33333333333334
+    swells:
+    - direction: 270.58
+      directionMin: 262.305
+      height: 3.44488
+      impact: 0.3247
+      period: 7
+      power: 31.44164
+    - direction: 169.74
+      directionMin: 165.775
+      height: 0.3937
+      impact: 0.0909
+      period: 10
+      power: 0.26516
+    - direction: 199.37
+      directionMin: 195.885
+      height: 0.91864
+      impact: 0.2378
+      period: 15
+      power: 7.6923
+    - direction: 281.06
+      directionMin: 279.52
+      height: 0.42651
+      impact: 0.0656
+      period: 10
+      power: 0.23531
+    - direction: 277.91
+      directionMin: 274.845
+      height: 1.11549
+      impact: 0.1736
+      period: 14
+      power: 7.26272
+    - direction: 167.85
+      directionMin: 163.44
+      height: 0.59055
+      impact: 0.1074
+      period: 9
+      power: 0.49454
+    timestamp: 1734076800
+    utcOffset: -8
+  - power: 47.92994
+    probability: 53.33333333333334
+    swells:
+    - direction: 270.97
+      directionMin: 263.07000000000005
+      height: 3.47769
+      impact: 0.3177
+      period: 7
+      power: 33.06241
+    - direction: 169.16
+      directionMin: 164.42499999999998
+      height: 0.72178
+      impact: 0.1346
+      period: 10
+      power: 1.22281
+    - direction: 199.59
+      directionMin: 196.08
+      height: 0.88583
+      impact: 0.2216
+      period: 15
+      power: 6.68379
+    - direction: 280
+      directionMin: 279.985
+      height: 0.3937
+      impact: 0.0594
+      period: 10
+      power: 0.18086
+    - direction: 278.15
+      directionMin: 275.09
+      height: 1.08268
+      impact: 0.1619
+      period: 14
+      power: 6.30571
+    - direction: 237.45
+      directionMin: 233.89
+      height: 0.36089
+      impact: 0.1049
+      period: 14
+      power: 0.47436
+    timestamp: 1734080400
+    utcOffset: -8
+  - power: 50.35977
+    probability: 53.33333333333334
+    swells:
+    - direction: 271.18
+      directionMin: 263.615
+      height: 3.47769
+      impact: 0.3384
+      period: 7
+      power: 36.45763
+    - direction: 169.15
+      directionMin: 164.39000000000001
+      height: 0.68898
+      impact: 0.1371
+      period: 10
+      power: 1.13719
+    - direction: 199.58
+      directionMin: 196.08
+      height: 0.85302
+      impact: 0.227
+      period: 15
+      power: 6.35764
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.1
+      directionMin: 275.09000000000003
+      height: 1.04987
+      impact: 0.1662
+      period: 13
+      power: 6.02386
+    - direction: 237.66
+      directionMin: 234.04999999999998
+      height: 0.32808
+      impact: 0.1035
+      period: 14
+      power: 0.38345
+    timestamp: 1734084000
+    utcOffset: -8
+  - power: 48.38926
+    probability: 76.66666666666667
+    swells:
+    - direction: 270.98
+      directionMin: 263.595
+      height: 3.37927
+      impact: 0.3343
+      period: 7
+      power: 34.49437
+    - direction: 169.12
+      directionMin: 164.33
+      height: 0.68898
+      impact: 0.1379
+      period: 10
+      power: 1.14149
+    - direction: 199.42
+      directionMin: 196.05499999999998
+      height: 0.85302
+      impact: 0.2283
+      period: 15
+      power: 6.38525
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.28
+      directionMin: 275.36499999999995
+      height: 1.04987
+      impact: 0.1667
+      period: 13
+      power: 5.97022
+    - direction: 235.8
+      directionMin: 231.85000000000002
+      height: 0.32808
+      impact: 0.1048
+      period: 14
+      power: 0.39793
+    timestamp: 1734087600
+    utcOffset: -8
+  - power: 46.00375
+    probability: 76.66666666666667
+    swells:
+    - direction: 270.98
+      directionMin: 263.76500000000004
+      height: 3.31365
+      impact: 0.3361
+      period: 7
+      power: 32.96851
+    - direction: 169.09
+      directionMin: 164.29500000000002
+      height: 0.68898
+      impact: 0.141
+      period: 10
+      power: 1.16477
+    - direction: 199.59
+      directionMin: 196.105
+      height: 0.85302
+      impact: 0.2337
+      period: 15
+      power: 6.53628
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.28
+      directionMin: 275.34499999999997
+      height: 0.98425
+      impact: 0.1616
+      period: 13
+      power: 5.04111
+    - direction: 236.75
+      directionMin: 233.25
+      height: 0.29528
+      impact: 0.0991
+      period: 14
+      power: 0.29308
+    timestamp: 1734091200
+    utcOffset: -8
+  - power: 43.4778
+    probability: 76.66666666666667
+    swells:
+    - direction: 271.04
+      directionMin: 263.975
+      height: 3.21522
+      impact: 0.3347
+      period: 7
+      power: 30.90978
+    - direction: 168.79
+      directionMin: 164.165
+      height: 0.65617
+      impact: 0.138
+      period: 10
+      power: 1.02344
+    - direction: 199.61
+      directionMin: 196.125
+      height: 0.85302
+      impact: 0.238
+      period: 15
+      power: 6.64738
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.31
+      directionMin: 275.37
+      height: 0.95144
+      impact: 0.1597
+      period: 13
+      power: 4.60634
+    - direction: 238.08
+      directionMin: 233.74
+      height: 0.29528
+      impact: 0.1004
+      period: 14
+      power: 0.29086
+    timestamp: 1734094800
+    utcOffset: -8
+  - power: 42.65653
+    probability: 93.33333333333331
+    swells:
+    - direction: 271.31
+      directionMin: 264.44
+      height: 3.18241
+      impact: 0.3312
+      period: 7
+      power: 30.137
+    - direction: 168.74
+      directionMin: 164.12
+      height: 0.65617
+      impact: 0.1372
+      period: 10
+      power: 1.01124
+    - direction: 199.6
+      directionMin: 196.10999999999999
+      height: 0.85302
+      impact: 0.2369
+      period: 15
+      power: 6.60754
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.23
+      directionMin: 275.20000000000005
+      height: 0.95144
+      impact: 0.1586
+      period: 13
+      power: 4.51941
+    - direction: 236.99
+      directionMin: 233.54500000000002
+      height: 0.32808
+      impact: 0.1071
+      period: 13
+      power: 0.38134
+    timestamp: 1734098400
+    utcOffset: -8
+  - power: 43.09801
+    probability: 93.33333333333331
+    swells:
+    - direction: 271.61
+      directionMin: 264.945
+      height: 3.18241
+      impact: 0.3324
+      period: 7
+      power: 30.67859
+    - direction: 168.7
+      directionMin: 164.06
+      height: 0.65617
+      impact: 0.1368
+      period: 10
+      power: 0.99791
+    - direction: 199.59
+      directionMin: 196.105
+      height: 0.85302
+      impact: 0.2368
+      period: 14
+      power: 6.58654
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 278.13
+      directionMin: 275.06
+      height: 0.95144
+      impact: 0.1582
+      period: 13
+      power: 4.46011
+    - direction: 237.05
+      directionMin: 233.60500000000002
+      height: 0.32808
+      impact: 0.1067
+      period: 13
+      power: 0.37486
+    timestamp: 1734102000
+    utcOffset: -8
+  - power: 42.99617
+    probability: 93.33333333333331
+    swells:
+    - direction: 272
+      directionMin: 265.56
+      height: 3.14961
+      impact: 0.3322
+      period: 7
+      power: 30.372
+    - direction: 168.68
+      directionMin: 164.035
+      height: 0.62336
+      impact: 0.1317
+      period: 10
+      power: 0.85628
+    - direction: 199.61
+      directionMin: 196.115
+      height: 0.85302
+      impact: 0.2376
+      period: 14
+      power: 6.59055
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 277.93
+      directionMin: 274.815
+      height: 0.98425
+      impact: 0.1625
+      period: 13
+      power: 4.8057
+    - direction: 237.35
+      directionMin: 233.84
+      height: 0.32808
+      impact: 0.1069
+      period: 13
+      power: 0.37164
+    timestamp: 1734105600
+    utcOffset: -8
+  - power: 42.49859
+    probability: 100
+    swells:
+    - direction: 272.35
+      directionMin: 266.095
+      height: 3.1168
+      impact: 0.3313
+      period: 7
+      power: 29.57858
+    - direction: 168.36
+      directionMin: 163.83
+      height: 0.62336
+      impact: 0.1265
+      period: 9
+      power: 0.80709
+    - direction: 199.54
+      directionMin: 196.035
+      height: 0.85302
+      impact: 0.2388
+      period: 14
+      power: 6.59638
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 277.81
+      directionMin: 274.65
+      height: 1.01706
+      impact: 0.1669
+      period: 13
+      power: 5.14888
+    - direction: 237.44
+      directionMin: 233.945
+      height: 0.32808
+      impact: 0.1072
+      period: 13
+      power: 0.36766
+    timestamp: 1734109200
+    utcOffset: -8
+  - power: 37.79506
+    probability: 100
+    swells:
+    - direction: 272.28
+      directionMin: 265.91999999999996
+      height: 2.85433
+      impact: 0.2914
+      period: 7
+      power: 21.6351
+    - direction: 168.08
+      directionMin: 163.42000000000002
+      height: 0.55774
+      impact: 0.1091
+      period: 9
+      power: 0.54789
+    - direction: 199.56
+      directionMin: 196.065
+      height: 0.85302
+      impact: 0.2251
+      period: 14
+      power: 6.19212
+    - direction: 276.74
+      directionMin: 273.515
+      height: 1.50919
+      impact: 0.1961
+      period: 10
+      power: 8.87537
+    - direction: 169.62
+      directionMin: 165.76500000000001
+      height: 0.26247
+      impact: 0.0729
+      period: 11
+      power: 0.1118
+    - direction: 238.7
+      directionMin: 234.935
+      height: 0.36089
+      impact: 0.1054
+      period: 13
+      power: 0.43278
+    timestamp: 1734112800
+    utcOffset: -8
+  - power: 36.61093
+    probability: 100
+    swells:
+    - direction: 272.31
+      directionMin: 266.025
+      height: 2.75591
+      impact: 0.2837
+      period: 7
+      power: 19.5803
+    - direction: 168.02
+      directionMin: 163.35000000000002
+      height: 0.55774
+      impact: 0.109
+      period: 9
+      power: 0.54159
+    - direction: 199.61
+      directionMin: 196.115
+      height: 0.82021
+      impact: 0.2182
+      period: 14
+      power: 5.52637
+    - direction: 276.87
+      directionMin: 273.565
+      height: 1.5748
+      impact: 0.2045
+      period: 11
+      power: 10.31088
+    - direction: 169.62
+      directionMin: 165.805
+      height: 0.26247
+      impact: 0.073
+      period: 11
+      power: 0.11175
+    - direction: 238.64
+      directionMin: 234.89
+      height: 0.3937
+      impact: 0.1117
+      period: 13
+      power: 0.54004
+    timestamp: 1734116400
+    utcOffset: -8
+  - power: 36.55484
+    probability: 100
+    swells:
+    - direction: 272.54
+      directionMin: 266.20000000000005
+      height: 2.62467
+      impact: 0.2701
+      period: 7
+      power: 16.76514
+    - direction: 167.51
+      directionMin: 162.91
+      height: 0.55774
+      impact: 0.1067
+      period: 9
+      power: 0.50442
+    - direction: 199.62
+      directionMin: 196.15
+      height: 0.82021
+      impact: 0.216
+      period: 14
+      power: 5.44024
+    - direction: 276
+      directionMin: 272.77
+      height: 1.67323
+      impact: 0.2165
+      period: 11
+      power: 13.15345
+    - direction: 171.05
+      directionMin: 167.10500000000002
+      height: 0.29528
+      impact: 0.0778
+      period: 11
+      power: 0.14909
+    - direction: 238.32
+      directionMin: 234.475
+      height: 0.3937
+      impact: 0.1129
+      period: 13
+      power: 0.5425
+    timestamp: 1734120000
+    utcOffset: -8
+  - power: 37.57092
+    probability: 100
+    swells:
+    - direction: 272.2
+      directionMin: 265.825
+      height: 2.46063
+      impact: 0.2571
+      period: 7
+      power: 13.78739
+    - direction: 167.5
+      directionMin: 162.87
+      height: 0.52493
+      impact: 0.1024
+      period: 9
+      power: 0.42788
+    - direction: 199.67
+      directionMin: 196.20499999999998
+      height: 0.82021
+      impact: 0.2169
+      period: 14
+      power: 5.43245
+    - direction: 276.35
+      directionMin: 273.225
+      height: 1.73885
+      impact: 0.2319
+      period: 12
+      power: 17.23094
+    - direction: 170.97
+      directionMin: 167.055
+      height: 0.29528
+      impact: 0.0782
+      period: 11
+      power: 0.14986
+    - direction: 238.2
+      directionMin: 234.375
+      height: 0.3937
+      impact: 0.1134
+      period: 13
+      power: 0.5424
+    timestamp: 1734123600
+    utcOffset: -8
+  - power: 36.3645
+    probability: 100
+    swells:
+    - direction: 272.31
+      directionMin: 266.005
+      height: 2.3622
+      impact: 0.2542
+      period: 7
+      power: 12.70775
+    - direction: 167.53
+      directionMin: 162.87
+      height: 0.52493
+      impact: 0.1043
+      period: 9
+      power: 0.43582
+    - direction: 199.73
+      directionMin: 196.26999999999998
+      height: 0.82021
+      impact: 0.2204
+      period: 14
+      power: 5.48155
+    - direction: 276.22
+      directionMin: 273.055
+      height: 1.70604
+      impact: 0.234
+      period: 12
+      power: 17.17233
+    - direction: 170.88
+      directionMin: 166.98499999999999
+      height: 0.29528
+      impact: 0.0797
+      period: 11
+      power: 0.15274
+    - direction: 237.57
+      directionMin: 233.875
+      height: 0.36089
+      impact: 0.1075
+      period: 13
+      power: 0.41431
+    timestamp: 1734127200
+    utcOffset: -8
+  - power: 36.73486
+    probability: 100
+    swells:
+    - direction: 272.34
+      directionMin: 266.13
+      height: 2.26378
+      impact: 0.2564
+      period: 8
+      power: 13.8004
+    - direction: 167.53
+      directionMin: 162.855
+      height: 0.52493
+      impact: 0.1045
+      period: 9
+      power: 0.43665
+    - direction: 199.82
+      directionMin: 196.345
+      height: 0.82021
+      impact: 0.2204
+      period: 14
+      power: 5.43546
+    - direction: 276.27
+      directionMin: 273.06
+      height: 1.67323
+      impact: 0.2314
+      period: 12
+      power: 16.50178
+    - direction: 170.83
+      directionMin: 166.95000000000002
+      height: 0.29528
+      impact: 0.0799
+      period: 11
+      power: 0.15312
+    - direction: 237.84
+      directionMin: 234.195
+      height: 0.36089
+      impact: 0.1074
+      period: 13
+      power: 0.40745
+    timestamp: 1734130800
+    utcOffset: -8
+  - power: 33.13487
+    probability: 100
+    swells:
+    - direction: 272.88
+      directionMin: 267.175
+      height: 2.39501
+      impact: 0.2851
+      period: 8
+      power: 19.08161
+    - direction: 167.55
+      directionMin: 162.88500000000002
+      height: 0.52493
+      impact: 0.1082
+      period: 9
+      power: 0.45212
+    - direction: 199.84
+      directionMin: 196.395
+      height: 0.7874
+      impact: 0.2205
+      period: 14
+      power: 4.96927
+    - direction: 277.03
+      directionMin: 273.755
+      height: 1.27953
+      impact: 0.1926
+      period: 12
+      power: 8.059
+    - direction: 170.76
+      directionMin: 166.88
+      height: 0.29528
+      impact: 0.0827
+      period: 11
+      power: 0.15848
+    - direction: 237.65
+      directionMin: 233.955
+      height: 0.36089
+      impact: 0.1108
+      period: 13
+      power: 0.41439
+    timestamp: 1734134400
+    utcOffset: -8
+  - power: 32.03763
+    probability: 100
+    swells:
+    - direction: 272.59
+      directionMin: 266.92499999999995
+      height: 2.29659
+      impact: 0.278
+      period: 8
+      power: 17.40925
+    - direction: 167.54
+      directionMin: 162.88
+      height: 0.52493
+      impact: 0.1086
+      period: 9
+      power: 0.45379
+    - direction: 199.9
+      directionMin: 196.46
+      height: 0.7874
+      impact: 0.2208
+      period: 14
+      power: 4.92681
+    - direction: 277.57
+      directionMin: 274.555
+      height: 1.31234
+      impact: 0.1972
+      period: 12
+      power: 8.65075
+    - direction: 170.74
+      directionMin: 166.86
+      height: 0.29528
+      impact: 0.083
+      period: 11
+      power: 0.15906
+    - direction: 238.11
+      directionMin: 234.26500000000001
+      height: 0.36089
+      impact: 0.1124
+      period: 13
+      power: 0.43797
+    timestamp: 1734138000
+    utcOffset: -8
+  - power: 30.3414
+    probability: 100
+    swells:
+    - direction: 272.63
+      directionMin: 267.075
+      height: 2.23097
+      impact: 0.2795
+      period: 8
+      power: 16.7226
+    - direction: 167.56
+      directionMin: 162.91
+      height: 0.52493
+      impact: 0.1115
+      period: 9
+      power: 0.46693
+    - direction: 199.97
+      directionMin: 196.515
+      height: 0.75459
+      impact: 0.2183
+      period: 14
+      power: 4.42277
+    - direction: 277.67
+      directionMin: 274.66
+      height: 1.27953
+      impact: 0.1979
+      period: 12
+      power: 8.22491
+    - direction: 170.7
+      directionMin: 166.81
+      height: 0.29528
+      impact: 0.0851
+      period: 11
+      power: 0.16308
+    - direction: 238.21
+      directionMin: 234.425
+      height: 0.32808
+      impact: 0.1076
+      period: 13
+      power: 0.34111
+    timestamp: 1734141600
+    utcOffset: -8
+  - power: 27.18123
+    probability: 100
+    swells:
+    - direction: 273.74
+      directionMin: 269.505
+      height: 2.16535
+      impact: 0.2628
+      period: 8
+      power: 14.84863
+    - direction: 167.67
+      directionMin: 162.92999999999998
+      height: 0.52493
+      impact: 0.1165
+      period: 9
+      power: 0.48893
+    - direction: 200.02
+      directionMin: 196.565
+      height: 0.75459
+      impact: 0.2269
+      period: 14
+      power: 4.51837
+    - direction: 277.47
+      directionMin: 274.305
+      height: 1.1811
+      impact: 0.1933
+      period: 12
+      power: 6.81054
+    - direction: 170.7
+      directionMin: 166.795
+      height: 0.29528
+      impact: 0.0889
+      period: 11
+      power: 0.17037
+    - direction: 238.33
+      directionMin: 234.52
+      height: 0.32808
+      impact: 0.1116
+      period: 13
+      power: 0.34439
+    timestamp: 1734145200
+    utcOffset: -8
+  - power: 26.82291
+    probability: 100
+    swells:
+    - direction: 273.08
+      directionMin: 267.935
+      height: 2.13255
+      impact: 0.2781
+      period: 8
+      power: 15.27807
+    - direction: 168.22
+      directionMin: 163.06
+      height: 0.52493
+      impact: 0.115
+      period: 9
+      power: 0.4837
+    - direction: 200.04
+      directionMin: 196.57999999999998
+      height: 0.75459
+      impact: 0.2233
+      period: 14
+      power: 4.40185
+    - direction: 277.55
+      directionMin: 274.34000000000003
+      height: 1.14829
+      impact: 0.1862
+      period: 12
+      power: 6.15891
+    - direction: 170.67
+      directionMin: 166.75
+      height: 0.29528
+      impact: 0.0877
+      period: 11
+      power: 0.16807
+    - direction: 238.04
+      directionMin: 234.28
+      height: 0.32808
+      impact: 0.1096
+      period: 12
+      power: 0.33231
+    timestamp: 1734148800
+    utcOffset: -8
+  - power: 24.46033
+    probability: 100
+    swells:
+    - direction: 273.07
+      directionMin: 267.965
+      height: 2.06693
+      impact: 0.2833
+      period: 8
+      power: 14.54895
+    - direction: 167.83
+      directionMin: 162.48000000000002
+      height: 0.49213
+      impact: 0.1131
+      period: 9
+      power: 0.39645
+    - direction: 200.06
+      directionMin: 196.6
+      height: 0.72178
+      impact: 0.2249
+      period: 14
+      power: 4.00929
+    - direction: 278.63
+      directionMin: 275.725
+      height: 1.01706
+      impact: 0.1606
+      period: 12
+      power: 4.13895
+    - direction: 170.49
+      directionMin: 167.14000000000001
+      height: 0.32808
+      impact: 0.0975
+      period: 11
+      power: 0.22235
+    - direction: 273.31
+      directionMin: 269.8
+      height: 0.45932
+      impact: 0.1207
+      period: 16
+      power: 1.14434
+    timestamp: 1734152400
+    utcOffset: -8
+  - power: 23.13668
+    probability: 100
+    swells:
+    - direction: 273.08
+      directionMin: 268.025
+      height: 2.00131
+      impact: 0.2825
+      period: 8
+      power: 13.56788
+    - direction: 167.79
+      directionMin: 162.48
+      height: 0.49213
+      impact: 0.1157
+      period: 9
+      power: 0.40466
+    - direction: 200.06
+      directionMin: 196.6
+      height: 0.72178
+      impact: 0.2296
+      period: 14
+      power: 4.05136
+    - direction: 278.69
+      directionMin: 275.79
+      height: 0.98425
+      impact: 0.1597
+      period: 12
+      power: 3.81504
+    - direction: 170.47
+      directionMin: 167.115
+      height: 0.32808
+      impact: 0.0997
+      period: 11
+      power: 0.22694
+    - direction: 273.57
+      directionMin: 269.99
+      height: 0.45932
+      impact: 0.1128
+      period: 16
+      power: 1.0708
+    timestamp: 1734156000
+    utcOffset: -8
+  - power: 21.67147
+    probability: 100
+    swells:
+    - direction: 273.08
+      directionMin: 268.09499999999997
+      height: 1.9357
+      impact: 0.2782
+      period: 8
+      power: 12.40726
+    - direction: 167.82
+      directionMin: 162.48
+      height: 0.49213
+      impact: 0.1173
+      period: 9
+      power: 0.41025
+    - direction: 200.09
+      directionMin: 196.62
+      height: 0.72178
+      impact: 0.2322
+      period: 14
+      power: 4.06125
+    - direction: 278.68
+      directionMin: 275.72
+      height: 0.95144
+      impact: 0.1571
+      period: 12
+      power: 3.47681
+    - direction: 170.48
+      directionMin: 167.11999999999998
+      height: 0.32808
+      impact: 0.101
+      period: 11
+      power: 0.22948
+    - direction: 273.78
+      directionMin: 270.26
+      height: 0.45932
+      impact: 0.1143
+      period: 16
+      power: 1.08642
+    timestamp: 1734159600
+    utcOffset: -8
+  - power: 20.36602
+    probability: 100
+    swells:
+    - direction: 273.07
+      directionMin: 268.09
+      height: 1.90289
+      impact: 0.2805
+      period: 8
+      power: 11.99976
+    - direction: 167.6
+      directionMin: 162.46
+      height: 0.49213
+      impact: 0.1201
+      period: 9
+      power: 0.42005
+    - direction: 200.07
+      directionMin: 196.60999999999999
+      height: 0.68898
+      impact: 0.2288
+      period: 14
+      power: 3.61408
+    - direction: 278.74
+      directionMin: 275.77
+      height: 0.91864
+      impact: 0.1561
+      period: 12
+      power: 3.18725
+    - direction: 170.47
+      directionMin: 167.095
+      height: 0.32808
+      impact: 0.1035
+      period: 11
+      power: 0.23516
+    - direction: 273.85
+      directionMin: 270.32000000000005
+      height: 0.42651
+      impact: 0.111
+      period: 16
+      power: 0.90972
+    timestamp: 1734163200
+    utcOffset: -8
+  - power: 19.01173
+    probability: 100
+    swells:
+    - direction: 272.98
+      directionMin: 267.755
+      height: 1.70604
+      impact: 0.2508
+      period: 8
+      power: 8.34789
+    - direction: 167.52
+      directionMin: 162.41
+      height: 0.49213
+      impact: 0.1183
+      period: 9
+      power: 0.41375
+    - direction: 199.95
+      directionMin: 196.53
+      height: 0.68898
+      impact: 0.2248
+      period: 13
+      power: 3.51942
+    - direction: 276.79
+      directionMin: 273.61
+      height: 1.11549
+      impact: 0.195
+      period: 11
+      power: 5.60869
+    - direction: 170.07
+      directionMin: 166.97
+      height: 0.32808
+      impact: 0.1018
+      period: 11
+      power: 0.23043
+    - direction: 273.9
+      directionMin: 270.35499999999996
+      height: 0.42651
+      impact: 0.1092
+      period: 16
+      power: 0.89155
+    timestamp: 1734166800
+    utcOffset: -8
+  - power: 17.63169
+    probability: 100
+    swells:
+    - direction: 273.49
+      directionMin: 269.1
+      height: 1.64042
+      impact: 0.2383
+      period: 8
+      power: 7.29643
+    - direction: 168.39
+      directionMin: 163.77999999999997
+      height: 0.59055
+      impact: 0.1402
+      period: 10
+      power: 0.86137
+    - direction: 199.98
+      directionMin: 196.59
+      height: 0.68898
+      impact: 0.2204
+      period: 13
+      power: 3.43004
+    - direction: 276.85
+      directionMin: 273.65500000000003
+      height: 1.08268
+      impact: 0.1859
+      period: 11
+      power: 4.93026
+    - direction: 238.2
+      directionMin: 234.25
+      height: 0.29528
+      impact: 0.1083
+      period: 12
+      power: 0.2508
+    - direction: 274.28
+      directionMin: 270.96
+      height: 0.42651
+      impact: 0.1069
+      period: 16
+      power: 0.86279
+    timestamp: 1734170400
+    utcOffset: -8
+  - power: 17.13922
+    probability: 100
+    swells:
+    - direction: 273.14
+      directionMin: 268.75
+      height: 1.5748
+      impact: 0.2344
+      period: 8
+      power: 6.58089
+    - direction: 168.38
+      directionMin: 163.765
+      height: 0.59055
+      impact: 0.1429
+      period: 10
+      power: 0.88154
+    - direction: 199.94
+      directionMin: 196.57999999999998
+      height: 0.68898
+      impact: 0.2241
+      period: 13
+      power: 3.46685
+    - direction: 277.15
+      directionMin: 273.95
+      height: 1.11549
+      impact: 0.1929
+      period: 11
+      power: 5.31429
+    - direction: 237.31
+      directionMin: 233.485
+      height: 0.26247
+      impact: 0.1029
+      period: 12
+      power: 0.19299
+    - direction: 274.02
+      directionMin: 270.85999999999996
+      height: 0.3937
+      impact: 0.1027
+      period: 16
+      power: 0.70266
+    timestamp: 1734174000
+    utcOffset: -8
+  - power: 17.14177
+    probability: 100
+    swells:
+    - direction: 273.13
+      directionMin: 268.78499999999997
+      height: 1.54199
+      impact: 0.2422
+      period: 8
+      power: 6.35508
+    - direction: 168.39
+      directionMin: 163.77499999999998
+      height: 0.59055
+      impact: 0.1513
+      period: 10
+      power: 0.93715
+    - direction: 199.93
+      directionMin: 196.58
+      height: 0.68898
+      impact: 0.2367
+      period: 13
+      power: 3.6399
+    - direction: 276.76
+      directionMin: 273.44
+      height: 1.14829
+      impact: 0.2081
+      period: 11
+      power: 5.98735
+    - direction: 236.36
+      directionMin: 232.81500000000003
+      height: 0.26247
+      impact: 0.11
+      period: 12
+      power: 0.21483
+    - direction: 224.98
+      directionMin: 215.375
+      height: 0.19685
+      impact: 0.0517
+      period: 5
+      power: 0.00746
+    timestamp: 1734177600
+    utcOffset: -8
+  - power: 15.25675
+    probability: 100
+    swells:
+    - direction: 273.27
+      directionMin: 269.09499999999997
+      height: 1.5748
+      impact: 0.2544
+      period: 8
+      power: 6.81982
+    - direction: 168.25
+      directionMin: 163.73
+      height: 0.59055
+      impact: 0.1573
+      period: 10
+      power: 0.98025
+    - direction: 199.92
+      directionMin: 196.575
+      height: 0.65617
+      impact: 0.2363
+      period: 13
+      power: 3.2811
+    - direction: 277.33
+      directionMin: 273.875
+      height: 0.98425
+      impact: 0.1898
+      period: 11
+      power: 3.9463
+    - direction: 236.45
+      directionMin: 232.855
+      height: 0.26247
+      impact: 0.1144
+      period: 13
+      power: 0.2245
+    - direction: 225.44
+      directionMin: 215.85
+      height: 0.16404
+      impact: 0.0477
+      period: 5
+      power: 0.00478
+    timestamp: 1734181200
+    utcOffset: -8
+  - power: 14.49217
+    probability: 100
+    swells:
+    - direction: 273.29
+      directionMin: 269.15000000000003
+      height: 1.54199
+      impact: 0.2541
+      period: 8
+      power: 6.41271
+    - direction: 168.25
+      directionMin: 163.72
+      height: 0.59055
+      impact: 0.1607
+      period: 10
+      power: 1.00346
+    - direction: 199.95
+      directionMin: 196.57999999999998
+      height: 0.65617
+      impact: 0.2409
+      period: 13
+      power: 3.33492
+    - direction: 277.38
+      directionMin: 273.92
+      height: 0.95144
+      impact: 0.1876
+      period: 11
+      power: 3.57133
+    - direction: 236.6
+      directionMin: 233.16
+      height: 0.22966
+      impact: 0.108
+      period: 13
+      power: 0.16487
+    - direction: 225.68
+      directionMin: 216.02
+      height: 0.16404
+      impact: 0.0487
+      period: 5
+      power: 0.00488
+    timestamp: 1734184800
+    utcOffset: -8
+  - power: 14.14559
+    probability: 100
+    swells:
+    - direction: 273.3
+      directionMin: 269.175
+      height: 1.54199
+      impact: 0.2561
+      period: 8
+      power: 6.36193
+    - direction: 168.2
+      directionMin: 163.665
+      height: 0.59055
+      impact: 0.1626
+      period: 10
+      power: 1.01532
+    - direction: 199.93
+      directionMin: 196.555
+      height: 0.65617
+      impact: 0.2435
+      period: 13
+      power: 3.3557
+    - direction: 277.38
+      directionMin: 273.875
+      height: 0.91864
+      impact: 0.1836
+      period: 11
+      power: 3.19189
+    - direction: 236.43
+      directionMin: 233.035
+      height: 0.22966
+      impact: 0.1158
+      period: 14
+      power: 0.22075
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734188400
+    utcOffset: -8
+  - power: 13.44294
+    probability: 100
+    swells:
+    - direction: 273.3
+      directionMin: 269.15000000000003
+      height: 1.50919
+      impact: 0.2537
+      period: 8
+      power: 5.97335
+    - direction: 168.19
+      directionMin: 163.65
+      height: 0.59055
+      impact: 0.1644
+      period: 10
+      power: 1.02864
+    - direction: 199.9
+      directionMin: 196.525
+      height: 0.65617
+      impact: 0.2461
+      period: 13
+      power: 3.38641
+    - direction: 277.4
+      directionMin: 273.875
+      height: 0.88583
+      impact: 0.1791
+      period: 11
+      power: 2.82484
+    - direction: 236.07
+      directionMin: 232.6
+      height: 0.22966
+      impact: 0.1178
+      period: 14
+      power: 0.2297
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734192000
+    utcOffset: -8
+  - power: 12.81734
+    probability: 96.66666666666669
+    swells:
+    - direction: 272.96
+      directionMin: 268.265
+      height: 1.47638
+      impact: 0.2513
+      period: 7
+      power: 5.58744
+    - direction: 168.16
+      directionMin: 163.6
+      height: 0.59055
+      impact: 0.1663
+      period: 10
+      power: 1.04053
+    - direction: 199.9
+      directionMin: 196.445
+      height: 0.65617
+      impact: 0.2487
+      period: 13
+      power: 3.41186
+    - direction: 277.47
+      directionMin: 273.975
+      height: 0.85302
+      impact: 0.1755
+      period: 10
+      power: 2.54729
+    - direction: 236.75
+      directionMin: 233.215
+      height: 0.22966
+      impact: 0.1189
+      period: 14
+      power: 0.23022
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734195600
+    utcOffset: -8
+  - power: 11.3249
+    probability: 96.66666666666669
+    swells:
+    - direction: 273.02
+      directionMin: 268.38
+      height: 1.44357
+      impact: 0.2421
+      period: 7
+      power: 5.09141
+    - direction: 167.71
+      directionMin: 163.74
+      height: 0.45932
+      impact: 0.1359
+      period: 10
+      power: 0.5175
+    - direction: 199.93
+      directionMin: 196.41
+      height: 0.62336
+      impact: 0.2352
+      period: 13
+      power: 2.90765
+    - direction: 277.41
+      directionMin: 273.805
+      height: 0.85302
+      impact: 0.1724
+      period: 10
+      power: 2.48797
+    - direction: 236.91
+      directionMin: 233.385
+      height: 0.19685
+      impact: 0.1072
+      period: 14
+      power: 0.15336
+    - direction: 168.83
+      directionMin: 163.465
+      height: 0.36089
+      impact: 0.1072
+      period: 8
+      power: 0.16701
+    timestamp: 1734199200
+    utcOffset: -8
+  - power: 10.78137
+    probability: 96.66666666666669
+    swells:
+    - direction: 273.04
+      directionMin: 268.45000000000005
+      height: 1.41076
+      impact: 0.2395
+      period: 7
+      power: 4.7588
+    - direction: 167.66
+      directionMin: 163.69
+      height: 0.45932
+      impact: 0.1373
+      period: 10
+      power: 0.52284
+    - direction: 199.9
+      directionMin: 196.35500000000002
+      height: 0.62336
+      impact: 0.2376
+      period: 13
+      power: 2.93287
+    - direction: 277.42
+      directionMin: 273.85
+      height: 0.82021
+      impact: 0.1687
+      period: 10
+      power: 2.24227
+    - direction: 236.95
+      directionMin: 233.47
+      height: 0.19685
+      impact: 0.1084
+      period: 14
+      power: 0.15529
+    - direction: 168.74
+      directionMin: 163.38
+      height: 0.36089
+      impact: 0.1084
+      period: 8
+      power: 0.1693
+    timestamp: 1734202800
+    utcOffset: -8
+  - power: 10.07472
+    probability: 96.66666666666669
+    swells:
+    - direction: 273.09
+      directionMin: 268.55499999999995
+      height: 1.37795
+      impact: 0.2356
+      period: 7
+      power: 4.41796
+    - direction: 167.63
+      directionMin: 163.66
+      height: 0.45932
+      impact: 0.1381
+      period: 10
+      power: 0.52588
+    - direction: 199.77
+      directionMin: 196.25
+      height: 0.62336
+      impact: 0.2389
+      period: 13
+      power: 2.94446
+    - direction: 278.07
+      directionMin: 274.76
+      height: 0.75459
+      impact: 0.1587
+      period: 10
+      power: 1.77851
+    - direction: 236.34
+      directionMin: 232.38
+      height: 0.22966
+      impact: 0.1197
+      period: 14
+      power: 0.23768
+    - direction: 168.74
+      directionMin: 163.36
+      height: 0.36089
+      impact: 0.109
+      period: 8
+      power: 0.17023
+    timestamp: 1734206400
+    utcOffset: -8
+  - power: 9.47632
+    probability: 96.66666666666669
+    swells:
+    - direction: 272.92
+      directionMin: 268.195
+      height: 1.21391
+      impact: 0.2143
+      period: 7
+      power: 2.98458
+    - direction: 167.58
+      directionMin: 163.60500000000002
+      height: 0.45932
+      impact: 0.1407
+      period: 10
+      power: 0.53471
+    - direction: 199.85
+      directionMin: 196.225
+      height: 0.59055
+      impact: 0.2336
+      period: 13
+      power: 2.58012
+    - direction: 276.67
+      directionMin: 273.26
+      height: 0.91864
+      impact: 0.1825
+      period: 10
+      power: 2.62014
+    - direction: 271.8
+      directionMin: 267.985
+      height: 0.29528
+      impact: 0.1178
+      period: 18
+      power: 0.58267
+    - direction: 168.7
+      directionMin: 163.265
+      height: 0.36089
+      impact: 0.1112
+      period: 8
+      power: 0.1741
+    timestamp: 1734210000
+    utcOffset: -8
+  - power: 8.83843
+    probability: 96.66666666666669
+    swells:
+    - direction: 272.89
+      directionMin: 268.12
+      height: 1.21391
+      impact: 0.2222
+      period: 7
+      power: 3.08601
+    - direction: 167.69
+      directionMin: 163.62
+      height: 0.45932
+      impact: 0.1459
+      period: 10
+      power: 0.55224
+    - direction: 199.85
+      directionMin: 196.165
+      height: 0.59055
+      impact: 0.2423
+      period: 13
+      power: 2.67216
+    - direction: 276.72
+      directionMin: 273.21000000000004
+      height: 0.82021
+      impact: 0.1719
+      period: 10
+      power: 1.91887
+    - direction: 276.11
+      directionMin: 273.22
+      height: 0.32808
+      impact: 0.1071
+      period: 14
+      power: 0.43642
+    - direction: 168.42
+      directionMin: 163.11499999999998
+      height: 0.36089
+      impact: 0.1106
+      period: 8
+      power: 0.17273
+    timestamp: 1734213600
+    utcOffset: -8
+  - power: 8.62058
+    probability: 100
+    swells:
+    - direction: 272.83
+      directionMin: 267.945
+      height: 1.1811
+      impact: 0.2142
+      period: 7
+      power: 2.80062
+    - direction: 167.63
+      directionMin: 163.555
+      height: 0.45932
+      impact: 0.1439
+      period: 10
+      power: 0.54357
+    - direction: 199.85
+      directionMin: 196.105
+      height: 0.59055
+      impact: 0.2391
+      period: 13
+      power: 2.63286
+    - direction: 276.72
+      directionMin: 273.19500000000005
+      height: 0.7874
+      impact: 0.1639
+      period: 10
+      power: 1.67202
+    - direction: 272.61
+      directionMin: 268.595
+      height: 0.32808
+      impact: 0.1296
+      period: 18
+      power: 0.80039
+    - direction: 168.35
+      directionMin: 163.06
+      height: 0.36089
+      impact: 0.1093
+      period: 8
+      power: 0.17112
+    timestamp: 1734217200
+    utcOffset: -8
+  - power: 8.35748
+    probability: 100
+    swells:
+    - direction: 272.4
+      directionMin: 267.48999999999995
+      height: 1.11549
+      impact: 0.2047
+      period: 7
+      power: 2.36736
+    - direction: 167.59
+      directionMin: 163.505
+      height: 0.45932
+      impact: 0.1443
+      period: 10
+      power: 0.54398
+    - direction: 199.86
+      directionMin: 196.04500000000002
+      height: 0.55774
+      impact: 0.2297
+      period: 13
+      power: 2.25612
+    - direction: 277.19
+      directionMin: 273.885
+      height: 0.85302
+      impact: 0.1735
+      period: 9
+      power: 1.99498
+    - direction: 272.9
+      directionMin: 268.935
+      height: 0.36089
+      impact: 0.1382
+      period: 18
+      power: 1.02345
+    - direction: 168.34
+      directionMin: 163.08
+      height: 0.36089
+      impact: 0.1096
+      period: 8
+      power: 0.17159
+    timestamp: 1734220800
+    utcOffset: -8
+  - power: 9.15097
+    probability: 100
+    swells:
+    - direction: 272.42
+      directionMin: 267.54
+      height: 1.08268
+      impact: 0.1967
+      period: 7
+      power: 2.10713
+    - direction: 167.15
+      directionMin: 163.29500000000002
+      height: 0.45932
+      impact: 0.1425
+      period: 10
+      power: 0.53503
+    - direction: 199.83
+      directionMin: 195.905
+      height: 0.55774
+      impact: 0.2269
+      period: 13
+      power: 2.22185
+    - direction: 277.08
+      directionMin: 273.805
+      height: 0.82021
+      impact: 0.1658
+      period: 9
+      power: 1.74373
+    - direction: 274.62
+      directionMin: 270.46
+      height: 0.52493
+      impact: 0.1597
+      period: 17
+      power: 2.37352
+    - direction: 168.31
+      directionMin: 163.05
+      height: 0.36089
+      impact: 0.1084
+      period: 8
+      power: 0.16971
+    timestamp: 1734224400
+    utcOffset: -8
+  - power: 9.60308
+    probability: 100
+    swells:
+    - direction: 272.46
+      directionMin: 267.60499999999996
+      height: 1.08268
+      impact: 0.1866
+      period: 7
+      power: 1.98203
+    - direction: 167.68
+      directionMin: 163.125
+      height: 0.59055
+      impact: 0.1634
+      period: 10
+      power: 1.01005
+    - direction: 199.82
+      directionMin: 195.82999999999998
+      height: 0.55774
+      impact: 0.2157
+      period: 13
+      power: 2.10897
+    - direction: 277.47
+      directionMin: 274.07000000000005
+      height: 0.82021
+      impact: 0.1573
+      period: 9
+      power: 1.64007
+    - direction: 274.13
+      directionMin: 270.29
+      height: 0.55774
+      impact: 0.1585
+      period: 17
+      power: 2.62238
+    - direction: 238.32
+      directionMin: 234.075
+      height: 0.22966
+      impact: 0.1185
+      period: 15
+      power: 0.23958
+    timestamp: 1734228000
+    utcOffset: -8
+  - power: 9.38147
+    probability: 100
+    swells:
+    - direction: 272.98
+      directionMin: 268.19
+      height: 1.08268
+      impact: 0.1869
+      period: 7
+      power: 1.98521
+    - direction: 167.62
+      directionMin: 163.06
+      height: 0.59055
+      impact: 0.1635
+      period: 10
+      power: 1.00657
+    - direction: 199.73
+      directionMin: 195.74499999999998
+      height: 0.55774
+      impact: 0.2161
+      period: 13
+      power: 2.11288
+    - direction: 277.35
+      directionMin: 273.82000000000005
+      height: 0.75459
+      impact: 0.1488
+      period: 9
+      power: 1.36201
+    - direction: 274.47
+      directionMin: 270.76000000000005
+      height: 0.55774
+      impact: 0.1582
+      period: 17
+      power: 2.58076
+    - direction: 238.69
+      directionMin: 234.17
+      height: 0.26247
+      impact: 0.1265
+      period: 15
+      power: 0.33404
+    timestamp: 1734231600
+    utcOffset: -8
+  - power: 9.5092
+    probability: 100
+    swells:
+    - direction: 272.53
+      directionMin: 267.59499999999997
+      height: 0.98425
+      impact: 0.1681
+      period: 7
+      power: 1.30112
+    - direction: 167.6
+      directionMin: 163.015
+      height: 0.55774
+      impact: 0.1569
+      period: 10
+      power: 0.85984
+    - direction: 199.83
+      directionMin: 195.75500000000002
+      height: 0.55774
+      impact: 0.2168
+      period: 13
+      power: 2.12295
+    - direction: 277.03
+      directionMin: 273.385
+      height: 0.88583
+      impact: 0.1666
+      period: 9
+      power: 1.95637
+    - direction: 274.54
+      directionMin: 270.87
+      height: 0.59055
+      impact: 0.1647
+      period: 17
+      power: 2.93455
+    - direction: 238.65
+      directionMin: 234.345
+      height: 0.26247
+      impact: 0.1268
+      period: 14
+      power: 0.33437
+    timestamp: 1734235200
+    utcOffset: -8
+  - power: 10.42531
+    probability: 100
+    swells:
+    - direction: 271.95
+      directionMin: 266.965
+      height: 0.91864
+      impact: 0.1572
+      period: 7
+      power: 1.04716
+    - direction: 167.57
+      directionMin: 162.915
+      height: 0.55774
+      impact: 0.1556
+      period: 10
+      power: 0.84925
+    - direction: 199.84
+      directionMin: 195.82500000000002
+      height: 0.55774
+      impact: 0.2152
+      period: 13
+      power: 2.10728
+    - direction: 277.24
+      directionMin: 273.76
+      height: 0.85302
+      impact: 0.1599
+      period: 9
+      power: 1.71819
+    - direction: 275.6
+      directionMin: 271.91
+      height: 0.68898
+      impact: 0.1833
+      period: 17
+      power: 4.3555
+    - direction: 238.09
+      directionMin: 234.28
+      height: 0.26247
+      impact: 0.1289
+      period: 15
+      power: 0.34793
+    timestamp: 1734238800
+    utcOffset: -8
+  - power: 10.42477
+    probability: 100
+    swells:
+    - direction: 272.01
+      directionMin: 267.025
+      height: 0.88583
+      impact: 0.1528
+      period: 7
+      power: 0.94644
+    - direction: 167.52
+      directionMin: 162.9
+      height: 0.55774
+      impact: 0.1556
+      period: 10
+      power: 0.84752
+    - direction: 199.82
+      directionMin: 195.795
+      height: 0.55774
+      impact: 0.2154
+      period: 13
+      power: 2.11245
+    - direction: 277.38
+      directionMin: 273.915
+      height: 0.88583
+      impact: 0.1646
+      period: 9
+      power: 1.89045
+    - direction: 275.68
+      directionMin: 272.01
+      height: 0.68898
+      impact: 0.1828
+      period: 16
+      power: 4.28093
+    - direction: 237.89
+      directionMin: 234.135
+      height: 0.26247
+      impact: 0.1289
+      period: 15
+      power: 0.34698
+    timestamp: 1734242400
+    utcOffset: -8
+  - power: 13.54001
+    probability: 100
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.99
+      directionMin: 163.115
+      height: 0.59055
+      impact: 0.1729
+      period: 10
+      power: 1.06012
+    - direction: 200
+      directionMin: 196.06
+      height: 0.52493
+      impact: 0.2191
+      period: 13
+      power: 1.91498
+    - direction: 274.84
+      directionMin: 270.385
+      height: 1.24672
+      impact: 0.2299
+      period: 9
+      power: 5.16034
+    - direction: 275.83
+      directionMin: 272.18
+      height: 0.72178
+      impact: 0.2004
+      period: 16
+      power: 5.0386
+    - direction: 237.82
+      directionMin: 233.92
+      height: 0.26247
+      impact: 0.1367
+      period: 15
+      power: 0.36597
+    timestamp: 1734246000
+    utcOffset: -8
+  - power: 13.95518
+    probability: 66.66666666666666
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.96
+      directionMin: 163.09
+      height: 0.59055
+      impact: 0.1719
+      period: 10
+      power: 1.05184
+    - direction: 200.03
+      directionMin: 196.06
+      height: 0.52493
+      impact: 0.2181
+      period: 13
+      power: 1.91202
+    - direction: 275.03
+      directionMin: 270.625
+      height: 1.24672
+      impact: 0.2283
+      period: 9
+      power: 5.08994
+    - direction: 275.99
+      directionMin: 272.375
+      height: 0.75459
+      impact: 0.2055
+      period: 16
+      power: 5.54357
+    - direction: 237.91
+      directionMin: 234.17
+      height: 0.26247
+      impact: 0.1355
+      period: 15
+      power: 0.35781
+    timestamp: 1734249600
+    utcOffset: -8
+  - power: 14.04089
+    probability: 66.66666666666666
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.9
+      directionMin: 163.03
+      height: 0.59055
+      impact: 0.1703
+      period: 10
+      power: 1.03781
+    - direction: 199.93
+      directionMin: 196.02
+      height: 0.55774
+      impact: 0.2266
+      period: 13
+      power: 2.24941
+    - direction: 275.19
+      directionMin: 270.89
+      height: 1.24672
+      impact: 0.2263
+      period: 9
+      power: 5.03398
+    - direction: 276.29
+      directionMin: 272.665
+      height: 0.75459
+      impact: 0.2029
+      period: 16
+      power: 5.37877
+    - direction: 237.93
+      directionMin: 234.055
+      height: 0.26247
+      impact: 0.1333
+      period: 14
+      power: 0.34092
+    timestamp: 1734253200
+    utcOffset: -8
+  - power: 15.10467
+    probability: 66.66666666666666
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.87
+      directionMin: 163.01500000000001
+      height: 0.59055
+      impact: 0.1681
+      period: 10
+      power: 1.02231
+    - direction: 199.88
+      directionMin: 195.98499999999999
+      height: 0.55774
+      impact: 0.2241
+      period: 13
+      power: 2.2347
+    - direction: 275.17
+      directionMin: 271.02000000000004
+      height: 1.27953
+      impact: 0.2306
+      period: 9
+      power: 5.62493
+    - direction: 276.77
+      directionMin: 272.99
+      height: 0.7874
+      impact: 0.2068
+      period: 16
+      power: 5.90219
+    - direction: 237.48
+      directionMin: 233.74499999999998
+      height: 0.26247
+      impact: 0.1304
+      period: 14
+      power: 0.32054
+    timestamp: 1734256800
+    utcOffset: -8
+  - power: 18.65124
+    probability: 86.66666666666669
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 167.33
+      directionMin: 162.78
+      height: 0.55774
+      impact: 0.158
+      period: 10
+      power: 0.85884
+    - direction: 199.65
+      directionMin: 195.63500000000002
+      height: 0.55774
+      impact: 0.2197
+      period: 13
+      power: 2.18752
+    - direction: 276.08
+      directionMin: 272.115
+      height: 1.44357
+      impact: 0.2714
+      period: 11
+      power: 11.76115
+    - direction: 274.19
+      directionMin: 270.515
+      height: 0.65617
+      impact: 0.1752
+      period: 16
+      power: 3.43321
+    - direction: 238.06
+      directionMin: 234.355
+      height: 0.29528
+      impact: 0.1366
+      period: 14
+      power: 0.41052
+    timestamp: 1734260400
+    utcOffset: -8
+  - power: 24.35407
+    probability: 86.66666666666669
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 166.95
+      directionMin: 162.57999999999998
+      height: 0.55774
+      impact: 0.1749
+      period: 10
+      power: 0.94489
+    - direction: 199.37
+      directionMin: 195.305
+      height: 0.55774
+      impact: 0.2438
+      period: 13
+      power: 2.43481
+    - direction: 275.79
+      directionMin: 272.01000000000005
+      height: 1.70604
+      impact: 0.3437
+      period: 11
+      power: 20.53095
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 238.04
+      directionMin: 234.37
+      height: 0.29528
+      impact: 0.1506
+      period: 14
+      power: 0.44342
+    timestamp: 1734264000
+    utcOffset: -8
+  - power: 30.54066
+    probability: 86.66666666666669
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 166.9
+      directionMin: 162.54
+      height: 0.55774
+      impact: 0.1678
+      period: 10
+      power: 0.90467
+    - direction: 199.16
+      directionMin: 195.16
+      height: 0.55774
+      impact: 0.2345
+      period: 13
+      power: 2.35962
+    - direction: 275.57
+      directionMin: 271.93
+      height: 1.90289
+      impact: 0.3604
+      period: 11
+      power: 26.7328
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 237.34
+      directionMin: 233.53
+      height: 0.32808
+      impact: 0.1538
+      period: 13
+      power: 0.54357
+    timestamp: 1734267600
+    utcOffset: -8
+  - power: 38.39261
+    probability: 84
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 166.82
+      directionMin: 162.545
+      height: 0.55774
+      impact: 0.1658
+      period: 10
+      power: 0.8884
+    - direction: 199.69
+      directionMin: 195.31
+      height: 0.55774
+      impact: 0.2332
+      period: 13
+      power: 2.389
+    - direction: 275.18
+      directionMin: 271.615
+      height: 2.09974
+      impact: 0.3862
+      period: 11
+      power: 34.81418
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 236.7
+      directionMin: 232.83999999999997
+      height: 0.26247
+      impact: 0.1321
+      period: 13
+      power: 0.30103
+    timestamp: 1734271200
+    utcOffset: -8
+  - power: 40.34037
+    probability: 84
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 166.76
+      directionMin: 162.495
+      height: 0.55774
+      impact: 0.1425
+      period: 10
+      power: 0.76198
+    - direction: 199.12
+      directionMin: 195.125
+      height: 0.55774
+      impact: 0.2025
+      period: 14
+      power: 2.15554
+    - direction: 274.84
+      directionMin: 271.335
+      height: 2.19816
+      impact: 0.345
+      period: 11
+      power: 34.27755
+    - direction: 273.89
+      directionMin: 270.375
+      height: 0.62336
+      impact: 0.1538
+      period: 16
+      power: 2.81376
+    - direction: 238.02
+      directionMin: 234.10000000000002
+      height: 0.29528
+      impact: 0.1208
+      period: 13
+      power: 0.33154
+    timestamp: 1734274800
+    utcOffset: -8
+  - power: 46.93642
+    probability: 84
+    swells:
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 166.8
+      directionMin: 162.46
+      height: 0.55774
+      impact: 0.1381
+      period: 10
+      power: 0.73997
+    - direction: 198.95
+      directionMin: 194.815
+      height: 0.55774
+      impact: 0.1986
+      period: 14
+      power: 2.21078
+    - direction: 274.37
+      directionMin: 270.825
+      height: 2.3622
+      impact: 0.3546
+      period: 11
+      power: 40.83937
+    - direction: 273.64
+      directionMin: 270.175
+      height: 0.62336
+      impact: 0.149
+      period: 16
+      power: 2.72595
+    - direction: 237.59
+      directionMin: 233.74
+      height: 0.32808
+      impact: 0.1252
+      period: 13
+      power: 0.42035
+    timestamp: 1734278400
+    utcOffset: -8
+  - power: 48.87632
+    probability: 75.00000000000001
+    swells:
+    - direction: 236.06
+      directionMin: 232.585
+      height: 0.16404
+      impact: 0.0841
+      period: 16
+      power: 0.10935
+    - direction: 166.75
+      directionMin: 162.415
+      height: 0.55774
+      impact: 0.125
+      period: 10
+      power: 0.66703
+    - direction: 198.91
+      directionMin: 194.7
+      height: 0.55774
+      impact: 0.1812
+      period: 14
+      power: 2.06925
+    - direction: 273.99
+      directionMin: 270.36
+      height: 2.46063
+      impact: 0.3324
+      period: 11
+      power: 41.77384
+    - direction: 272.95
+      directionMin: 269.81
+      height: 0.72178
+      impact: 0.164
+      period: 16
+      power: 3.87878
+    - direction: 237.45
+      directionMin: 233.655
+      height: 0.32808
+      impact: 0.1133
+      period: 13
+      power: 0.37807
+    timestamp: 1734282000
+    utcOffset: -8
+  - power: 54.94625
+    probability: 75.00000000000001
+    swells:
+    - direction: 238
+      directionMin: 234.02
+      height: 0.3937
+      impact: 0.1455
+      period: 16
+      power: 1.01865
+    - direction: 166.74
+      directionMin: 162.41
+      height: 0.55774
+      impact: 0.1286
+      period: 10
+      power: 0.68341
+    - direction: 198.86
+      directionMin: 194.56
+      height: 0.55774
+      impact: 0.1875
+      period: 14
+      power: 2.18061
+    - direction: 273.72
+      directionMin: 270.105
+      height: 2.55906
+      impact: 0.3534
+      period: 11
+      power: 48.21733
+    - direction: 271.35
+      directionMin: 268.13500000000005
+      height: 0.62336
+      impact: 0.1529
+      period: 16
+      power: 2.84625
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734285600
+    utcOffset: -8
+  - power: 56.01295
+    probability: 75.00000000000001
+    swells:
+    - direction: 236.29
+      directionMin: 231.945
+      height: 0.29528
+      impact: 0.108
+      period: 16
+      power: 0.421
+    - direction: 166.69
+      directionMin: 162.375
+      height: 0.55774
+      impact: 0.1161
+      period: 10
+      power: 0.61571
+    - direction: 198.87
+      directionMin: 194.46
+      height: 0.55774
+      impact: 0.1702
+      period: 14
+      power: 2.01272
+    - direction: 273.16
+      directionMin: 269.46000000000004
+      height: 2.52625
+      impact: 0.3438
+      period: 11
+      power: 46.05521
+    - direction: 273.79
+      directionMin: 270.555
+      height: 0.95144
+      impact: 0.1719
+      period: 15
+      power: 6.71956
+    - direction: 239.74
+      directionMin: 236.38500000000002
+      height: 0.29528
+      impact: 0.0901
+      period: 11
+      power: 0.18875
+    timestamp: 1734289200
+    utcOffset: -8
+  - power: 58.87294
+    probability: 59.99999999999999
+    swells:
+    - direction: 238.42
+      directionMin: 234.39
+      height: 0.42651
+      impact: 0.1388
+      period: 16
+      power: 1.1088
+    - direction: 166.67
+      directionMin: 162.36499999999998
+      height: 0.55774
+      impact: 0.1165
+      period: 10
+      power: 0.614
+    - direction: 198.91
+      directionMin: 194.375
+      height: 0.52493
+      impact: 0.1639
+      period: 15
+      power: 1.73837
+    - direction: 272.92
+      directionMin: 269.14000000000004
+      height: 2.49344
+      impact: 0.3425
+      period: 11
+      power: 45.11462
+    - direction: 273.2
+      directionMin: 270.19
+      height: 1.11549
+      impact: 0.2092
+      period: 15
+      power: 10.29715
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734292800
+    utcOffset: -8
+  - power: 61.99942
+    probability: 59.99999999999999
+    swells:
+    - direction: 238.47
+      directionMin: 234.465
+      height: 0.45932
+      impact: 0.1406
+      period: 15
+      power: 1.16067
+    - direction: 166.63
+      directionMin: 162.325
+      height: 0.52493
+      impact: 0.1099
+      period: 10
+      power: 0.51095
+    - direction: 199
+      directionMin: 194.325
+      height: 0.52493
+      impact: 0.1624
+      period: 15
+      power: 1.73672
+    - direction: 272.62
+      directionMin: 268.74
+      height: 2.52625
+      impact: 0.3435
+      period: 11
+      power: 47.13678
+    - direction: 273.21
+      directionMin: 270.245
+      height: 1.1811
+      impact: 0.2148
+      period: 14
+      power: 11.4543
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734296400
+    utcOffset: -8
+  - power: 64.69452
+    probability: 59.99999999999999
+    swells:
+    - direction: 238.46
+      directionMin: 234.485
+      height: 0.49213
+      impact: 0.1428
+      period: 14
+      power: 1.27856
+    - direction: 166.71
+      directionMin: 162.4
+      height: 0.52493
+      impact: 0.1076
+      period: 10
+      power: 0.49818
+    - direction: 199.27
+      directionMin: 194.495
+      height: 0.52493
+      impact: 0.1593
+      period: 15
+      power: 1.71058
+    - direction: 272.39
+      directionMin: 268.395
+      height: 2.52625
+      impact: 0.3385
+      period: 11
+      power: 47.48286
+    - direction: 273.3
+      directionMin: 270.375
+      height: 1.27953
+      impact: 0.2236
+      period: 14
+      power: 13.72434
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734300000
+    utcOffset: -8
+  - power: 63.76926
+    probability: 66.44444444444446
+    swells:
+    - direction: 237.43
+      directionMin: 233.02
+      height: 0.52493
+      impact: 0.1402
+      period: 14
+      power: 1.40029
+    - direction: 167.02
+      directionMin: 162.535
+      height: 0.52493
+      impact: 0.1011
+      period: 10
+      power: 0.46516
+    - direction: 195.21
+      directionMin: 190.745
+      height: 0.3937
+      impact: 0.123
+      period: 15
+      power: 0.78415
+    - direction: 272.22
+      directionMin: 268.105
+      height: 2.52625
+      impact: 0.3208
+      period: 11
+      power: 46.23791
+    - direction: 273.47
+      directionMin: 270.57000000000005
+      height: 1.34514
+      impact: 0.2184
+      period: 14
+      power: 14.6094
+    - direction: 202.62
+      directionMin: 199.81
+      height: 0.32808
+      impact: 0.0967
+      period: 12
+      power: 0.27235
+    timestamp: 1734303600
+    utcOffset: -8
+  - power: 70.7401
+    probability: 66.44444444444446
+    swells:
+    - direction: 238.55
+      directionMin: 234.625
+      height: 0.52493
+      impact: 0.1454
+      period: 14
+      power: 1.44811
+    - direction: 166.69
+      directionMin: 162.41
+      height: 0.52493
+      impact: 0.1067
+      period: 10
+      power: 0.48479
+    - direction: 199.58
+      directionMin: 194.55
+      height: 0.49213
+      impact: 0.1511
+      period: 15
+      power: 1.41631
+    - direction: 272.58
+      directionMin: 268.41499999999996
+      height: 2.59186
+      impact: 0.3488
+      period: 11
+      power: 54.1626
+    - direction: 272.19
+      directionMin: 269.465
+      height: 1.24672
+      impact: 0.2199
+      period: 15
+      power: 13.22829
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    timestamp: 1734307200
+    utcOffset: -8
+  - power: 73.87142
+    probability: 66.44444444444446
+    swells:
+    - direction: 237.53
+      directionMin: 233.16
+      height: 0.55774
+      impact: 0.1547
+      period: 14
+      power: 1.71227
+    - direction: 166.68
+      directionMin: 162.405
+      height: 0.52493
+      impact: 0.1058
+      period: 9
+      power: 0.46566
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 272.6
+      directionMin: 268.38500000000005
+      height: 2.62467
+      impact: 0.3543
+      period: 11
+      power: 57.62722
+    - direction: 272.28
+      directionMin: 269.55499999999995
+      height: 1.24672
+      impact: 0.2197
+      period: 15
+      power: 13.14379
+    - direction: 198.18
+      directionMin: 193.705
+      height: 0.49213
+      impact: 0.1372
+      period: 12
+      power: 0.92248
+    timestamp: 1734310800
+    utcOffset: -8
+  - power: 62.3331
+    probability: 87.1111111111111
+    swells:
+    - direction: 237.54
+      directionMin: 233.185
+      height: 0.55774
+      impact: 0.1566
+      period: 14
+      power: 1.66939
+    - direction: 166.71
+      directionMin: 162.435
+      height: 0.52493
+      impact: 0.1075
+      period: 9
+      power: 0.46209
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 271.49
+      directionMin: 267.145
+      height: 2.3294
+      impact: 0.3187
+      period: 11
+      power: 36.0285
+    - direction: 274.64
+      directionMin: 271.53499999999997
+      height: 1.73885
+      impact: 0.255
+      period: 13
+      power: 23.39179
+    - direction: 198.18
+      directionMin: 193.68
+      height: 0.45932
+      impact: 0.1334
+      period: 12
+      power: 0.78133
+    timestamp: 1734314400
+    utcOffset: -8
+  - power: 123.07709
+    probability: 87.1111111111111
+    swells:
+    - direction: 237.94
+      directionMin: 233.755
+      height: 0.55774
+      impact: 0.1774
+      period: 13
+      power: 1.78238
+    - direction: 166.71
+      directionMin: 162.44
+      height: 0.52493
+      impact: 0.1231
+      period: 9
+      power: 0.5189
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 272.69
+      directionMin: 268.645
+      height: 2.88714
+      impact: 0.4784
+      period: 13
+      power: 119.86119
+    - direction: 198.83
+      directionMin: 193.98000000000002
+      height: 0.45932
+      impact: 0.1549
+      period: 12
+      power: 0.91462
+    timestamp: 1734318000
+    utcOffset: -8
+  - power: 122.7227
+    probability: 87.1111111111111
+    swells:
+    - direction: 237.35
+      directionMin: 232.945
+      height: 0.55774
+      impact: 0.1786
+      period: 13
+      power: 1.78905
+    - direction: 166.56
+      directionMin: 162.415
+      height: 0.49213
+      impact: 0.1174
+      period: 9
+      power: 0.42456
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 272.81
+      directionMin: 268.755
+      height: 2.88714
+      impact: 0.4809
+      period: 13
+      power: 119.55101
+    - direction: 197.65
+      directionMin: 193.27
+      height: 0.45932
+      impact: 0.1564
+      period: 13
+      power: 0.95808
+    timestamp: 1734321600
+    utcOffset: -8
+  - power: 117.27856
+    probability: 96.66666666666669
+    swells:
+    - direction: 237.35
+      directionMin: 232.94
+      height: 0.55774
+      impact: 0.1787
+      period: 13
+      power: 1.76321
+    - direction: 166.79
+      directionMin: 162.5
+      height: 0.49213
+      impact: 0.1179
+      period: 9
+      power: 0.42543
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 272.94
+      directionMin: 268.87
+      height: 2.85433
+      impact: 0.4768
+      period: 13
+      power: 114.04862
+    - direction: 197.66
+      directionMin: 193.25
+      height: 0.45932
+      impact: 0.1597
+      period: 13
+      power: 1.0413
+    timestamp: 1734325200
+    utcOffset: -8
+  - power: 108.98116
+    probability: null
+    swells:
+    - direction: 238.02
+      directionMin: 233.88500000000002
+      height: 0.52493
+      impact: 0.1725
+      period: 13
+      power: 1.46456
+    - direction: 166.9
+      directionMin: 162.595
+      height: 0.49213
+      impact: 0.1194
+      period: 9
+      power: 0.42419
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 273.1
+      directionMin: 269.005
+      height: 2.82152
+      impact: 0.4749
+      period: 12
+      power: 105.98258
+    - direction: 198.69
+      directionMin: 193.745
+      height: 0.45932
+      impact: 0.1651
+      period: 13
+      power: 1.10983
+    timestamp: 1734328800
+    utcOffset: -8
+  - power: 103.47399
+    probability: null
+    swells:
+    - direction: 238
+      directionMin: 233.88
+      height: 0.52493
+      impact: 0.173
+      period: 13
+      power: 1.44182
+    - direction: 166.96
+      directionMin: 162.64000000000001
+      height: 0.49213
+      impact: 0.1202
+      period: 9
+      power: 0.42418
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 0
+      directionMin: 0
+      height: 0
+      impact: 0
+      period: 0
+      power: 0
+    - direction: 273.21
+      directionMin: 269.065
+      height: 2.78871
+      impact: 0.4715
+      period: 12
+      power: 100.48298
+    - direction: 198.56
+      directionMin: 193.595
+      height: 0.45932
+      impact: 0.1666
+      period: 13
+      power: 1.12501
+    timestamp: 1734332400
+    utcOffset: -8
+permissions:
+  data: []
+  violations:
+  - code: 4001
+    message: User does not have optional permission:sl_core-16day-forecast
+    permission:
+      name: sl_core-16day-forecast
+      required: false
