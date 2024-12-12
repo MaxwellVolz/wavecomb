@@ -5,34 +5,6 @@ from datetime import datetime
 test_file = "surfline_data/1733983398/surf.yaml"
 
 
-# file format:
-#
-# associated:
-# ...
-# data:
-#   surf:
-#   - surf:
-#       humanRelation: Waist to chest
-#       max: 4
-#       min: 3
-#       plus: false
-#       raw:
-#         max: 4.00098
-#         min: 2.28068
-#     timestamp: 1733904000
-#     utcOffset: -8
-#   - surf:
-#       humanRelation: Waist to chest
-#       max: 4
-#       min: 3
-#       plus: false
-#       raw:
-#         max: 3.90108
-#         min: 2.24483
-#     timestamp: 1733907600
-#     utcOffset: -8
-
-
 # Open and read the YAML file
 with open(test_file, "r") as file:
     data = yaml.safe_load(file)
@@ -49,9 +21,12 @@ timestamps = [
     + f" ({surf['surf']['humanRelation']})"
     for surf in surf_data
 ]
-min_values = [surf["surf"]["min"] for surf in surf_data]
-# max_values = [surf["surf"]["max"] for surf in surf_data]
-max_values = [surf["surf"]["max"] - surf["surf"]["min"] for surf in surf_data]
+min_values = [surf["surf"]["raw"]["min"] for surf in surf_data]
+max_values = [surf["surf"]["raw"]["max"] for surf in surf_data]
+diff_values = [
+    surf["surf"]["raw"]["max"] - surf["surf"]["raw"]["min"] for surf in surf_data
+]
+
 
 fig = go.Figure(
     data=[
@@ -59,8 +34,7 @@ fig = go.Figure(
         go.Bar(name="Max", x=timestamps, y=max_values),
     ]
 )
-
-# Change the bar mode to stack
+# bar mode to stack
 fig.update_layout(
     barmode="stack",
     title="Surf Wave Data",
@@ -69,3 +43,36 @@ fig.update_layout(
 )
 
 fig.show()
+
+fig2 = go.Figure(
+    data=[
+        go.Scatter(
+            name="Max",
+            x=timestamps,
+            y=max_values,
+            line_color="rgb(22,169,250)",
+            mode="lines+markers",
+            fill="tozeroy",
+            line_shape="spline",
+        ),
+        go.Scatter(
+            name="Min",
+            x=timestamps,
+            y=min_values,
+            line_color="rgb(22,57,250)",
+            mode="lines+markers",
+            fill="tozeroy",
+            line_shape="spline",
+        ),
+    ]
+)
+
+# Update layout for the line chart
+fig2.update_layout(
+    title="Surf Wave Data",
+    xaxis_title="Timestamp and Human Relation",
+    yaxis_title="Wave Height (min and max values)",
+)
+
+
+fig2.show()
