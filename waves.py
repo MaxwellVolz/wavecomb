@@ -1,28 +1,59 @@
-import streamlit as st
-from wave_data import plot_waves, get_wave_data
-from tides import plot_tides, get_tides_data
-import os
-from utils import get_folders
+import yaml
+import pandas as pd
+from datetime import datetime
+import plotly.express as px
 
-st.markdown("## Wave Data")
 
-file_options = get_folders()
-test_file = st.selectbox("Select Test File:", file_options)
+# Function to get data from a YAML file
+def get_wave_data(file_path):
 
-file_selection = f"surfline_data\{test_file}\\"
-wave_data = get_wave_data(f"{file_selection}surf.yaml")
+    with open(file_path, "r") as file:
+        data = yaml.safe_load(file)
+    surf_data = data["data"]["surf"]
 
-plot_waves_fig = plot_waves(wave_data)
+    # Example
+    # Timestamp Min Max 0 2024-12-11 00:00:00 (Waist to chest) 2.28068 4.00098 1 2024-12-11 01:00:00 (Waist to chest) 2.24483 3.90108 2 2024-12-11 02:00:00 (Waist to chest) 2.20899 3.83399
+    # Convert timestamps to datetime objects directly
+    timestamps = [datetime.fromtimestamp(surf["timestamp"]) for surf in surf_data]
 
-st.plotly_chart(plot_waves_fig)
+    min_values = [surf["surf"]["raw"]["min"] for surf in surf_data]
+    max_values = [surf["surf"]["raw"]["max"] for surf in surf_data]
+    human_txt = [surf["surf"]["humanRelation"] for surf in surf_data]
 
-if st.button("Show Dataframe"):
-    st.dataframe(wave_data, use_container_width=True)
+    return pd.DataFrame(
+        {
+            "Timestamp": timestamps,
+            "Min": min_values,
+            "Max": max_values,
+            "Human": human_txt,
+        }
+    )
 
-st.markdown("---")
 
-st.markdown("## Tides Data")
+def plot_waves(surf_data):
+    fig = px.line(
+        surf_data,
+        x="Timestamp",
+        y=["Min", "Max"],
+        title=None,
+        labels={"Timestamp": "Day", "y-axis": "T"},
+    )
+    fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), showlegend=False)
+    fig.update_xaxes(
+        tickmode="array",
+        tickvals=pd.date_range(
+            surf_data["Timestamp"].min(), surf_data["Timestamp"].max(), freq="1d"
+        ),
+        tickformat="%d",
+    )
 
-tides_data = get_tides_data(f"{file_selection}tides.yaml")
+    day_starts = pd.date_range(
+        start=surf_data["Timestamp"].min(),
+        end=surf_data["Timestamp"].max(),
+        freq="D",
+    )
 
-st.dataframe(tides_data, use_container_width=True)
+    for day in day_starts:
+        fig.add_vline(x=day, line_width=2, line_dash="dash", line_color="black")
+
+    return fig
