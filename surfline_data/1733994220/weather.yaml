@@ -6,16 +6,6 @@ associated:
   weatherIconPath: https://wa.cdn-surfline.com/quiver/0.21.2/weathericons
 data:
   sunlightTimes:
-  - dawn: 1733926830
-    dawnUTCOffset: -8
-    dusk: 1733965984
-    duskUTCOffset: -8
-    midnight: 1733904000
-    midnightUTCOffset: -8
-    sunrise: 1733928481
-    sunriseUTCOffset: -8
-    sunset: 1733964332
-    sunsetUTCOffset: -8
   - dawn: 1734013270
     dawnUTCOffset: -8
     dusk: 1734052398
@@ -166,127 +156,17 @@ data:
     sunriseUTCOffset: -8
     sunset: 1735260703
     sunsetUTCOffset: -8
+  - dawn: 1735309728
+    dawnUTCOffset: -8
+    dusk: 1735348795
+    duskUTCOffset: -8
+    midnight: 1735286400
+    midnightUTCOffset: -8
+    sunrise: 1735311384
+    sunriseUTCOffset: -8
+    sunset: 1735347140
+    sunsetUTCOffset: -8
   weather:
-  - condition: NIGHT_CLEAR
-    pressure: 1024
-    temperature: 56.57
-    timestamp: 1733904000
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1023
-    temperature: 56.336
-    timestamp: 1733907600
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1022
-    temperature: 55.832
-    timestamp: 1733911200
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1023
-    temperature: 53.348
-    timestamp: 1733914800
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1021
-    temperature: 52.286
-    timestamp: 1733918400
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1021
-    temperature: 51.404
-    timestamp: 1733922000
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1021
-    temperature: 50.378
-    timestamp: 1733925600
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1022
-    temperature: 50.324
-    timestamp: 1733929200
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1022
-    temperature: 51.206
-    timestamp: 1733932800
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1022
-    temperature: 54.644
-    timestamp: 1733936400
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1021
-    temperature: 60.764
-    timestamp: 1733940000
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1019
-    temperature: 64.022
-    timestamp: 1733943600
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1018
-    temperature: 65.768
-    timestamp: 1733947200
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1018
-    temperature: 67.514
-    timestamp: 1733950800
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1016
-    temperature: 67.46
-    timestamp: 1733954400
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1016
-    temperature: 65.552
-    timestamp: 1733958000
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1015
-    temperature: 62.006
-    timestamp: 1733961600
-    utcOffset: -8
-  - condition: CLEAR
-    pressure: 1015
-    temperature: 60.836
-    timestamp: 1733965200
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1016
-    temperature: 60.782
-    timestamp: 1733968800
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1016
-    temperature: 59.234
-    timestamp: 1733972400
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1016
-    temperature: 58.406
-    timestamp: 1733976000
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1016
-    temperature: 57.812
-    timestamp: 1733979600
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1015
-    temperature: 57.92
-    timestamp: 1733983200
-    utcOffset: -8
-  - condition: NIGHT_CLEAR
-    pressure: 1015
-    temperature: 57.542
-    timestamp: 1733986800
-    utcOffset: -8
   - condition: NIGHT_CLEAR
     pressure: 1014
     temperature: 54.86
@@ -2086,6 +1966,126 @@ data:
     pressure: 1019
     temperature: 58.0363
     timestamp: 1735282800
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 58.0363
+    timestamp: 1735286400
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 57.42078
+    timestamp: 1735290000
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 57.42078
+    timestamp: 1735293600
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 57.42078
+    timestamp: 1735297200
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 56.95503
+    timestamp: 1735300800
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 56.95503
+    timestamp: 1735304400
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1019
+    temperature: 56.95503
+    timestamp: 1735308000
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1020
+    temperature: 56.51403
+    timestamp: 1735311600
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1020
+    temperature: 56.51403
+    timestamp: 1735315200
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1020
+    temperature: 56.51403
+    timestamp: 1735318800
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735322400
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735326000
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735329600
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735333200
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735336800
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735340400
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735344000
+    utcOffset: -8
+  - condition: CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735347600
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735351200
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735354800
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735358400
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735362000
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735365600
+    utcOffset: -8
+  - condition: NIGHT_CLEAR
+    pressure: 1023
+    temperature: 61.40894
+    timestamp: 1735369200
     utcOffset: -8
 permissions:
   data: []

@@ -1,22 +1,20 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-from parse_data import plot_waves, get_data
-import datetime
+from wave_data import plot_waves, get_wave_data
+import os
+from utils import get_folders
 
-st.title("Wave Data")
+st.markdown("## Wave Data")
 
-test_file = "surfline_data/1733983398/surf.yaml"
+file_options = get_folders()
+test_file = st.selectbox("Select Test File:", file_options)
 
-surf_data = get_data(test_file)
+wave_data = get_wave_data(f"surfline_data\{test_file}\surf.yaml")
 
-# Example
-# Timestamp Min Max 0 2024-12-11 00:00:00 (Waist to chest) 2.28068 4.00098 1 2024-12-11 01:00:00 (Waist to chest) 2.24483 3.90108 2 2024-12-11 02:00:00 (Waist to chest) 2.20899 3.83399
-
-st.dataframe(surf_data, use_container_width=True)
-
-plot_waves_fig = plot_waves(surf_data)
-
+plot_waves_fig = plot_waves(wave_data)
 
 st.plotly_chart(plot_waves_fig)
+
+if st.button("Show Dataframe"):
+    st.dataframe(wave_data, use_container_width=True)
+
+st.markdown("---")

@@ -48,3 +48,6 @@ def get_all_data():
             yaml.dump(yaml_data, yaml_file, allow_unicode=True)
 
     print(yaml_data)
+
+
+get_all_data()

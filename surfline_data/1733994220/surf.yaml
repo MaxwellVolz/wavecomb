@@ -11,246 +11,6 @@ associated:
 data:
   surf:
   - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 4.00098
-        min: 2.28068
-    timestamp: 1733904000
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 3.90108
-        min: 2.24483
-    timestamp: 1733907600
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 3.83399
-        min: 2.20899
-    timestamp: 1733911200
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 3.7669
-        min: 2.17315
-    timestamp: 1733914800
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.6998
-        min: 2.10449
-    timestamp: 1733918400
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.5999
-        min: 2.06865
-    timestamp: 1733922000
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.5
-        min: 2
-    timestamp: 1733925600
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.5
-        min: 2
-    timestamp: 1733929200
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.58193
-        min: 2.11474
-    timestamp: 1733932800
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.69666
-        min: 2.19666
-    timestamp: 1733936400
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 4.10667
-        min: 2.63948
-    timestamp: 1733940000
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 4.22141
-        min: 2.75422
-    timestamp: 1733943600
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to shoulder
-      max: 4
-      min: 3
-      plus: true
-      raw:
-        max: 4.33615
-        min: 2.83615
-    timestamp: 1733947200
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to shoulder
-      max: 4
-      min: 3
-      plus: true
-      raw:
-        max: 4.41807
-        min: 2.95088
-    timestamp: 1733950800
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to shoulder
-      max: 4
-      min: 3
-      plus: true
-      raw:
-        max: 4.5
-        min: 3
-    timestamp: 1733954400
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to shoulder
-      max: 4
-      min: 3
-      plus: true
-      raw:
-        max: 4.5
-        min: 3
-    timestamp: 1733958000
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to shoulder
-      max: 4
-      min: 3
-      plus: true
-      raw:
-        max: 4.34919
-        min: 2.92224
-    timestamp: 1733961600
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 4.19838
-        min: 2.81168
-    timestamp: 1733965200
-    utcOffset: -8
-  - surf:
-      humanRelation: Waist to chest
-      max: 4
-      min: 3
-      plus: false
-      raw:
-        max: 4.08038
-        min: 2.70112
-    timestamp: 1733968800
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.56868
-        min: 2.22966
-    timestamp: 1733972400
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.45068
-        min: 2.18471
-    timestamp: 1733976000
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to stomach
-      max: 3
-      min: 2
-      plus: true
-      raw:
-        max: 3.36549
-        min: 2.13976
-    timestamp: 1733979600
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to waist
-      max: 3
-      min: 2
-      plus: false
-      raw:
-        max: 3.24748
-        min: 2.0292
-    timestamp: 1733983200
-    utcOffset: -8
-  - surf:
-      humanRelation: Thigh to waist
-      max: 3
-      min: 2
-      plus: false
-      raw:
-        max: 3.12948
-        min: 1.95144
-    timestamp: 1733986800
-    utcOffset: -8
-  - surf:
       humanRelation: Thigh to waist
       max: 3
       min: 2
@@ -1209,6 +969,246 @@ data:
         max: 3.44488
         min: 2.42782
     timestamp: 1734332400
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 3.1168
+        min: 2.09974
+    timestamp: 1734336000
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to stomach
+      max: 3
+      min: 2
+      plus: true
+      raw:
+        max: 3.5105
+        min: 2.49344
+    timestamp: 1734339600
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to stomach
+      max: 3
+      min: 2
+      plus: true
+      raw:
+        max: 3.41207
+        min: 2.42782
+    timestamp: 1734343200
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to stomach
+      max: 3
+      min: 2
+      plus: true
+      raw:
+        max: 3.34646
+        min: 2.3622
+    timestamp: 1734346800
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to stomach
+      max: 3
+      min: 2
+      plus: true
+      raw:
+        max: 3.28084
+        min: 2.29659
+    timestamp: 1734350400
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 3.21522
+        min: 2.23097
+    timestamp: 1734354000
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 3.14961
+        min: 2.16535
+    timestamp: 1734357600
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 3.08399
+        min: 2.06693
+    timestamp: 1734361200
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 3.01837
+        min: 2.00131
+    timestamp: 1734364800
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.95276
+        min: 1.9357
+    timestamp: 1734368400
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.85433
+        min: 1.87008
+    timestamp: 1734372000
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.78871
+        min: 1.80446
+    timestamp: 1734375600
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.7231
+        min: 1.70604
+    timestamp: 1734379200
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.65748
+        min: 1.64042
+    timestamp: 1734382800
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.59186
+        min: 1.5748
+    timestamp: 1734386400
+    utcOffset: -8
+  - surf:
+      humanRelation: Thigh to waist
+      max: 3
+      min: 2
+      plus: false
+      raw:
+        max: 2.52625
+        min: 1.50919
+    timestamp: 1734390000
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.46063
+        min: 1.47638
+    timestamp: 1734393600
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.42782
+        min: 1.41076
+    timestamp: 1734397200
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.39501
+        min: 1.41076
+    timestamp: 1734400800
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.3622
+        min: 1.37795
+    timestamp: 1734404400
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.3294
+        min: 1.31234
+    timestamp: 1734408000
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.29659
+        min: 1.31234
+    timestamp: 1734411600
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.29659
+        min: 1.31234
+    timestamp: 1734415200
+    utcOffset: -8
+  - surf:
+      humanRelation: Knee to thigh
+      max: 2
+      min: 1
+      plus: false
+      raw:
+        max: 2.3294
+        min: 1.34514
+    timestamp: 1734418800
     utcOffset: -8
 permissions:
   data: []

@@ -5,11 +5,14 @@ import plotly.express as px
 
 
 # Function to get data from a YAML file
-def get_data(file_path):
+def get_wave_data(file_path):
+
     with open(file_path, "r") as file:
         data = yaml.safe_load(file)
     surf_data = data["data"]["surf"]
 
+    # Example
+    # Timestamp Min Max 0 2024-12-11 00:00:00 (Waist to chest) 2.28068 4.00098 1 2024-12-11 01:00:00 (Waist to chest) 2.24483 3.90108 2 2024-12-11 02:00:00 (Waist to chest) 2.20899 3.83399
     # Convert timestamps to datetime objects directly
     timestamps = [datetime.fromtimestamp(surf["timestamp"]) for surf in surf_data]
 
@@ -25,9 +28,6 @@ def get_data(file_path):
             "Human": human_txt,
         }
     )
-
-
-# Now you can use this function to load and handle data effectively.
 
 
 def plot_waves(surf_data):

@@ -4,16 +4,6 @@ associated:
     lon: -117.95939
 data:
   sunlight:
-  - dawn: 1733926830
-    dawnUTCOffset: -8
-    dusk: 1733965984
-    duskUTCOffset: -8
-    midnight: 1733904000
-    midnightUTCOffset: -8
-    sunrise: 1733928481
-    sunriseUTCOffset: -8
-    sunset: 1733964332
-    sunsetUTCOffset: -8
   - dawn: 1734013270
     dawnUTCOffset: -8
     dusk: 1734052398
@@ -163,6 +153,16 @@ data:
     sunrise: 1735224964
     sunriseUTCOffset: -8
     sunset: 1735260703
+    sunsetUTCOffset: -8
+  - dawn: 1735309728
+    dawnUTCOffset: -8
+    dusk: 1735348795
+    duskUTCOffset: -8
+    midnight: 1735286400
+    midnightUTCOffset: -8
+    sunrise: 1735311384
+    sunriseUTCOffset: -8
+    sunset: 1735347140
     sunsetUTCOffset: -8
 permissions:
   data: []
