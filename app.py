@@ -1,7 +1,6 @@
 import streamlit as st
 from waves import plot_waves, get_wave_data
 from tides import plot_tides, get_tides_data
-import os
 from utils import get_folders
 
 st.set_page_config(page_title="Your Page Title", layout="wide")

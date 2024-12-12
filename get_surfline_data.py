@@ -47,7 +47,7 @@ def get_all_data():
         with open(f"{directory}/{key}.yaml", "w") as yaml_file:
             yaml.dump(yaml_data, yaml_file, allow_unicode=True)
 
-    print(yaml_data)
+    # print(yaml_data)
 
 
 get_all_data()
