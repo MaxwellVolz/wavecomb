@@ -16,26 +16,7 @@ surf_data = get_data(test_file)
 
 st.dataframe(surf_data, use_container_width=True)
 
-fig = px.line(
-    surf_data, x="Timestamp", y=["Min", "Max"], title="Wave Heights Over Time"
-)
-
-fig.update_xaxes(
-    tickmode="array",
-    tickvals=pd.date_range(
-        surf_data["Timestamp"].min(), surf_data["Timestamp"].max(), freq="1d"
-    ),
-    tickformat="%d",
-)
-
-day_starts = pd.date_range(
-    start=surf_data["Timestamp"].min(),
-    end=surf_data["Timestamp"].max(),
-    freq="D",
-)
-
-for day in day_starts:
-    fig.add_vline(x=day, line_width=2, line_dash="dash", line_color="black")
+plot_waves_fig = plot_waves(surf_data)
 
 
-st.plotly_chart(fig)
+st.plotly_chart(plot_waves_fig)

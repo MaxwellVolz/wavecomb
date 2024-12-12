@@ -1,6 +1,7 @@
 import yaml
 import pandas as pd
 from datetime import datetime
+import plotly.express as px
 
 
 # Function to get data from a YAML file
@@ -29,6 +30,26 @@ def get_data(file_path):
 # Now you can use this function to load and handle data effectively.
 
 
-def plot_waves():
+def plot_waves(surf_data):
+    fig = px.line(
+        surf_data, x="Timestamp", y=["Min", "Max"], title="Wave Heights Over Time"
+    )
 
-    return
+    fig.update_xaxes(
+        tickmode="array",
+        tickvals=pd.date_range(
+            surf_data["Timestamp"].min(), surf_data["Timestamp"].max(), freq="1d"
+        ),
+        tickformat="%d",
+    )
+
+    day_starts = pd.date_range(
+        start=surf_data["Timestamp"].min(),
+        end=surf_data["Timestamp"].max(),
+        freq="D",
+    )
+
+    for day in day_starts:
+        fig.add_vline(x=day, line_width=2, line_dash="dash", line_color="black")
+
+    return fig
